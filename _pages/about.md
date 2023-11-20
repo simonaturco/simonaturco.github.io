@@ -20,7 +20,8 @@ Since 2018, I am the designer and responsible teacher for the course Statistical
 
 Background
 ======
-I obtained my BSc and  MSc in Biomedical Engineering from the University of Pisa (Italy), both summa cum laude. My master graduation project was carried out at Philips Research (Eindhoven, the Netherlands). In 2015, I obtained a professional doctorate in engineering (PDEng) in Healthcare system design from the Stan Ackermans Institute at the Eindhoven University of Technology, which was awarded best project in designer program in Electrical Engineering. In 2018, I also completed my Phd at the Eindhoven University of Techonology, with thesis entitled “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”. Both my PDEng and PhD were carried out at the Biomedical Diagnostics (BM/d) lab. Here, after a short post-doctoral fellowship, I became assistant professor in statistical processing of biosignals. 
+I obtained my BSc and  MSc in Biomedical Engineering from the University of Pisa (Italy), both summa cum laude. My master graduation project was carried out at Philips Research (Eindhoven, the Netherlands). In 2015, I obtained a professional doctorate in engineering (PDEng) in Healthcare system design from the Stan Ackermans Institute at the Eindhoven University of Technology, which was awarded best project in designer program in Electrical Engineering. In 2018, I also completed my Phd at the Eindhoven University of Techonology, with thesis entitled “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”. Both my PDEng and PhD were carried out at the Biomedical Diagnostics (BM/d) lab. Here, after a short post-doctoral fellowship, I became assistant professor in statistical processing of biosignals.
+
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
