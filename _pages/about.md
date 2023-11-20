@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am assitant professor at the [Biomedical Diagnostics lab](https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab), which is part of the [Signal Processing Systems](https://www.tue.nl/en/research/research-groups/signal-processing-systems) group of the Electrical Engineering department at the [Eindhoven University of Techonology](https://www.tue.nl/en/).
-
-The focus of my research is model-based quantitative analysis of medical images and biosignals, with application ranging from cancer imaging to perioperative care and hemodynamic monitoring. My main areas of expertise include signal processing, medical imaging, physiological modeling, and statistical learning. My career dream is to translate meaningful biomedical research into clinical practice.
+I assitant professor of statistical processing of biosignals at the [Biomedical Diagnostics lab](https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab), which is part of the [Signal Processing Systems](https://www.tue.nl/en/research/research-groups/signal-processing-systems) group of the Electrical Engineering department at the [Eindhoven University of Techonology](https://www.tue.nl/en/).
 
 Research
 ======
-My research is devoted to quantitative model-driven analysis of medical images and biosignals, with focus on oncology and perioperative care. As cancer growth and aggressiveness relate to angiogenesis, i.e., the formation of chaotic network of leaky microvessels, her research in cancer diagnostics is devoted to developing novel imaging solutions for assessment of angiogenesis. To go beyond structural imaging, ultrasound and MRI dynamic imaging with injection of contrast agents are used to extract structural, functional, and molecular information on angiogenic vasculature at different spatial and temporal scales. In the context of perioperative monitoring, I focus on model-based analysis of biosignals for accurate prognosis and timely identification of patients at risk. By combining model-based feature extraction with data-driven approaches for optimal feature selection, I aim at developing effective risk prediction models to support clinical decision making. In general, I strive to facilitate the translation of research, driven by industrial and clinical needs, through tight collaborations with top healthcare partners.
+My research is devoted to quantitative model-driven analysis of medical images and biosignals,  with application ranging from cancer imaging to perioperative care and hemodynamic monitoring. As cancer growth and aggressiveness relate to angiogenesis, i.e., the formation of chaotic network of leaky microvessels, her research in cancer diagnostics is devoted to developing novel imaging solutions for assessment of angiogenesis. To go beyond structural imaging, ultrasound and MRI dynamic imaging with injection of contrast agents are used to extract structural, functional, and molecular information on angiogenic vasculature at different spatial and temporal scales. In the context of perioperative monitoring, I focus on model-based analysis of biosignals for accurate prognosis and timely identification of patients at risk. By combining model-based feature extraction with data-driven approaches for optimal feature selection, I aim at developing effective risk prediction models to support clinical decision making. In general, I strive to facilitate the translation of research, driven by industrial and clinical needs, through tight collaborations with top healthcare partners.
+
+Teaching
+======
+Since 2018, I am the designer and responsible teacher for the course Statistical Signal Processing, which is part of the master curriculum in Electrical Engineering and the master curriculum in Artificial Intelligence and Engineering Systems at the Eindhoven University of Technology.
 
 Background
 ======
-Something about education
-
+I obtained my BSc and  MSc in Biomedical Engineering from the University of Pisa (Italy), both summa cum laude. My master graduation project was carried out at Philips Research (Eindhoven, the Netherlands). In 2015, I obtained a professional doctorate in engineering (PDEng) in Healthcare system design from the Stan Ackermans Institute at the Eindhoven University of Technology, which was awarded best project in designer program in Electrical Engineering. In 2018, I also completed my Phd at the Eindhoven University of Techonology, with thesis entitled “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”. Both my PDEng and PhD were carried out at the Biomedical Diagnostics (BM/d) lab. Here, after a short post-doctoral fellowship, I became assistant professor in statistical processing of biosignals. 
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
