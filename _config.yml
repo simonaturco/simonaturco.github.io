@@ -82,10 +82,13 @@ analytics:
 author:
   name             : "Simona Turco"
   avatar           : "simona_square.jpg"
-  bio              : >- "Assistant professor at the Biomedical Diagnostics lab,
-                      Signal Processing System group, Electrical Engineering"
+  bio              : "Assistant professor
+                      Biomedical Diagnostics lab
+                      Signal Processing System
+                      Electrical Engineering
+                      Eindhoven University of Techonology"
   location         : "Eindhoven, the Netherlands"
-  employer         : "Eindhoven University of Techonology"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en"
   email            :
