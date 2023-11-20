@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simona Turco's page"
 title_separator          : "-"
 name                     : &name "Simona Turco"
-description              : &description "researcher"
+description              : &description "Assistant professor at Biomedical Diagnostics research lab, Signal Processing Systems group, Eindhoven University of Techonology"
 url                      : https://simonaturco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simonaturco/simonaturco.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simona Turco"
-  avatar           : "simona1.jpg"
-  bio              : "Assistant professor at Biomedical Diagnostics research lab, Signal Processing Systems group, Eindhoven University of Techonology"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "s.turco@tue.nl"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sturco88/"
-  orcid            : "https://orcid.org/0000-0002-1520-3930"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : @simonaturco7
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
