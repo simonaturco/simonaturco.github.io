@@ -13,7 +13,7 @@ main:
     url: /portfolio/
 
   - title: "Updates"
-    url: /posts/
+    url: /year-archive/
 
   - title: "CV"
     url: /files/CV_Simona_Turco_long.pdf
