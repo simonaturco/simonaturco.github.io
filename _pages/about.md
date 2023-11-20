@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I assitant professor of statistical processing of biosignals at the [Biomedical Diagnostics lab](https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab), which is part of the [Signal Processing Systems](https://www.tue.nl/en/research/research-groups/signal-processing-systems) group of the Electrical Engineering department at the [Eindhoven University of Techonology](https://www.tue.nl/en/).
+I am assistant professor of statistical processing of biosignals at the [Biomedical Diagnostics lab](https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab), which is part of the [Signal Processing Systems](https://www.tue.nl/en/research/research-groups/signal-processing-systems) group of the Electrical Engineering department at the [Eindhoven University of Techonology](https://www.tue.nl/en/).
 
 Research
 ======
