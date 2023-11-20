@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Statistical Signal Processing"
 collection: teaching
-type: "Undergraduate course"
+type: "master course"
 permalink: /teaching/2018-statistical-signal-processing
 venue: "Eindhoven University of Technology, Electrical Engineering"
 date: 2018-09-01
