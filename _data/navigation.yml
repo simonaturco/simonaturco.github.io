@@ -12,7 +12,11 @@ main:
   - title: "Projects"
     url: /portfolio/
 
+<<<<<<< HEAD
   - title: "Updates"
+=======
+  - title: "Blog Posts"
+>>>>>>> 3f5a997b6b4420ba8cfe5c63ab8221e7c728a2df
     url: /year-archive/
 
   - title: "CV"
