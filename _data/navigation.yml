@@ -1,10 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" #/publications/
 
   - title: "Research domains"
-    url: /research/
+      url: /research/
+
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" #/publications/
 
   - title: "Projects"
     url: /portfolio/
