@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" #/publications/
 
-  # - title: "Talks"
-  #   url: /talks/
-
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Research domains"
+    url: /research/
 
   - title: "Projects"
     url: /portfolio/
 
   - title: "Updates"
     url: /year-archive/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "CV"
     url: /files/CV_Simona_Turco_long.pdf
