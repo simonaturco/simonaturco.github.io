@@ -4,11 +4,11 @@ main:
   - title: "Research domains"
       url: /research/
 
-  - title: "Publications"
-    url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" #/publications/
-
   - title: "Projects"
     url: /portfolio/
+
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" #/publications/
 
   - title: "Updates"
     url: /year-archive/
