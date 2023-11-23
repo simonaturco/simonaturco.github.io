@@ -16,16 +16,15 @@ Learning goals
 ======
 At the end of Part 1, students will be able to:   
 
-*Understand the basic principles of probability, including probability axioms, independence, conditional probability, and Bayes’ theorem, and use these principles in solving problems.  
-*Explain the difference between deterministic and stochastic signals providing examples in the context of signal processing.  
-*Understand and reflect on the implications of the central limit theorem in the context of signal acquisition and analysis.  
-*Characterize random variables using probability distributions, expected value, variance, and moments.  
-*Characterize random signals by computing first and second-order statistics.
+* Understand the basic principles of probability, including probability axioms, independence, conditional probability, and Bayes’ theorem, and use these principles in solving problems.  
+* Explain the difference between deterministic and stochastic signals providing examples in the context of signal processing.  
+* Understand and reflect on the implications of the central limit theorem in the context of signal acquisition and analysis.  
+* Characterize random variables using probability distributions, expected value, variance, and moments.  
+* Characterize random signals by computing first and second-order statistics.
 
 At the end of Part 2, students will be able to: 
 
-*Calculate the bias and variance of an estimator, given the noise statistics.  
-*Apply the least squares, maximum likelihood, and Bayesian estimations methods to solve problems concerning the estimation of signal model parameters.  
+* Calculate the bias and variance of an estimator, given the noise statistics.  
 *Decide which estimation method to use to solve an estimation problem based on the signal model and availability of noise statistics.  
 *Apply numerical methods to obtain the least-squares and maximum likelihood estimates for problems with nonlinear signal models.   
 
