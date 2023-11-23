@@ -1,9 +1,9 @@
 ---
 title: "Statistical Signal Processing"
 collection: teaching
-type: "master course"
+type: "Master course"
 permalink: /teaching/2018-statistical-signal-processing
-venue: "Eindhoven University of Technology, Electrical Engineering"
+venue: "Eindhoven University of Technology, masters EE and AI&ES"
 date: 2018-09-01
 location:
 ---
