@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant professor of statistical processing of biosignals at the [Biomedical Diagnostics lab](https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab), which is part of the [Signal Processing Systems](https://www.tue.nl/en/research/research-groups/signal-processing-systems) group of the Electrical Engineering department at the [Eindhoven University of Techonology](https://www.tue.nl/en/).
+I am assistant professor of statistical processing of biosignals at the [Biomedical Diagnostics lab](https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab) (BM/d), which is part of the [Signal Processing Systems](https://www.tue.nl/en/research/research-groups/signal-processing-systems) group,  Electrical Engineering department,  [Eindhoven University of Techonology](https://www.tue.nl/en/).
 
 Research
 ======
@@ -16,11 +16,11 @@ My research is devoted to quantitative model-driven analysis of medical images a
 
 Teaching
 ======
-Since 2018, I am the designer and responsible teacher for the course Statistical Signal Processing, which is part of the master curriculum in Electrical Engineering and the master curriculum in Artificial Intelligence and Engineering Systems at the Eindhoven University of Technology.
+Since 2018, I am the designer and responsible teacher for the course Statistical Signal Processing, which is part of the master curriculum in [Electrical Engineering](https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering) and the master curriculum in [Artificial Intelligence & Engineering Systems](https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/artificial-intelligence-engineering-systems) at the Eindhoven University of Technology.
 
 Background
 ======
-I obtained my BSc and  MSc in Biomedical Engineering from the University of Pisa (Italy), both summa cum laude. My master graduation project was carried out at Philips Research (Eindhoven, the Netherlands). In 2015, I obtained a professional doctorate in engineering (PDEng) in Healthcare system design from the Stan Ackermans Institute at the Eindhoven University of Technology, which was awarded best project in designer program in Electrical Engineering. In 2018, I also completed my Phd at the Eindhoven University of Techonology, with thesis entitled “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”. Both my PDEng and PhD were carried out at the Biomedical Diagnostics (BM/d) lab. Here, after a short post-doctoral fellowship, I became assistant professor in statistical processing of biosignals.
+I obtained my BSc and  MSc in Biomedical Engineering from the School of Engineering of the University of Pisa (Italy), both summa cum laude. My master graduation project was carried out at Philips Research (Eindhoven, the Netherlands). In 2015, I obtained a professional doctorate in engineering (PDEng) in Healthcare system design from the Stan Ackermans Institute at the Eindhoven University of Technology, which was awarded best project in designer program in Electrical Engineering. In 2018, I also completed my PhD at the Eindhoven University of Techonology, with thesis entitled “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”. Both my PDEng and PhD were carried out at the BM/d lab. Here, after a short post-doctoral fellowship, I became assistant professor in statistical processing of biosignals, with tenure in 2022.
 
 <!-- Getting started
 ======
