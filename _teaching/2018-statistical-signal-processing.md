@@ -25,17 +25,17 @@ At the end of Part 1, students will be able to: 
 At the end of Part 2, students will be able to: 
 
 * Calculate the bias and variance of an estimator, given the noise statistics.  
-*Decide which estimation method to use to solve an estimation problem based on the signal model and availability of noise statistics.  
-*Apply numerical methods to obtain the least-squares and maximum likelihood estimates for problems with nonlinear signal models.   
+* Decide which estimation method to use to solve an estimation problem based on the signal model and availability of noise statistics.  
+* Apply numerical methods to obtain the least-squares and maximum likelihood estimates for problems with nonlinear signal models.   
 
 At the end of Part 3, students will be able to:
 
-*Explain the difference between energy and power signals and the implications in the context of real-world signals.
-*Describe how windowing and zero-padding affect spectral estimation.
-*Estimate and analyze the power spectrum of a random signal by applying parametric and non-parametric methods for spectral estimation.
+* Explain the difference between energy and power signals and the implications in the context of real-world signals.
+* Describe how windowing and zero-padding affect spectral estimation.
+* Estimate and analyze the power spectrum of a random signal by applying parametric and non-parametric methods for spectral estimation.
 
 At the end of Part 4, students will be able to: 
 
-*Describe binary hypothesis testing problems in the context of detection theory.
-*Apply Neyman-Pearson tests and Bayesian detectors.
-*Use matched filters to detect known signals in noise.
+* Describe binary hypothesis testing problems in the context of detection theory.
+* Apply Neyman-Pearson tests and Bayesian detectors.
+* Use matched filters to detect known signals in noise.
