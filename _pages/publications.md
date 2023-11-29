@@ -11,7 +11,7 @@ author_profile: true
 
 <!-- I think below is used to link this page to all files in the folder "publications". If you want to do a full list of publications in one page, then it might be sufficient to write Here -->
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
