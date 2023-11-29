@@ -4,4 +4,6 @@ excerpt: "Magnetic Resonance Dispersion Imaging is a method to assess simultenou
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI) is a specialized imaging technique used to investigate the vascular characteristics of tumors, particularly focusing on angiogenesis—the process of new blood vessel formation that is often associated with tumor growth. In DCE-MRI, contrast agents are injected into the patient's bloodstream, and the changes in signal intensity over time are monitored as these agents flow through the blood vessels. This allows for the visualization and analysis of the tumor's vasculature, providing valuable information about blood flow, vessel permeability, and other parameters related to the tumor's blood supply. DCE-MRI is particularly useful in probing the angiogenic features of tumors, aiding in the assessment of tumor development, progression, and response to treatment.
