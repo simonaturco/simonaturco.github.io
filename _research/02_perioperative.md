@@ -4,11 +4,11 @@ excerpt: "<br/><img src='/images/periop_cover2.png' width='350px' align='left' >
 collection: research
 ---
 
-### Prediction of patient deterioration
+##### Prediction of patient deterioration
 
 Continuous monitoring and evaluation of patients is an integral aspect of perioperative care, spanning from preoperative preparation through the surgical process to postoperative recovery. This thorough monitoring is essential to safeguard the patient's safety, overall health, and facilitate an optimal recuperative journey. During the perioperative phase, a range of vital signs and parameters, such as heart rate, blood pressure, oxygen saturation, respiratory rate, and body temperature, are carefully monitored to ensure appropriate care and timely identification of patients at risk. Before surgery, preoperative monitoring helps establish a baseline for these vital signs and identifies any potential risks or abnormalities. During the surgery, monitoring ensures real-time tracking of the patient's physiological responses to anesthesia and the surgical procedure, allowing healthcare providers to promptly address any deviations from the normal range. Postoperatively, continuous monitoring helps detect and manage complications, assess the effectiveness of interventions, and guide the transition to the recovery phase. In this context, we are particularly interested in the early identification of patient at risk of deterioration (link), using the wealth of information available in the electronic medical records.  
 
-### Hemodynamic monitoring
+#### Hemodynamic monitoring
 
 
 Continuous assessment of hemodynamic function is crucial in treating patients at risk of deterioration, with evolving monitoring technologies offering numerous bedside options. Traditional invasive methods like pulmonary artery catheterization are declining, replaced by safer and more continuous non-invasive measurements of blood pressure, cardiac output, and other hemodynamic parameters. However, limitations persist, including uncertainty in interpreting standard clinical variables like blood pressure, late detection of deterioration, and challenges in identifying the root causes of instability. Micro- and macro-circulation dissociation, especially in sepsis, and late detection in low-acuity settings further complicate patient care. Additional measurements are needed to identify such complex hemodynamic states. In this line of research, we propose novel theoretical and experimental frameworks to broaden the set of parameters for accurate hemodynamic monitoring, preferably using standard clinical equipment.
