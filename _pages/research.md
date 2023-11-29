@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resrarch Domains"
+title: "Research Domains"
 permalink: /research/
 author_profile: true
 ---
