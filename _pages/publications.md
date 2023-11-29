@@ -27,7 +27,7 @@ Journal papers
 
 * Mestrom, E. H. J., Bakkes, T. H. G. F., Ourahou, N., Korsten, H. H. M., Serra, P. de A., Montenij, L. J., Mischi, M., Turco, S., & Bouwman, R. A. (2023). Prediction of postoperative patient deterioration and unanticipated intensive care unit admission using perioperative factors. PloS One, 18(8), e0286818. https://doi.org/10.1371/journal.pone.0286818
 
-Conferences
+Conferences (selected)
 =====
 
 * Fernandes, C. D., Schaap, A., Kant, J., Van Houdt, P., Wijkstra, H., Van Der Heide, U., Zwart, W., Mischi, M., Eduati, F., & Turco, S. (2023). Prostate cancer risk assessment using a radiogenomic analysis. In 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA) (pp. 1–6). IEEE.
