@@ -4,7 +4,14 @@ excerpt: "<br/><img src='/images/mri_cover.jpg' width='400px' align='right'>  Ca
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+#### Multiparametric MRI for prostate cancer imaging
+Prostate cancer is the second most common cancer in men worldwide. Prostate cancer often progresses slowly and may not cause noticeable symptoms in its early stages. However, when left untreated, it can become aggressive and spread to other parts of the body. Multiparametric Magnetic Resonance Imaging (mpMRI) has emerged as a powerful tool in the diagnosis and management of prostate cancer. This advanced imaging technique combines multiple MRI sequences to provide detailed and comprehensive information about the prostate gland. It combines a T2-weighted sequece for detailed anatomical images of the prostate, with Diffusion-Weighted Imaging (DWI), evaluating the movement of water molecules in tissues, thus relating to cellularity, and Dynamic contrast-Enhanced Imaging (DCE-MRI), which is based on injection of a contrast agent to probe tumor perfusion and vascular permeability. The latter is particularly interesting to assess angionesis, an hallmark of cancer growth, which result in the formation of an (abnormal) vascular network feeding the tumor.
+
+To provide a quantitative method to analyze DCE-MRI, we developed [Magnetic Resonance Dispersion Imaging (MRDI)](https://simonaturco.github.io/portfolio/MRI_mrdi/), a methods providing simulatenous assessment of the vascular architecture and permeability, with several advantages compared to well-known analysis by Tofts' model. 
+#### Quantitative contrast-enhanced ultrasound
+
+
+#### Ultrasound molecular imaging
 
 
 <!-- ![description image](/images/name_image.ext "Optional title"){: .align-right width="300px"} -->
