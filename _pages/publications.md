@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.it/citations?user=Rnp5hNMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
 <!-- I think below is used to link this page to all files in the folder "publications". If you want to do a full list of publications in one page, then it might be sufficient to write Here -->
@@ -62,30 +62,20 @@ Conferences (selected)
 =====
 
 * Fernandes, C. D., Schaap, A., Kant, J., Van Houdt, P., Wijkstra, H., Van Der Heide, U., Zwart, W., Mischi, M., Eduati, F., & Turco, S. (2023). Prostate cancer risk assessment using a radiogenomic analysis. In 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA) (pp. 1–6). IEEE.
-* Van Diepen, A., Bakkes, T. H. G. F., De Bie, A., Turco, S., Bouwman, R. A., Woerlee, P. H., & Mischi, M. A model-based approach to generating annotated pressure support waveforms”. Journal of Clinical Monitoring and Computing. 10.https://doi.org/1109/EMBC46164.2021.9630166
 * Bogatu, L., Hoppenbrouwers, J., Van Den Bosch, H., Turco, S., Mischi, M., Schmitt, L., Woerlee, P., Bouwman, R. A., Korsten, H. H. M., & Muehlsteff, J. (2022). On the value of MRI for improved understanding of cuff-based oscillometric measurements. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2022, 2898–2901. https://doi.org/10.1109/EMBC48229.2022.9871137
 * Haakma, J., Peri, E., Turco, S., Pelssers, E., Toonder, J. D., & Mischi, M. (2022). A model for digital sweat sensing devices. 2022 IEEE 21st Mediterranean Electrotechnical Conference (MELECON).
 * Bogatu, L. I., Turco, S., Mischi, M., Schmitt, L., Woerlee, P., Bresch, E., Noordergraaf, G. J., Paulussen, I., Bouwman, A., Korsten, E. H., & Muehlsteff, J. (2021). Modulation of pulse travel and blood flow during cuff inflation-An experimental case study. In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 23–26). IEEE.
 * Chen, P., Turco, S., Wijkstra, H., Dilo, A., Huang, P., & Mischi, M. (2021). Prostate cancer localization by 3D multiparametric contrast-ultrasound dispersion imaging and shear-wave elastography. European Urology Open Science, 33, S160. https://doi.org/10.1016/s2666-1683(21)02735-x
 * Fernandes, C. D., Turco, S., Mischi, M., & Wijkstra, H. (2021). Deep learning for prostate and zonal segmentation on a multicenter MRI dataset. In 9th EAU Section of Urological Imaging.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Bakkes, T. H. G. F., Montree, R. J. H., Mischi, M., Mojoli, F., & Turco, S. (2020). A machine learning method for automatic detection and classification of patient-ventilator asynchrony. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2020, 150–153. https://doi.org/10.1109/EMBC44109.2020.9175796
+* Bogatu, L. I., Turco, S., Mischi, M., Woerlee, P., Bouwman, A., Korsten, E., & Muehlsteff, J. (2020). Method for measurement of arterial compliance by fusion of oscillometry and pulse wave velocity. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2020, 469–472. https://doi.org/10.1109/EMBC44109.2020.9175446
+* Bakkes, T. H. G. F., Sammali, F., Kuijsters, N. P. M., Turco, S., Rabotti, C., Schoot, D., & Mischi, M. (2019). Machine learning for classification of uterine activity outside pregnancy. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2019, 2161–2164. https://doi.org/10.1109/EMBC.2019.8857374
+* Turco, S., Perera, R. H., Wijkstra, H., Exner, A. A., & Mischi, M. (2019). Quantification of PSMA expression in prostate cancer by pharmacokinetic modeling of targeted ultrasound nanobubbles. 2019 IEEE International Ultrasonics Symposium (IUS).
+* Turco, S., Tardy, I., Frinking, P., Wijkstra, H., & Mischi, M. (2017). On the validity of the first-pass binding model for quantitative ultrasound molecular imaging: Comparison between BR55 and Sonovue. 2017 IEEE International Ultrasonics Symposium (IUS).
+* Turco, S., Keravnou, C., van Sloun, R. J. G., Wijkstra, H., Averkiou, M., & Mischi, M. (2016). Effects of perfusion and vascular architecture on contrast dispersion: Validation in ex-vivo porcine liver under machine perfusion. 2016 IEEE International Ultrasonics Symposium (IUS).
+* Turco, S., El Kaffas, A., Zhou, J., Wijkstra, H., Willmann, J. K., & Mischi, M. (2016). Quantitative ultrasound molecular imaging for antiangiogenic therapy monitoring. 2016 IEEE International Ultrasonics Symposium (IUS).
+* Turco, S., Janssen, A. J. E. M., Lavini, C., de la Rosette, J. J., Wijkstra, H., & Mischi, M. (2014). Closed-form solution of the convolution integral in the magnetic resonance dispersion model for quantitative assessment of angiogenesis. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2014, 4272–4275. https://doi.org/10.1109/EMBC.2014.6944568
+* Turco, Simona, Frinking, P. J. A., Wijkstra, H., & Mischi, M. (2015). Quantification of the binding kinetics of targeted ultrasound contrast agent for molecular imaging of cancer angiogenesis. 2015 IEEE International Ultrasonics Symposium (IUS).
 
 Dissertations
 =====
