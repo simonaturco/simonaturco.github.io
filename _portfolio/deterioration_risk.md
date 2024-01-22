@@ -1,6 +1,6 @@
 ---
 title: "Prediction of patient deterioration"
-excerpt: "tbd. <br/><img src='/images/500x300.png'>"
+excerpt: "In perioperative care, the timely prediction of patient deterioration has as a pivotal role in ensuring optimal patient outcomes and the efficient allocation of resources within hospital settings. The ability to foresee changes in a patient's condition before they escalate into critical states is paramount for healthcare providers seeking to deliver high-quality and patient-centered care. In this line of research, we develop novel strategies for timely prediction of patients at risk. <br/><img src='/images/patient_deterioration.png' width='300px'>"
 collection: portfolio
 ---
 
