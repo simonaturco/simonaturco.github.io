@@ -21,7 +21,7 @@ Books and book chapters
 =====
 
 
-*	F. I. Kandi, C. Dinis Fernandes, D.L. van den Kroonenberg, A.W. Postema,  J. Oddens, H. Wijkstra, S. Turco, M. Mischi "Contrast Ultrasound Dispersion Imaging (CUDI)" in Atlas of the ultrasound in Uroly, Andrology and Nefrology, Martino and Galosi, SPRNGER, in press. (Book chapter)
+*	F. I. Kandi, C. Dinis Fernandes, D.L. van den Kroonenberg, A.W. Postema,  J. Oddens, H. Wijkstra, S. Turco, M. Mischi "Contrast Ultrasound Dispersion Imaging (CUDI)" in Atlas of the ultrasound in Urology, Andrology and Nefrology, Martino and Galosi, SPRINGER, in press. (Book chapter)
 *	S. Turco, P.Chen, A. El Kaffas, A. Lyshchik, M. Mischi, “Ultrasound contrast agents: Microvascular characterization” in Innovative Ultrasound Imaging Techniques for Biomedical Applications, L. Bridal, Ed. ISTE Wiley: Encyclopaedia of Sciences (chapter), in press. (Book chapter)
 *	R. Barr, S. Turco, and H. Wijkstra, “Prostate: malignant lesions” in Specialty Imaging: Fundamentals of CEUS, A. Lyshchik, Ed., ed: Elsevier, 2019 (Book chapter). 
 * Mischi, M., Turco, S., Soliman, O. I., ten Cate, F. J., Wijkstra, H., & Schoots, I. (2018). Quantification of contrast kinetics in clinical imaging. Springer International Publishing. (Book)
