@@ -1,6 +1,6 @@
 ---
 title: "Hemodynamic monitoring"
-excerpt: "Hemodynamic monitoring in hospitals involves the continuous observation and assessment of blood circulation and cardiovascular function in patients. This process is crucial for understanding and managing conditions that affect the heart and blood vessels. In this line of research, we develop novel theoretical and experimental methods for assessing hemodynamics function, using standard clinical equipment. <br/><img src='/images/periop_cover2.png'>"
+excerpt: "Hemodynamic monitoring in hospitals involves the continuous observation and assessment of blood circulation and cardiovascular function in patients. This process is crucial for understanding and managing conditions that affect the heart and blood vessels. In this line of research, we develop novel theoretical and experimental methods for assessing hemodynamics function, using standard clinical equipment. <br/><img src='/images/periop_cover2.png  width='400px'>"
 collection: portfolio
 ---
 
