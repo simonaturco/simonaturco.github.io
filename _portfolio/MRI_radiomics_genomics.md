@@ -12,7 +12,11 @@ Radiomics (IEEE-EMBC)
 
 Prostate zonal segmentation stands is a pivotal step in the automation of prostate cancer (PCa) diagnosis, MRI-guided radiotherapy, and focal treatment planning. In this study, we introduce a  <a href="https://archive.ismrm.org/2022/2832.html" target="_blank">multi-channel U-Net for automatic prostate zonal segmentation</a>, capable of accommodating multiple MRI sequences. Leveraging a multicenter, multiparametric MRI dataset, we examine the model's robustness in the face of varied acquisition protocols and assess whether the inclusion of additional imaging sequences enhances segmentation performance. Our findings reveal that T2-weighted imaging alone proves sufficient for successful prostate zonal segmentation. Notably, despite utilizing a modest multicenter dataset, the models exhibit robustness across acquisition protocols, yielding performance comparable to that achieved with larger datasets sourced from a single institute. This research contributes valuable insights towards streamlining and optimizing automated prostate zonal segmentation, underscoring the potential of this methodology in diverse clinical settings.
 
-<img src='/images/DL_zonal_arch.jpg' width='400px', align='left'>
+<figure>
+  <img src='/images/DL_zonal_arch.jpg' alt="Network architecture" style="width:50%">
+  <figcaption>Fig.1 - Multi-channel U-Net for automatic prostate zonal segmentation. One or more channels are used to input one or more MRI sequences.</figcaption>
+</figure>
+<!-- <img src='/images/DL_zonal_arch.jpg' width='400px', align='left'> -->
 
 ### Radiogenomics of prostate cancer
 Radiogenomics explores the relationship between imaging features and underlying genomic alterations within the tumor. This synergy between imaging and genomics provides a holistic view of the disease, offering insights into the molecular landscape that traditional imaging alone may not capture. This may not only enhances diagnostic accuracy and risk stratification but also paves the way for personalized treatment strategies. 
