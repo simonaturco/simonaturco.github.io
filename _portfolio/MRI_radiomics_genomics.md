@@ -31,7 +31,7 @@ Leveraging a multicenter, multiparametric MRI dataset, we examine the model's ro
 ### Radiogenomics of prostate cancer
 Radiogenomics explores the relationship between imaging features and underlying genomic alterations within the tumor. This synergy between imaging and genomics provides a holistic view of the disease, offering insights into the molecular landscape that traditional imaging alone may not capture. This may not only enhances diagnostic accuracy and risk stratification but also paves the way for personalized treatment strategies. 
 
-<figure style="width:600px">
+<figure style="width:500px;">
   <img src='/images/imaging_pipe.png' alt="Feature extaction and machine learning pipeline" >
   <figcaption>Feature extraction and machine learning pipeline to select most relevant features.</figcaption>
 </figure>
@@ -39,7 +39,7 @@ Radiogenomics explores the relationship between imaging features and underlying 
 <!-- <img src='/images/imaging_pipe.png' width='400px', align='left'> -->
 Leveraging a unique datasets, including prostate cancer patients who underwent mpMRI and whose biopsied tumor tissue where sequenced, we explored  <a href="https://www.mdpi.com/2072-6694/15/12/3074" target="_blank"> radiogenomics in prostate cancer </a>. We investigated whether imaging features extracted from multiparametric MRI correlated with transcriptomics features extracted from RNAseq. To this end, we developed machine learning frameworks to identify the most relevant imaging and transcriptomics features and analyzed the correlation between them. 
 
-<figure style="width:600px">
+<figure style="width:500px;">
   <img src='/images/NKI_correlations_0.1.png' alt="Network architecture" >
   <figcaption>Heatmap describing the Pearson correlation between imaging and transcriptomics features. Only coefficients with <i>p</i>-value ≤0.2
  are shown. * <i>p</i> < 0.05. </figcaption>
