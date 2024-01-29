@@ -13,7 +13,7 @@ Multi-parametric MRI is the recommended imaging modality in the standard prostat
   <img src='/images/dce-mri-radiomics.png' alt="Radiomics analysis of DCE-MRI">
   <figcaption> Prostate specimen with histopathological tumor delineation (in red), B. k<sub>d</sub> dispersion map, and C. malignancy probability map for an example patient. <i>Taken from Fernandes, C.D. et al.  IEEE EMBC</i>. 2021.  </figcaption>
 </figure>
-Motivated by this, we investigate whether a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630015" target="_blank">radiomic combination of spatial and temporal features extracted from DCE-MRI improved the detection of prostate cancer</a>. Our results show that a selected combination of quantitative spatial and temporal features extracted from DCE-MRI and incorporated in machine learning classifiers obtains a good diagnostic performance (AUC = 0.80-0.86) in distinguishing malignant from benign regions. 
+Motivated by this, we investigate whether a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630015" target="_blank">radiomic combination of spatial and temporal features extracted from DCE-MRI</a> improved the detection of prostate cancer. Our results show that a selected combination of quantitative spatial and temporal features extracted from DCE-MRI and incorporated in machine learning classifiers obtains a good diagnostic performance (AUC = 0.80-0.86) in distinguishing malignant from benign regions. 
 
  
 ### Deep-learning for prostate zonal segmentation
@@ -37,14 +37,13 @@ Radiogenomics explores the relationship between imaging features and underlying 
 </figure>
 
 <!-- <img src='/images/imaging_pipe.png' width='400px', align='left'> -->
-Leveraging a unique datasets, including prostate cancer patients who underwent mpMRI and whose biopsied tumor tissue where sequenced. Here, we investigated whether <a href="https://www.mdpi.com/2072-6694/15/12/3074" target="_blank">imaging features extracted from multiparametric MRI correlated with transcriptomics features extracted from RNAseq</a>imaging features extracted from multiparametric MRI correlated with transcriptomics features extracted from RNAseq. We developed machine learning frameworks to identify the most relevant imaging and transcriptomics features and analyzed the correlation between them. 
+Leveraging a unique datasets, including prostate cancer patients who underwent mpMRI and whose biopsied tumor tissue where sequenced, we explored  <a href="https://www.mdpi.com/2072-6694/15/12/3074" target="_blank"> radiogenomics in prostate cancer </a>. We investigated whether imaging features extracted from multiparametric MRI correlated with transcriptomics features extracted from RNAseq. To this end, we developed machine learning frameworks to identify the most relevant imaging and transcriptomics features and analyzed the correlation between them. 
 
 <figure>
   <img src='/images/NKI_correlations_0.1.png' alt="Network architecture" >
   <figcaption>Heatmap describing the Pearson correlation between imaging and transcriptomics features. Only coefficients with <i>p</i>-value ≤0.2
  are shown. * <i>p</i> < 0.05. </figcaption>
 </figure>
-
 
 We found a significant link especially between perfusion-based imaging features, extracted from MRDI, with transcriptomics features related to related to cell proliferation and migration, and associated with prostate cancer aggressiveness and progression. 
 
