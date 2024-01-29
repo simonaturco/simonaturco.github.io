@@ -10,7 +10,7 @@ Multi-parametric MRI is the recommended imaging modality in the standard prostat
 
 <figure style="width:400px; float: left">
   <img src='/images/dce-mri-radiomics.png' alt="Radiomics analysis of DCE-MRI">
-  <figcaption> Prostate specimen with histopathological tumor delineation (in red), B. k_<sub>d</sub> dispersion map, and C. malignancy probability map for an example patient. <it>Taken from Fernandes, C.D. et al.  IEEE EMBC</it>. 2021.  </figcaption>
+  <figcaption> Prostate specimen with histopathological tumor delineation (in red), B. k<sub>d</sub> dispersion map, and C. malignancy probability map for an example patient. <i>Taken from Fernandes, C.D. et al.  IEEE EMBC</i>. 2021.  </figcaption>
 </figure>
 
  
@@ -37,8 +37,8 @@ Leveraging a unique datasets, including prostate cancer patients who underwent m
 
 <figure style="width:400px; float: left">
   <img src='/images/NKI_correlations_0.1.png' alt="Network architecture" >
-  <figcaption>Heatmap describing the Pearson correlation between imaging and transcriptomics features. Only coefficients with *p*-value ≤0.2
- are shown. * <it>p</it> < 0.05. </figcaption>
+  <figcaption>Heatmap describing the Pearson correlation between imaging and transcriptomics features. Only coefficients with <i>p</i>-value ≤0.2
+ are shown. * <i>p</i> < 0.05. </figcaption>
 </figure>
 
 
