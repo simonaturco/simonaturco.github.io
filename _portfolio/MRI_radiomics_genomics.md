@@ -7,6 +7,8 @@ Prostate cancer is a prevalent malignancy that continues to pose significant cha
 
 ### DCE-MRI radiomics for prostate cancer detection
 Multi-parametric MRI is the recommended imaging modality in the standard prostate cancer diagnostic workflow. Recent imaging guidelines (PI-RADS v2) downgraded the value of Dynamic Contrast-Enhanced (DCE)-MRI in the diagnosis of PCa. A purely qualitative analysis of the DCE-MRI time series, as it is generally done by radiologists, might indeed overlook information on the microvascular architecture and function. 
+
+
 <figure style="width:400px; float: left">
   <img src='/images/dce-mri-radiomics.png' alt="Radiomics analysis of DCE-MRI">
   <figcaption> Prostate specimen with histopathological tumor delineation (in red), B. k<sub>d</sub> dispersion map, and C. malignancy probability map for an example patient. <i>Taken from Fernandes, C.D. et al.  IEEE EMBC</i>. 2021.  </figcaption>
@@ -29,7 +31,7 @@ Leveraging a multicenter, multiparametric MRI dataset, we examine the model's ro
 ### Radiogenomics of prostate cancer
 Radiogenomics explores the relationship between imaging features and underlying genomic alterations within the tumor. This synergy between imaging and genomics provides a holistic view of the disease, offering insights into the molecular landscape that traditional imaging alone may not capture. This may not only enhances diagnostic accuracy and risk stratification but also paves the way for personalized treatment strategies. 
 
-<figure style="width:400px; float: left">
+<figure>
   <img src='/images/imaging_pipe.png' alt="Feature extaction and machine learning pipeline" >
   <figcaption>Feature extraction and machine learning pipeline to select most relevant features.</figcaption>
 </figure>
@@ -37,7 +39,7 @@ Radiogenomics explores the relationship between imaging features and underlying 
 <!-- <img src='/images/imaging_pipe.png' width='400px', align='left'> -->
 Leveraging a unique datasets, including prostate cancer patients who underwent mpMRI and whose biopsied tumor tissue where sequenced. Here, we investigated whether <a href="https://www.mdpi.com/2072-6694/15/12/3074" target="_blank">imaging features extracted from multiparametric MRI correlated with transcriptomics features extracted from RNAseq</a>imaging features extracted from multiparametric MRI correlated with transcriptomics features extracted from RNAseq. We developed machine learning frameworks to identify the most relevant imaging and transcriptomics features and analyzed the correlation between them. 
 
-<figure style="width:400px; float: right">
+<figure>
   <img src='/images/NKI_correlations_0.1.png' alt="Network architecture" >
   <figcaption>Heatmap describing the Pearson correlation between imaging and transcriptomics features. Only coefficients with <i>p</i>-value ≤0.2
  are shown. * <i>p</i> < 0.05. </figcaption>
