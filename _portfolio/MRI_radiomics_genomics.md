@@ -8,12 +8,12 @@ Prostate cancer is a prevalent malignancy that continues to pose significant cha
 ### DCE-MRI radiomics for prostate cancer detection
 Multi-parametric MRI is the recommended imaging modality in the standard prostate cancer diagnostic workflow. Recent imaging guidelines (PI-RADS v2) downgraded the value of Dynamic Contrast-Enhanced (DCE)-MRI in the diagnosis of PCa. A purely qualitative analysis of the DCE-MRI time series, as it is generally done by radiologists, might indeed overlook information on the microvascular architecture and function. Motivated by this, we investigate whether a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630015" target="_blank">radiomic combination of spatial and temporal features extracted from DCE-MRI improved the detection of prostate cancer</a>. Our results show that a selected combination of quantitative spatial and temporal features extracted from DCE-MRI and incorporated in machine learning classifiers obtains a good diagnostic performance (AUC = 0.80-0.86) in distinguishing malignant from benign regions. 
 
-<figure>
-  <img src='/images/dce-mri-radiomics.png' alt="Radiomics analysis of DCE-MRI" width='200px' >
+<figure style="width:200px;">
+  <img src='/images/dce-mri-radiomics.png' alt="Radiomics analysis of DCE-MRI">
   <figcaption> Prostate specimen with histopathological tumor delineation (in red), B. k_<sub>d</sub> dispersion map, and C. malignancy probability map for an example patient. <it>Taken from Fernandes, C.D. et al.  IEEE EMBC</it>. 2021.  </figcaption>
 </figure>
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630015
+ 
 ### Deep-learning for prostate zonal segmentation
 
 Prostate zonal segmentation stands is a pivotal step in the automation of prostate cancer (PCa) diagnosis, MRI-guided radiotherapy, and focal treatment planning. In this study, we introduce a  <a href="https://archive.ismrm.org/2022/2832.html" target="_blank">multi-channel U-Net for automatic prostate zonal segmentation</a>, capable of accommodating multiple MRI sequences. Leveraging a multicenter, multiparametric MRI dataset, we examine the model's robustness in the face of varied acquisition protocols and assess whether the inclusion of additional imaging sequences enhances segmentation performance. Our findings reveal that T2-weighted imaging alone proves sufficient for successful prostate zonal segmentation. Notably, despite utilizing a modest multicenter dataset, the models exhibit robustness across acquisition protocols, yielding performance comparable to that achieved with larger datasets sourced from a single institute. This research contributes valuable insights towards streamlining and optimizing automated prostate zonal segmentation, underscoring the potential of this methodology in diverse clinical settings.
