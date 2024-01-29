@@ -8,7 +8,7 @@ Prostate cancer is a prevalent malignancy that continues to pose significant cha
 ### DCE-MRI radiomics for prostate cancer detection
 Multi-parametric MRI is the recommended imaging modality in the standard prostate cancer diagnostic workflow. Recent imaging guidelines (PI-RADS v2) downgraded the value of Dynamic Contrast-Enhanced (DCE)-MRI in the diagnosis of PCa. A purely qualitative analysis of the DCE-MRI time series, as it is generally done by radiologists, might indeed overlook information on the microvascular architecture and function. Motivated by this, we investigate whether a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9630015" target="_blank">radiomic combination of spatial and temporal features extracted from DCE-MRI improved the detection of prostate cancer</a>. Our results show that a selected combination of quantitative spatial and temporal features extracted from DCE-MRI and incorporated in machine learning classifiers obtains a good diagnostic performance (AUC = 0.80-0.86) in distinguishing malignant from benign regions. 
 
-<figure style="width:200px; align:left">
+<figure style="width:400px; loat: left">
   <img src='/images/dce-mri-radiomics.png' alt="Radiomics analysis of DCE-MRI">
   <figcaption> Prostate specimen with histopathological tumor delineation (in red), B. k_<sub>d</sub> dispersion map, and C. malignancy probability map for an example patient. <it>Taken from Fernandes, C.D. et al.  IEEE EMBC</it>. 2021.  </figcaption>
 </figure>
