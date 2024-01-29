@@ -1,6 +1,6 @@
 ---
 title: "Radiomics and radiogenomics of prostate cancer"
-excerpt: "Prostate cancer is the second most common form of cancer and one of the most lethal in western men. Timely and accurate diagnosis is crucial. Multiparametric MRI is currently the recommended imaging modality for prostate cancer. However, it is not sufficiently accurate to replace systematic biopsies. In this line of research, we extract quantitative parameters from multiparametric MRI and combine them by machine learning for improving prostate cancer diagnostics. Additionally, we investigate the link between relevant MRI features and genomic features of aggressive prostate cancer <br/><img src='/images/mri_cover.jpg' width='300px'>"
+excerpt:  <br/><img src='/images/mri_cover.jpg' width='400px', align='left'> "Prostate cancer is the second most common form of cancer and one of the most lethal in western men. Timely and accurate diagnosis is crucial. Multiparametric MRI is currently the recommended imaging modality for prostate cancer. However, it is not sufficiently accurate to replace systematic biopsies. In this line of research, we extract quantitative parameters from multiparametric MRI and combine them by machine learning for improving prostate cancer diagnostics. Additionally, we investigate the link between relevant MRI features and genomic features of aggressive prostate cancer"
 collection: portfolio
 ---
 
