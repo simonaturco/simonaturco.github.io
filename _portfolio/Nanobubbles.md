@@ -1,6 +1,6 @@
 ---
-title: "Quantitative nanobubble contrast-enhanced ultrasound"
-excerpt: "tbd <br/><img src='/images/500x300.png'>"
+title: "Nanobubble-based contrast-enhanced ultrasound"
+excerpt: "tbd <br/><img src='/images/nb_cover.png' width='400px'>"
 collection: portfolio
 ---
 
