@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 Hemodynamic monitoring in hospitals involves the continuous assessment of the cardiovascular system to understand how the heart and blood vessels are functioning. This process is crucial for patients at risk of deterioration, and advancements in monitoring technologies have expanded the options available at the bedside. Traditional invasive methods, such as pulmonary artery catheterization, are giving way to safer and more continuous non-invasive measurements of key parameters like blood pressure and cardiac output. Despite these improvements, challenges remain, including the need for more complete hemodynamic information, uncertainties in interpreting standard variables, and late detection of patient deterioration. 
-<figure style="width:500px; float:right">
+<figure style="width:300px; float:right">
   <img src='/images/thesis_laura.PNG' alt="thesis cover Laura" >
 </figure>
 This field of research focuses on overcoming these limitations by proposing new theoretical frameworks and experimental tests. The goal is to enhance the specificity and accuracy of hemodynamic measures using standard hospital equipment, ultimately contributing to improved patient care and outcomes.
