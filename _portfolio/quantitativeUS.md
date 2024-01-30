@@ -1,17 +1,25 @@
 ---
 title: "Quantitative contrast-enhanced ultrasound"
-excerpt: "nb. <br/><img src='/images/ceus_quant_cover.png' width = '300px'>"
+excerpt: "Ultrasound contrast agents (UCAs) have significantly expanded diagnostic possibilities through the concurrent application of indicator dilution principles and dynamic contrast-enhanced ultrasound (DCE-US) imaging. These microbubbles, encased in a biocompatible shell and possessing rheological properties akin to red blood cells, serve as intravascular indicators for functional imaging of the (micro)vasculature using quantitative DCE-US. Various models describing the intravascular kinetics of UCAs have been proposed, facilitating the creation of functional quantitative maps crucial for diagnosing diverse pathological conditions. In this line of research, we develop quantitative analysis methods  to extract multiple quantitative maps from DCE-US, reflecting complementary variables of underlying physiological processes. Using probabilistic frameworks based on emerging machine-learning methods, we aim to enhance the diagnostic accuracy of DCE-US imaging through the optimal combination of extracted complementary information. <br/><img src='/images/ceus_quant_cover.png' width = '300px'>"
 collection: portfolio
 ---
 
-Intro (UMB)
+Contrast-enhanced ultrasound (CEUS) has revolutionized medical imaging by introducing a dynamic dimension to conventional ultrasound techniques. With the integration of ultrasound contrast agents (UCAs), such as microbubbles, CEUS enables enhanced visualization of blood flow and tissue perfusion. Beyond mere qualitative assessments, the field of CEUS has increasingly focused on quantification – a pivotal aspect that provides precise and measurable insights into vascular and tissue characteristics. Quantitative analysis in CEUS involves the application of sophisticated methodologies, including temporal, spatial, and spatiotemporal analyses of contrast agent kinetics. This approach not only refines diagnostic accuracy but also plays a crucial role in deciphering pathological conditions. In this line of research, we develop quantitative analysis methods  to extract multiple quantitative maps from DCE-US, reflecting complementary variables of underlying physiological processes. Using probabilistic frameworks based on emerging machine-learning methods, we aim to enhance the diagnostic accuracy of DCE-US imaging through the optimal combination of extracted complementary information.
 
+
+### Quantitaive CEUS for classification of liver lesion
 Porcine liver (IUS)?
 +
 Stanford liver
 
+### Hemodynamic quantification
 Main work from Peiran's thesis
+https://pure.tue.nl/ws/portalfiles/portal/297639802/20230602_Chen_P._hf.pdf
 
-Chuan's work on breast.
-
-Uterine [when possible]
+### Quantitative CEUS imaging for breast leasions differentiation
+Breast cancer remains a paramount global health concern, affecting millions of lives and necessitating comprehensive efforts in understanding, diagnosing, and treating the disease. According to recent statistics, breast cancer is the most common cancer among women worldwide, with approximately 2.3 million new cases diagnosed annually and over 685,000 reported deaths. Beyond its prevalence, the impact of breast cancer extends beyond mere numbers, affecting individuals physically, emotionally, and socioeconomically. Imaging by mammography and B-mode ultrasound, clinical breast examinations, and self-breast examinations have traditionally been pivotal in the early diagnosis of breast cancer. However, these diagnostic strategies come with their limitations, including false positives and negatives, discomfort, and exposure to ionizing radiation in the case of mammography. In screening protocols, US primarily complements mammography and proves more advantageous for individuals with dense breast tissue. When identifying a potentially concerning lump or mass, US plays a vital role in elucidating the characteristics of the abnormality. However, the assessment of morphological attributes through B-mode images often results in a considerable number of false-positives, prompting unnecessary biopsy procedures. In this project, we investigated the whether  <a href="https://link.springer.com/article/10.1007/s00330-023-10500-x" target="_blank">CEUS could improve the differentiation of breast lesions </a>.
+We employed spatiotemporal analysis of CEUS to quantify heterogeneity by parameter such as spectral coherence, temporal correlation and mutual information, which are related to the contrast agent dispersion through the vascular network. In a poplutaion of 64 women with well-perfused lesions we achieved a AUC of 0.89 for differentiating between benign and malignant breast lesions. This is the first time that CUDI has been applied on the breast, with very encouraging results!
+<figure style="width:400px; float: right">
+  <img src='/images/mi_breast_mod.png' alt="Network architecture" >
+  <figcaption>Examples of mutual information maps in a benign and malignant breast cancer cases. <i>Adapted from Chen et al. Eur Radiol 2023</i></figcaption>
+</figure>

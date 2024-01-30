@@ -1,6 +1,6 @@
 ---
 title: "Modeling and analysis of patient mechanical ventilation"
-excerpt: "tbd. <br/><img src='/images/MV-cover.png' widt='200px'>"
+excerpt: "tbd. <br/><img src='/images/MV-cover.png' width='300px'>"
 collection: portfolio
 ---
 

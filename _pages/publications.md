@@ -29,6 +29,7 @@ Books and book chapters
 
 Journal papers
 =====
+* Chen, C., Turco, S., Kapetas, P., Mann, R., Wijkstra, H., de Korte, C. and Mischi, M., 2023. Spatiotemporal analysis of contrast-enhanced ultrasound for differentiating between malignant and benign breast lesions. European radiology, pp.1-10. https://doi.org/10.1007/s00330-023-10500-x
 * Dinis Fernandes, C., Schaap, A., Kant, J., van Houdt, P., Wijkstra, H., Bekers, E., Linder, S., Bergman, A. M., van der Heide, U., Mischi, M., Zwart, W., Eduati, F., & Turco, S. (2023). Radiogenomics analysis linking multiparametric MRI and transcriptomics in prostate cancer. Cancers, 15(12), 3074. https://doi.org/10.3390/cancers15123074 
 * Mestrom, E. H. J., Bakkes, T. H. G. F., Ourahou, N., Korsten, H. H. M., Serra, P. de A., Montenij, L. J., Mischi, M., Turco, S., & Bouwman, R. A. (2023). Prediction of postoperative patient deterioration and unanticipated intensive care unit admission using perioperative factors. PloS One, 18(8), e0286818. https://doi.org/10.1371/journal.pone.0286818
 * Van Diepen, A., Bakkes, T. H. G. F., De Bie, A. J. R., Turco, S., Bouwman, R. A., Woerlee, P. H., & Mischi, M. (2023). Evaluation of the accuracy of established patient inspiratory effort estimation methods during mechanical support ventilation. Heliyon, 9. https://doi.org/10.1016/j.heliyon.2023.e13610
