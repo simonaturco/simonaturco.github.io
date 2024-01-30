@@ -18,6 +18,7 @@ This line of research is summarized in the work of <a href="https://pure.tue.nl/
   <img src='/images/peiran_superres.png' alt="Example super-resolution imaging in bifurcating phantom" >
   <figcaption>Examples of dual-bifurcation phantom frabricated by sugar-printing, together with corresponding super-resolution imaging. <i>Adapted from Peiran Chen's thesis.</i></figcaption>
 </figure>
+
 ### Quantitaive CEUS for classification of liver lesion
 Porcine liver (IUS)?
 +
