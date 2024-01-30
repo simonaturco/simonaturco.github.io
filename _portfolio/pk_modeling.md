@@ -1,10 +1,10 @@
 ---
 title: "Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis"
-excerpt: "In this line of research, we propose quantitative assessment of cancer angiogenesis by combining dynamic contrast-enhanced imaging with pharmacokinetic modeling of the contrast agent kinetics. This enables the extraction of interpretable parameters that can be used for cancer diagnostics. <br/><img src='/images/500x300.png'>"
+excerpt: "In this line of research, we propose quantitative assessment of cancer angiogenesis by combining dynamic contrast-enhanced imaging with pharmacokinetic modeling of the contrast agent kinetics. This enables the extraction of interpretable parameters that can be used for cancer diagnostics. <br/><img src='/images/PK_targeted.gif' width= '400px'>"
 collection: portfolio
 ---
 
-This line of research is summarized in my [PhD thesis](https://pure.tue.nl/ws/portalfiles/portal/88738712/20180117_Turco.pdf) and further advanced for contrast-enhanced ultrasound with [nanobubble contrast agents](https://simonaturco.github.io/portfolio/Nanobubbles/). An additional great resource is our book entitled ["Quantification of contrast kinetics in clinical imaging](https://link.springer.com/content/pdf/10.1007/978-3-319-64638-1.pdf).
+This line of research is summarized in my <a href="https://pure.tue.nl/ws/portalfiles/portal/88738712/20180117_Turco.pdf" target="_blank"> PhD thesis </a>. and further advanced for contrast-enhanced ultrasound with <a href="https://simonaturco.github.io/portfolio/Nanobubbles/" target="_blank"> nanobubble contrast agents </a>. An additional great resource is our book entitled <a href="https://link.springer.com/content/pdf/10.1007/978-3-319-64638-1.pdf" target="_blank">  "Quantification of contrast kinetics in clinical imaging" </a>.
 
 Cancer represents a global health challenge. The recognition of angiogenesis, i.e., the formation of a vascular supply, as a key regulator of cancer growth, has opened new possibilities for both cancer diagnostics and therapy. Cancer vasculature, exhibiting peculiar structural, functional and molecular features different from normal vessels, is the target of novel anti-angiogenic therapies. Despite angiogenesis imaging holds great potential for improved cancer detection and localization, therapy monitoring, and treatment follow-up, its clinical translation is hampered by the lack of standardization of methods and protocols, and by the limited accuracy and reliability of available techniques.
 
