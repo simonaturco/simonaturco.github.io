@@ -1,7 +1,15 @@
 ---
 title: "Nanobubble-based contrast-enhanced ultrasound"
-excerpt: "tbd <br/><img src='/images/nb_cover.png' width='400px'>"
+excerpt: "Novel contrast agents composed of nanobubbles (~300 nm) are being developed to overcome the limitations of standard clinically-available ultrasound contrast agent. Because of their smaller size, nanobubbles can cross the vascular endothelium and reach targets beyond the vessel wall, opening up new avenues for assessment of vascular permeability and the expression of cancer-specific targets. In this line of research, we developed pharmacokinetic model describing the transport of the nanobubbles in the vasculature and their distribution in tissue, with the aim of extracting quantitative cancer biomarkers. <br/><img src='/images/nb_cover.png' width='400px'>"
 collection: portfolio
 ---
 
-Chuan's work
+Traditional contrast agents have played a pivotal role in improving the visibility of anatomical structures and abnormalities in medical imaging. However, the quest for agents with enhanced imaging capabilities, reduced side effects, and increased target specificity has driven the exploration of nanobubbles. This miniature gas-filled structures with typical size ten times smaller than microbubbles penetrate more easily in the capillary network, and may extravasate in case of enhanced permeability such as in cancer and inflammation. When their shell is decorated with suitable ligands, they can then reach targets that go beyond the vessel wall. Because of their more complex kinetics and distribution in and out of the vasculature, dedicated models and quantification strategies are needed - this is the focus of this line of research.
+
+### The second wave phenomenon
+
+The investigation into nanobubble (NB) pharmacokinetics in contrast-enhanced ultrasound (CEUS) at the pixel level has unveiled a distinctive phenomenon by which the initial passage of the contrast agent bolus is accompanied by a second wave. Notably, this effect has not been previously observed in CEUS utilizing microbubbles. This motivated us to explore and understand this <a href="https://www.nature.com/articles/s41598-022-17756-1" target="_blank"> second-wave phenomenon </a> and its potential clinical applications. We characterized this phenomeon by a dedicated pharmacokinetic model and used this model to fit time-intensity curves extracted from NB-CEUS. The resulting model parameters were presented as parametric maps to visually depict the characteristics of tumor lesions. Two model parameters, namely the ratio of peak intensities of the second wave over the first and the decay rate of the wash-out process, exhibited significant differences between malignant tumors and normal tissue, suggesting that this unique phenomenon has the potential to support the diagnosis of cancerous lesions.
+
+https://ieeexplore.ieee.org/abstract/document/9799708
+
+### PSMA-targeted nanobubbles
