@@ -48,9 +48,11 @@ Leveraging a unique datasets, including prostate cancer patients who underwent m
 We found a significant link especially between perfusion-based imaging features, extracted from MRDI, with transcriptomics features related to related to cell proliferation and migration, and associated with prostate cancer aggressiveness and progression. 
 
 
-### Partners
-These research has been performed in collaboration with the Netherlands Cancer Institute (Antoni van Leeuwenhoek) and the Amsterdam Universtiy Medical Center.
-<figure style="width:100px">
+### Contributors and partners
+This research has been carried out with contribution from Catarina Dinis Fernandes (assitant professor), Hubert Blach (former master student), Annekoos Schaap (former master student).
+
+This research was performed in collaboration with the Biomodelling group (ICMS, Biomedical Engineering, TU/e), the Netherlands Cancer Institute (Antoni van Leeuwenhoek) and the Amsterdam Universtiy Medical Center.
+<figure style="width:200px">
   <img src='/images/logo_amc_nki.png' alt="Logos" >
 </figure>
 
