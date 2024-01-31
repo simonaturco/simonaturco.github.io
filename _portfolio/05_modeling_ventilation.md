@@ -32,7 +32,7 @@ To improve the model, we extended the training by using simulated data with the 
 Currently, we are working on further improving the method by refining the simulation trhough a generative-adversarial network (GAN) approach. Although clinical data with good-quality labels is scarce, large ventilation dataset are available without labels. The idea is to learn the charachteristics of clinical data which cannot be modeled by the simulator through adversarial learning. By using the simulated data as input, however, we are able to mantain the known timings, thus possibly generating a more realistic simulated dataset with labels. The idea is summarized schematically by picture below. 
 
 <figure style="height:500px; ">
-  <img src='/images/gan_pva.png' alt="U-net architecture" >
+  <img src='/images/gan_pva.png' alt="GAN approach" >
   <figcaption> GAN approach for creating a large labelled datasets with more realistic data.</figcaption>
 </figure>
 
@@ -46,3 +46,10 @@ BM/d lab:
 
 Collaborators:
 * Catharina Ziekenhuis Eindhoven
+* Policlinico S. Matteo (Pavia, Italy)
+
+<figure style="height:300px; ">
+  <img src='/images/logo_cze_smatteo.png' alt="logos" >
+</figure>
+
+
