@@ -37,8 +37,8 @@ BM/d lab:
 * Peiran Chen (former PhD student)
 * Chuan Chen (former Postdoc researcher)
 
-<figure style="height:100px; float: right">
-  <img src='/images/logos_qUS_h.png' alt="Logos" >
+<figure style="height:100px;">
+  <img src='/images/logo_qUS_h.png' alt="Logos" >
 </figure>
 Collaborators:
 * Microsystems group, TU/e 
