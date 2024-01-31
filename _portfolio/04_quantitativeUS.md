@@ -15,8 +15,7 @@ Over the past decades, significant advancements in hemodynamic quantification me
 
 This line of research is summarized in the work of <a href="https://pure.tue.nl/ws/portalfiles/portal/297639802/20230602_Chen_P._hf.pdf" target="_blank"> "thesis of Peiran Chen" </a>.
 <figure style="height:400px">
-  <img src='/images/peiran_superres.png' alt="Example super-resolution imaging in bifurcating phantom" >
-  <figcaption>Examples of dual-bifurcation phantom frabricated by sugar-printing, together with corresponding super-resolution imaging. <i>Adapted from Peiran Chen's thesis.</i></figcaption>
+  <img src='/images/peiran_superres.png' alt="Example super-resolution imaging in bifurcating phantom" > <figcaption>Examples of dual-bifurcation phantom frabricated by sugar-printing, together with corresponding super-resolution imaging. <i>Adapted from Peiran Chen's thesis.</i></figcaption>
 </figure>
 
 ### Quantitaive CEUS for classification of liver lesion
