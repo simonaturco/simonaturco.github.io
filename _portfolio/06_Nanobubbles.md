@@ -10,6 +10,6 @@ Traditional contrast agents have played a pivotal role in improving the visibili
 
 The investigation into nanobubble (NB) pharmacokinetics in contrast-enhanced ultrasound (CEUS) at the pixel level has unveiled a distinctive phenomenon by which the initial passage of the contrast agent bolus is accompanied by a second wave. Notably, this effect has not been previously observed in CEUS utilizing microbubbles. This motivated us to explore and understand this <a href="https://www.nature.com/articles/s41598-022-17756-1" target="_blank"> second-wave phenomenon </a> and its potential clinical applications. We characterized this phenomeon by a dedicated pharmacokinetic model and used this model to fit time-intensity curves extracted from NB-CEUS. The resulting model parameters were presented as parametric maps to visually depict the characteristics of tumor lesions. Two model parameters, namely the ratio of peak intensities of the second wave over the first and the decay rate of the wash-out process, exhibited significant differences between malignant tumors and normal tissue, suggesting that this unique phenomenon has the potential to support the diagnosis of cancerous lesions.
 
-https://ieeexplore.ieee.org/abstract/document/9799708
+ <a href="https://ieeexplore.ieee.org/abstract/document/9799708" target="_blank">title tbd </a>
 
 ### PSMA-targeted nanobubbles
