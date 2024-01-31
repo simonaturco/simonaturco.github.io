@@ -45,3 +45,7 @@ BM/d lab:
 Collaborators:
 * Exner lab, Case Western Reserve University 
 * Kolios lab, Toronto Metropolitan University
+
+<figure style="width:200px; float:right ">
+  <img src='/images/logo_cwru_tmu.png' alt="logos" >
+</figure>
