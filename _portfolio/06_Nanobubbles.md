@@ -18,7 +18,7 @@ The investigation into nanobubble (NB) pharmacokinetics in contrast-enhanced ult
 Motivated by the promising findings, we developed novel  <a href="https://ieeexplore.ieee.org/abstract/document/9799708" target="_blank">compartmental pharmacokinetic models </a> designed to elucidate the second-wave phenomenon. Utilizing this models, a more detailed analysis becomes possible, allowing for an in-depth examination of the influence of various physiological factors on the attributes of the second-wave phenomenon. We found that a double modified local density random walk (mLDRW) model, despite its simplicity and reliance on robust assumptions, enables precise fitting of the experimental data, facilitating the estimation of multiple parametric maps for the quantitative and visual representation of in-vivo pharmacokinetics of NBs. Our findings confirm that the second-wave phenomenon is influenced by various physiological factors, highlighting the model's potential for application in pertinent clinical scenarios.
 
 <figure style="width:400px; ">
-  <img src='/images/pk_secondwave.PNG' alt="3-layer pharmacokinetic model" >
+  <img src='/images/pk_secondwave.png' alt="3-layer pharmacokinetic model" >
   <figcaption>Schematic diagram of 3-layer compartmental pharmacokinetic model, together with example TICs obtained from the highlighted section. <i>Adapted from Chen et al. IEEE BME 2022.</i></figcaption>
 </figure>
 
@@ -27,14 +27,14 @@ Besides being able to cross the vessel wall, nanobubbles can also be decorated w
 To describe the kinetics of targeted nanonubbles we proposed two pharmacokinetic models, one based on a vascular input given by a mLDRW model, while the other takes inspiration from the reference tissue model, previously developed for nuclear imaging. Our results show that several parameters from these two models are able to distinguish between the kinetics of targeted and free nanobubbles.
 
 <figure style="width:400px; ">
-  <img src='/images/mouse_model.PNG' alt="dual tumor mouse model" >
+  <img src='/images/mouse_model.png' alt="dual tumor mouse model" >
   <figcaption>Schematic diagram explaining the dual-tumor mouse model. </figcaption>
 </figure>
 
 Motivated by this, we further set out to investigate whether the estimated parameters were different between cancer and healthy in dual-tumor mouse models of prostate cancer. The dual tumor model is ideal for test our hypothesis because it features one tumor expressing PSMA (PSMA-) on one flank of each mouse, and one tumor not expressing PSMA (PSMA+) on the other flank of the mouse. We found that, compared with the TICs of free NBs, TICs of PSMA-NBs present higher peak intensity and a more delayed second wave, especially in the PSMA+ tumor. This is reflected by two parameters, namely the peak time and residual factor of the second wave, which were significantly different between PSMA+ and PSMA- tumors when using PSMA-NBs.
 
 <figure style="width:400px; ">
-  <img src='/images/psma_comparison.PNG' alt="Comparison psma positive negative" >
+  <img src='/images/psma_comparison.png' alt="Comparison psma positive negative" >
   <figcaption>Parametric maps and violin plots of the 2nd wave retention parameter, highlighting differences between PSMA-targeted and free NBs in PSMA+ and PSMA- tumors. <i>Adapted from Chen et al. MIB 2023.</i></figcaption>
 </figure>
 
