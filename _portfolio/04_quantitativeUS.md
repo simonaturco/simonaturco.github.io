@@ -33,11 +33,11 @@ We employed spatiotemporal analysis of CEUS to quantify heterogeneity by paramet
 </figure>
 
 ### Contributors and partners
-**BM/d lab**:
+*BM/d lab*:
 * Peiran Chen (former PhD student)
 * Chuan Chen (former Postdoc researcher)
 
-**Collaborators**:
+*Collaborators*:
 * Microsystems group, TU/e 
 * Mixed Signal Microelectronics, TU/e 
 * Solstice Pharma 
