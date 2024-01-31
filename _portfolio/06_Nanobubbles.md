@@ -1,6 +1,6 @@
 ---
 title: "Nanobubble-based contrast-enhanced ultrasound"
-excerpt: "Novel contrast agents composed of nanobubbles (~300 nm) are being developed to overcome the limitations of standard clinically-available ultrasound contrast agent. Because of their smaller size, nanobubbles can cross the vascular endothelium and reach targets beyond the vessel wall, opening up new avenues for assessment of vascular permeability and the expression of cancer-specific targets. In this line of research, we developed pharmacokinetic model describing the transport of the nanobubbles in the vasculature and their distribution in tissue, with the aim of extracting quantitative cancer biomarkers. <br/><img src='/images/nb_cover.png' width='400px'>"
+excerpt: "Novel contrast agents composed of nanobubbles (~300 nm) are being developed to overcome the limitations of standard clinically-available ultrasound contrast agent. Because of their smaller size, nanobubbles can cross the vascular endothelium and reach targets beyond the vessel wall, opening up new avenues for assessment of vascular permeability and the expression of cancer-specific targets. In this line of research, we developed pharmacokinetic model describing the transport of the nanobubbles in the vasculature and their distribution in tissue, with the aim of extracting quantitative cancer biomarkers. <br/><img src='/images/NB_cover.png' width='400px'>"
 collection: portfolio
 ---
 
