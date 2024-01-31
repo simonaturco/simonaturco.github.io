@@ -22,7 +22,7 @@ We thus performed an  <a href="https://www.cell.com/heliyon/pdf/S2405-8440(23)00
 The intricate interplay between patients and mechanical ventilators in clinical settings can sometimes lead to disruptions in the synchronization of their respiratory efforts, giving rise to a phenomenon known as patient-ventilator asynchronies. This refers to the mismatches in timing, flow, or volume coordination between a patient's spontaneous breathing efforts and the assistance provided by the mechanical ventilator. Patient-ventilator asynchronies have attracted increasing attention within the realm of critical care, as their occurrence can have significant implications for patient outcomes. These asynchronies can compromise the effectiveness of ventilation, contribute to patient discomfort, and, in severe cases, may lead to respiratory muscle fatigue or injury. They have also been associated with increased length of ICU stay and mortality. In present clinical practice, Patient-Ventilator Asynchronies (PVAs) are typically identified and explored through the visual assessment conducted by intensive care physicians. Nevertheless, this method has notable limitations. Firstly, visual inspection proves to be time-consuming and susceptible to subjective interpretation. Secondly, maintaining continuous monitoring through visual means is impractical, potentially leading to the oversight of a significant number of PVAs.
 Here we propose, a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9175796" target="_blank"> machine learning approach for automatic detection and classification (PVAs) </a>. The proposed method is based on a U-net architecture, apprioprately adjusted for 1-D signals (measured pressure, flow and volume). Based on these input signals, the network learnt to recognized the start and end of patient's respiratory efforts. Comparing these timings with the mechanical ventilator triggering and cycling, it is possible to detect and classify different PVAs. The proposed method was able to detect patient efforts with a sensitivity and precision of 98.6% and 97.3% for the inspiratory efforts, and 97.7% and 97.2% for the expiratory efforts, and demostrated high classification accuracy (90-98%) accross all types of PVAs.
 
-<figure style="width:500px; ">
+<figure style="height:400px; ">
   <img src='/images/unet_tom.png' alt="U-net architecture" >
   <figcaption> Adapted U-net network architecture for automatic detection of PVAs.</figcaption>
 </figure>
@@ -31,7 +31,7 @@ To improve the model, we extended the training by using simulated data with the 
 
 Currently, we are working on further improving the method by refining the simulation trhough a generative-adversarial network (GAN) approach. Although clinical data with good-quality labels is scarce, large ventilation dataset are available without labels. The idea is to learn the charachteristics of clinical data which cannot be modeled by the simulator through adversarial learning. By using the simulated data as input, however, we are able to mantain the known timings, thus possibly generating a more realistic simulated dataset with labels. The idea is summarized schematically by picture below. 
 
-<figure style="height:500px; ">
+<figure style="height:400px; ">
   <img src='/images/gan_pva.png' alt="GAN approach" >
   <figcaption> GAN approach for creating a large labelled datasets with more realistic data.</figcaption>
 </figure>
@@ -48,7 +48,7 @@ Collaborators:
 * Catharina Ziekenhuis Eindhoven
 * Policlinico S. Matteo (Pavia, Italy)
 
-<figure style="height:300px; ">
+<figure style="height:200px; ">
   <img src='/images/logo_cze_smatteo.png' alt="logos" >
 </figure>
 
