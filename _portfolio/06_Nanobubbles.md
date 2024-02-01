@@ -33,7 +33,7 @@ To describe the kinetics of targeted nanonubbles we proposed two pharmacokinetic
 
 Motivated by this, we further set out to investigate whether the estimated parameters were different between cancer and healthy in dual-tumor mouse models of prostate cancer. The dual tumor model is ideal for test our hypothesis because it features one tumor expressing PSMA (PSMA-) on one flank of each mouse, and one tumor not expressing PSMA (PSMA+) on the other flank of the mouse. We found that, compared with the TICs of free NBs, TICs of PSMA-NBs present higher peak intensity and a more delayed second wave, especially in the PSMA+ tumor. This is reflected by two parameters, namely the peak time and residual factor of the second wave, which were significantly different between PSMA+ and PSMA- tumors when using PSMA-NBs.
 
-<figure style="width:650px; ">
+<figure style="height:400px; ">
   <img src='/images/psma_comparison.png' alt="Comparison psma positive negative" >
   <figcaption>Parametric maps and violin plots of the 2nd wave retention parameter, highlighting differences between PSMA-targeted and free NBs in PSMA+ and PSMA- tumors. <i>Adapted from Chen et al. MIB 2023.</i></figcaption>
 </figure>
