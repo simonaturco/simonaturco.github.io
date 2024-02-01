@@ -50,6 +50,6 @@ Collaborators:
   <li>Kolios lab, Toronto Metropolitan University</li>
 </ul>
 
-<figure style="height:100px; ">
+<figure style="height:50px; ">
   <img src='/images/logo_cwru_tmu.png' alt="logos" >
 </figure>
