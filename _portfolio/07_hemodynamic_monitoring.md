@@ -16,11 +16,13 @@ You can read more about this topic on the <a href="https://pure.tue.nl/ws/portal
 Continuing this line of research, the PISANO project seeks to leverage technological advances in pathophysiological modeling, unobtrusive sensing, monitoring and artificial intelligence (AI) towards improving hemodynamic measurements in critical care. The main hypothesis is that the standard hemodynamic monitoring technology might not be used up to its full potential. In this context, we explore how to adapt existing critical care technology for the purpose to improve existing measurement quality, or developing new measurement strategies, aiming at extracting new parameters and obtain early and comprehensive information on the hemodynamic status of patients at risk of deterioration.  A major thrust is on radical innovations towards widespread use of ultrasound (US) technology. Cuff with integrated US might enable continuous peri-operative monitoring to detect hemodynamic instabilities earlier and with higher accuracy. More in general, using such new non-invasive smart measurement technique aims to replace current invasive methods to monitor functional hemodynamic parameters, which reveal useful for early detection of patient deterioration and for guiding critical care treatments
 
 ### Contributors and partners
-BM/d lab:
+*BM/d lab*:
 * Laura Bogatu (former PhD student)
 * Agata Barbagini (PhD student)
+* Pierre Woerlee (part-time professor)
+* Massimo Mischi (professor)
 
-Collaborators:
+*Collaborators*:
 * Philips Research
 * Catharina Ziekenhuis Eindhoven
 

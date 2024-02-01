@@ -22,4 +22,16 @@ A binding model was developed for molecular imaging of angiogenesis by novel tar
 The feasibility of the proposed approach for quantitative <a href="https://iopscience.iop.org/article/10.1088/1361-6560/aa5e9a/meta" target="_blank">molecular imaging</a> of angiogenesis was shown in prostate tumor-bearing rats injected with a clinical-grade molecularly-targeted ultrasound contrast agent. The binding rate showed ability to discriminate between malignant and benign tissue, with a shorter and simplified protocol compared to semi-quantitative assessment by available molecular imaging methods. Subsequently, the validity of the proposed model was investigated by comparing the binding rate values in rats injected with a targeted and a non-targeted contrast agent. The estimated values were significantly smaller for non-targeted agents, with no difference between cancer and healthy tissue, confirming the validity of the proposed approach. A <a href="https://link.springer.com/article/10.1007/s11307-018-1274-z" target="_blank">longitudinal study</a> was performed in colon-cancer bearing mice
 undergoing anti-angiogenic treatment, to test the feasibility of the proposed method for monitoring the response to therapy. The binding rate significantly decreases after treatment, and is able to discriminate between clinical responders and nonresponders.
 
+### Contributors and partners
+BM/d lab:
+* Massimo Mischi (professor)
+* Hessel Wijkstra (part-time professor)
 
+Collaborators:
+* Amsterdam University Medical Center
+* Stanford medicine
+* Bracco imaging S.P.A 
+* Netherlands Cancer Institute (Antoni van Leeuwenhoek)
+<figure style="height:200px">
+  <img src='/images/logos_pk.png' alt="Logos" >
+</figure>

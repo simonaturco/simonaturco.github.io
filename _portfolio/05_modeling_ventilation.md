@@ -37,14 +37,15 @@ Currently, we are working on further improving the method by refining the simula
 </figure>
 
 ### Contributors and partners
-BM/d lab:
+*BM/d lab*:
 * Anouk van Diepen (PhD student)
 * Tom Bakkes (PhD student)
 * Liming Hao (former visiting PhD student)
 * Nishith Chennakeshava (PhD student)
 * Pierre Woerlee (part-time professor)
+* Massimo Mischi (professor)
 
-Collaborators:
+*Collaborators*:
 * Catharina Ziekenhuis Eindhoven
 * Policlinico S. Matteo (Pavia, Italy)
 

@@ -56,7 +56,6 @@ BM/d lab:
 Collaborators:
 * Biomodelling group (ICMS, Biomedical Engineering), TU/e
 * Amsterdam University Medical Center
-* Stanford Medicine 
 * Netherlands Cancer Institute (Antoni van Leeuwenhoek)
 <figure style="width:200px">
   <img src='/images/logo_amc_nki.png' alt="Logos" >

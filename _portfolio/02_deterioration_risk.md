@@ -12,3 +12,16 @@ In this line of research, we investigate novel approaches to predict patient det
 
 In a first study, we investiagated whether <a href="https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0286818" target="_blank">unanticipated admission to the intensive care unit (ICU)</a> could be predicted using variables extracted from the electronic medical record acquired at different phases of the perioperative period (before, during, and after surgery). We achieved an area under the receiver operating characteristic curve of 0.86 (95% CI 0.83–0.88) by combining intra- and early postoperative factors with preoperative patient factors. This emphasizes the need for clinical decision support tools in post anesthesia care units with regard to postoperative patient allocation.
 
+We are currently working on improving the prediction model by investigating different machine learning classifiers, and analyzing the contribution that features from different perioperative phases have on the prediciton results.
+
+### Contributors and partners
+*BM/d lab*:
+* Tom Bakkes (PhD student)
+* Eveline Mestrom (former PhD student)
+* Massimo Mischi (professor)
+* Uzay Kaymak (part-time professor)
+
+*Collaborators*:
+* Catharina Ziekenhuis Eindhoven
+* Philips Research
+
