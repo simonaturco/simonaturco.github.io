@@ -11,7 +11,7 @@ redirect_from:
 NOTE: THE PAGE IS UNDER CONSTRUCTION!
 ==
 
-I am assistant professor of statistical processing of biosignals at the [Biomedical Diagnostics lab](https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab) (BM/d), which is part of the [Signal Processing Systems](https://www.tue.nl/en/research/research-groups/signal-processing-systems) group,  Electrical Engineering department,  [Eindhoven University of Techonology](https://www.tue.nl/en/).
+I am assistant professor of statistical processing of biosignals at the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab" target="_blank"> Biomedical Diagnostics lab </a> (BM/d), which is part of the  <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems" target="_blank"> Signal Processing Systems</a> group,  Electrical Engineering department,  []()<a href="https://www.tue.nl/en/" target="_blank"> Eindhoven University of Techonology </a> (TU/e).
 
 Research
 ======
