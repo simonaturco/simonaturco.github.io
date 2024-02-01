@@ -11,7 +11,7 @@ redirect_from:
 NOTE: THE PAGE IS UNDER CONSTRUCTION!
 ==
 
-I am assistant professor of statistical processing of biosignals at the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab" target="_blank"> Biomedical Diagnostics lab </a> (BM/d), which is part of the  <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems" target="_blank"> Signal Processing Systems</a> group,  Electrical Engineering department,  []()<a href="https://www.tue.nl/en/" target="_blank"> Eindhoven University of Techonology </a> (TU/e).
+I am assistant professor of statistical processing of biosignals at the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab" target="_blank"> Biomedical Diagnostics lab</a> (BM/d), which is part of the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems" target="_blank"> Signal Processing Systems</a> group, Electrical Engineering department, <a href="https://www.tue.nl/en/" target="_blank">Eindhoven University of Techonology</a> (TU/e).
 
 Research
 ======
@@ -19,7 +19,7 @@ My research is devoted to quantitative model-driven analysis of medical images a
 
 Teaching
 ======
-Since 2018, I am the designer and responsible teacher for the course Statistical Signal Processing, which is part of the master curriculum in [Electrical Engineering](https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering) and the master curriculum in [Artificial Intelligence & Engineering Systems](https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/artificial-intelligence-engineering-systems) at the Eindhoven University of Technology.
+Since 2018, I am the designer and responsible teacher for the course Statistical Signal Processing, which is part of the master curriculum in <a href="https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering" target="_blank"> Electrical Engineering</a> and the master curriculum in <a href="https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/artificial-intelligence-engineering-systems" target="_blank"> Artificial Intelligence & Engineering Systems</a> at TU/e.
 
 Background
 ======
