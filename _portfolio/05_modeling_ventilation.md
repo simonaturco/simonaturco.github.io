@@ -29,7 +29,7 @@ Here we propose, a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 
 To improve the model, we extended the training by using simulated data with the model explained above. We found out that the <a href="https://www.sciencedirect.com/science/article/pii/S0169260722007143" target="_blank"> combination of simulated and clinical data </a> for training the algorithm achieved the best performance.
 
-Currently, we are working on further improving the method by refining the simulation trhough a generative-adversarial network (GAN) approach. Although clinical data with good-quality labels is scarce, large ventilation dataset are available without labels. The idea is to learn the charachteristics of clinical data which cannot be modeled by the simulator through adversarial learning. By using the simulated data as input, however, we are able to mantain the known timings, thus possibly generating a more realistic simulated dataset with labels. The idea is summarized schematically by picture below. 
+Currently, we are working on further improving the method by refining the simulation through a generative-adversarial network (GAN) approach. Although clinical data with good-quality labels is scarce, large ventilation dataset are available without labels. The idea is to learn the characteristics of clinical data which cannot be modeled by the simulator through adversarial learning. By using the simulated data as input, however, we are able to maintain the known timings, thus possibly generating a more realistic simulated dataset with labels. The idea is summarized schematically by picture below. 
 
 <figure style="height:300px; ">
   <img src='/images/gan_pva.png' alt="GAN approach" >
@@ -43,11 +43,16 @@ Currently, we are working on further improving the method by refining the simula
 * Liming Hao (former visiting PhD student)
 * Nishith Chennakeshava (PhD student)
 * Pierre Woerlee (part-time professor)
-* Massimo Mischi (professor)
+* Massimo Mischi (full professor, head of BM/d)
 
-*Collaborators*:
+*Partners*:
 * Catharina Ziekenhuis Eindhoven
 * Policlinico S. Matteo (Pavia, Italy)
+
+*Funding*:
+* Eindhoven MedTech Innovation Center (e/MTIC)
+*  China Scholarship Council (CSC), National Key Research and Development Project of China (Liming Hao)
+* Academic Excellence Foundation of BUAA for PhD Students (Liming Hao)
 
 <figure style="height:100px; ">
   <img src='/images/logo_cze_smatteo.png' alt="logos" >

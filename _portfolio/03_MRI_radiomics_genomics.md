@@ -48,12 +48,12 @@ Leveraging a unique datasets, including prostate cancer patients who underwent m
 We found a significant link especially between perfusion-based imaging features, extracted from MRDI, with transcriptomics features related to related to cell proliferation and migration, and associated with prostate cancer aggressiveness and progression. 
 
 ### Contributors and partners
-BM/d lab:
-* Catarina Dinis Fernandes (assitant professor)
+*BM/d lab*:
+* Catarina Dinis Fernandes (assistant professor)
 * Hubert Blach (former master student)
 * Annekoos Schaap (former master student)
 
-Collaborators:
+*Partners*:
 * Biomodelling group (ICMS, Biomedical Engineering), TU/e
 * Amsterdam University Medical Center
 * Netherlands Cancer Institute (Antoni van Leeuwenhoek)
@@ -61,6 +61,9 @@ Collaborators:
   <img src='/images/logo_amc_nki.png' alt="Logos" >
 </figure>
 
+*Funding*:
+* Hanarth Fonds fellowship
+* Knaw Van Leersum grant 
 <!-- ![description image](/images/name_image.ext "Optional title"){: .align-right width="300px"} -->
 
 <!-- Cancer is a global health challenge. Timely and accurate detection and diagnosis, together with effective therapy monitoring are essential in the fight against cancer. Based on the established link between cancer and the formation of (neo)vessels to support tumor growth (angiogesis), several imaging modality have been developed to detect early angiogenic changes. Non-invasive, radiation-free ultrasound and MRI imaging are particularly interesting for angiogenesis imaging. However, mostly qualitative assessment is currently performed in the clinical routing, possibly missing important information hidden in these rich spatio-temporal imaging sets. In my research, I developed methods for quantification of MRI and US imaging, and extraction of effective cancer biomarkers. I strive to combine model-driven and data-driven approaches, to obtain interpretable, physics-based biomarkers for improving cancer diagnostics.  -->

@@ -45,7 +45,7 @@ We employed spatiotemporal analysis of CEUS to quantify heterogeneity by paramet
 *Collaborators*:
 * Microsystems group, TU/e 
 * Mixed Signal Microelectronics, TU/e 
-* Solstice Pharma 
+* Solstice Pharmaceuticals 
 * Philips Research
 * Amsterdam University Medical Center
 * Stanford Medicine 
@@ -59,4 +59,4 @@ We employed spatiotemporal analysis of CEUS to quantify heterogeneity by paramet
 * Hanarth Fonds fellowship
 * Knaw Van Leersum grant 
 * NWO OTP, LOCATE project 
-* 4TU High Tech for a sustainable future, Precision Medicine program
+* 4TU High Tech for a sustainable future, Precision Medicine program 

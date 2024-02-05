@@ -33,11 +33,11 @@ The feasibility of the proposed approach for quantitative <a href="https://iopsc
 undergoing anti-angiogenic treatment, to test the feasibility of the proposed method for monitoring the response to therapy. The binding rate significantly decreases after treatment, and is able to discriminate between clinical responders and non-responders.
 
 ### Contributors and partners
-BM/d lab:
-* Massimo Mischi (professor)
+*BM/d lab*:
+* Massimo Mischi (full professor, head of BM/d)
 * Hessel Wijkstra (part-time professor)
 
-Collaborators:
+*Partners*:
 * Amsterdam University Medical Center
 * Stanford medicine
 * Bracco imaging S.P.A 
@@ -45,3 +45,7 @@ Collaborators:
 <figure style="height:200px">
   <img src='/images/logos_pk.png' alt="Logos" >
 </figure>
+
+*Funding*:
+* ERC starting grant (M. Mischi)
+* STW OTP (M. Mischi)

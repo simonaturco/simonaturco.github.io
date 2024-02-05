@@ -26,5 +26,9 @@ Continuing this line of research, the PISANO project seeks to leverage technolog
 * Philips Research
 * Catharina Ziekenhuis Eindhoven
 
+*Funding*:
+* Eindhoven MedTech Innovation center (e/MTIC)
+* NWO, TKI-HTSM PISANO 
+
 
 

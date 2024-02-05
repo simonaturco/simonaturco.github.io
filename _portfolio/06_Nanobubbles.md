@@ -39,12 +39,13 @@ Motivated by this, we further set out to investigate whether the estimated param
 </figure>
 
 ### Contributors and partners
-BM/d lab:
+*BM/d lab*:
 <ul>
   <li>Chuan Chen (former Postdoc researcher)</li>
+  <li>Massimo Mischi (full professor, head of BM/d)
 </ul>
 
-Collaborators:
+*Partners*:
 <ul>
   <li>Exner lab, Case Western Reserve University</li>
   <li>Kolios lab, Toronto Metropolitan University</li>
@@ -53,3 +54,6 @@ Collaborators:
 <figure style="height:50px; ">
   <img src='/images/logo_cwru_tmu.png' alt="logos" >
 </figure>
+
+*Funding*:
+* TU High Tech for a sustainable future, Precision Medicine program (M. Mischi)

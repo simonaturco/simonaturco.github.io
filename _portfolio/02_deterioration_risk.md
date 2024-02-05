@@ -25,3 +25,5 @@ We are currently working on improving the prediction model by investigating diff
 * Catharina Ziekenhuis Eindhoven
 * Philips Research
 
+*Funding*:
+* Eindhoven Medtech Innovation Center (e/MTIC)
