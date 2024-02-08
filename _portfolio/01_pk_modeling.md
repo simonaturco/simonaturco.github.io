@@ -28,7 +28,10 @@ In a <a href="https://journals.lww.com/investigativeradiology/abstract/2014/0800
 </figure> -->
 
 ![MRDI workflow](/images/MRDI_workflow.png)
-<span style="font-size:0.7em;"><i>MRDI workflow: First, dynamic acquisitions of multiple MR slices (2D + time) is performed. Then the time-intensity curves are extracted at each voxel and fitted by the dispersion model by iterative least square curve fitting, enabling the extraction of parametric maps characterizing the vascular architecture and vascular permeability. The obtained are then compared to the ground truth represented by the histological analysis of corresponding prostate slices.</i>.</span>
+<div align="left" style="line-height: .4em;">
+        <span style="font-size:0.7em;"><i>MRDI workflow: First, dynamic acquisitions of multiple MR slices (2D + time) is performed. Then the time-intensity curves are extracted at each voxel and fitted by the dispersion model by iterative least square curve fitting, enabling the extraction of parametric maps characterizing the vascular architecture and vascular permeability. The obtained are then compared to the ground truth represented by the histological analysis of corresponding prostate slices.</i>.</span>
+    </div>
+
 
 ### Ultrasound molecular imaging
 A binding model was developed for molecular imaging of angiogenesis by novel targeted contrast agents. In dynamic contrast-enhanced ultrasound, these are composed by intravascular microbubbles, whose shell has been functionalized with targeting ligands able to bind specific molecules over-expressed on the vessel walls of angiogenic tumor vasculature. The kinetics of such agents is described as a bi-compartmental model, with one compartment describing the freely flowing microbubbles, modeled by the convective-dispersion equation, and one compartment accounting for the bound microbubbles, described as an accumulating compartment. The binding rate is thus estimated and adopted for molecular assessment of angiogenesis.
@@ -48,6 +51,7 @@ undergoing anti-angiogenic treatment, to test the feasibility of the proposed me
 * Amsterdam University Medical Center
 * Stanford medicine
 * Bracco imaging S.P.A 
+* Radboud University Medical Center
 * Netherlands Cancer Institute (Antoni van Leeuwenhoek)
 
 *Funding*:
