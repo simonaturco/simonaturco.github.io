@@ -49,10 +49,9 @@ undergoing anti-angiogenic treatment, to test the feasibility of the proposed me
 * Stanford medicine
 * Bracco imaging S.P.A 
 * Netherlands Cancer Institute (Antoni van Leeuwenhoek)
-<figure style="height:200px">
-  <img src='/images/logos_pk.png' alt="Logos" >
-</figure>
 
 *Funding*:
 * ERC starting grant (M. Mischi)
 * STW OTP (M. Mischi)
+
+![logos](/images/logo_pk.png)

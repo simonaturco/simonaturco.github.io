@@ -55,8 +55,8 @@ Currently, we are working on further improving the method by refining the simula
 *  China Scholarship Council (CSC), National Key Research and Development Project of China (Liming Hao)
 * Academic Excellence Foundation of BUAA for PhD Students (Liming Hao)
 
-<figure style="height:100px; ">
-  <img src='/images/logo_cze_smatteo.png' alt="logos" >
-</figure>
+
+![logos](/images/logo_cze_smatteo.png)
+
 
 

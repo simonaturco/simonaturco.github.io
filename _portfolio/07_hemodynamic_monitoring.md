@@ -30,5 +30,5 @@ Continuing this line of research, the PISANO project seeks to leverage technolog
 * Eindhoven MedTech Innovation center (e/MTIC)
 * NWO, TKI-HTSM PISANO 
 
-
+![logos](/images/logo_hemo.png)
 

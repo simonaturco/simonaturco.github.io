@@ -18,12 +18,15 @@ We are currently working on improving the prediction model by investigating diff
 *BM/d lab*:
 * Tom Bakkes (PhD student)
 * Eveline Mestrom (former PhD student)
-* Massimo Mischi (professor)
 * Uzay Kaymak (part-time professor)
+* Massimo Mischi (full professor, head of BM/d)
 
-*Collaborators*:
+*Partners*:
 * Catharina Ziekenhuis Eindhoven
 * Philips Research
 
 *Funding*:
 * Eindhoven Medtech Innovation Center (e/MTIC)
+
+![logos](/images/logo_periop.png)
+

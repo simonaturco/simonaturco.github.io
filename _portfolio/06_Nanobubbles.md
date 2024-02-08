@@ -51,9 +51,7 @@ Motivated by this, we further set out to investigate whether the estimated param
   <li>Kolios lab, Toronto Metropolitan University</li>
 </ul>
 
-<figure style="height:50px; ">
-  <img src='/images/logo_cwru_tmu.png' alt="logos" >
-</figure>
-
 *Funding*:
-* TU High Tech for a sustainable future, Precision Medicine program (M. Mischi)
+* TU High Tech for a sustainable future, Precision Medicine program 
+
+![logos](/images/logo_cwru_tmu.png)

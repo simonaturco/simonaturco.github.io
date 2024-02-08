@@ -52,12 +52,10 @@ We employed spatiotemporal analysis of CEUS to quantify heterogeneity by paramet
 * Stanford Medicine 
 * Thomas Jefferson University Hospital
 
-<figure style="height:100px;">
-  <img src='/images/logo_qUS_h.png' alt="Logos" >
-</figure>
-
 *Funding*:
 * Hanarth Fonds fellowship
 * Knaw Van Leersum grant 
 * NWO OTP, LOCATE project 
 * 4TU High Tech for a sustainable future, Precision Medicine program 
+
+![logos](/images/logo_qUS_h.png)
