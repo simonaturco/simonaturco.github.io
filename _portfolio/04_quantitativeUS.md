@@ -12,16 +12,26 @@ A general introduction on this topic can be found on our review paper <a href="h
 ### CEUS for hemodynamic quantification
 
 Over the past decades, significant advancements in hemodynamic quantification methods have evolved based on CEUS imaging. In particular, our group has developed contrast-ultrasound dispersion imaging (CUDI) techniques, allowing the quantification of cancer angiogenesis. These techniques involve temporal, spatial, and spatiotemporal analysis of CEUS acquisitions to extract parameters related to blood perfusion and contrast dispersion. Encouragingly, CUDI techniques have demonstrated promising results in localizing prostate cancer. Despite these advancements, the clinical translation of many methods faces challenges such as the lack of validation under controllable conditions, limited understanding of the relationship between hemodynamics and tissue properties, and issues with imaging efficiency, reliability, and diagnostic accuracy. Therefore, the primary goal of this project was to facilitate the clinical translation and enhance the clinical value of a set of CEUS-based hemodynamic quantification techniques. With this goal in mind, we initially design and construct controllable, realistic, and perfusable (micro)vascular phantom models. These models are utilized for conducting quantitative hemodynamics analysis and optimizing contrast-enhanced ultrasound (CEUS) imaging efficiency in vitro. Subsequently, we embark on the development and validation of hemodynamic quantification methods specifically tailored for implementation in existing clinical scanners. The emphasis is on enhancing their diagnostic accuracy in vivo.
-<figure style="height:400px">
+
+![Example super-resolution imaging in bifurcating phantom](/images/peiran_superres.png)
+<div align="left" style="line-height:.7em; padding-bottom:-3em; padding-top:-3em">
+<span style="font-size:0.7em;"><i>Examples of dual-bifurcation phantom frabricated by sugar-printing, together with corresponding super-resolution imaging. Adapted from Peiran Chen's thesis.</i></span>
+</div >
+<!-- <figure style="height:400px">
   <img src='/images/peiran_superres.png' alt="Example super-resolution imaging in bifurcating phantom" > <figcaption>Examples of dual-bifurcation phantom frabricated by sugar-printing, together with corresponding super-resolution imaging. <i>Adapted from Peiran Chen's thesis.</i></figcaption>
 </figure>
-This line of research is summarized in the work of <a href="https://pure.tue.nl/ws/portalfiles/portal/297639802/20230602_Chen_P._hf.pdf" target="_blank"> "thesis of Peiran Chen"</a>.
+This line of research is summarized in the work of <a href="https://pure.tue.nl/ws/portalfiles/portal/297639802/20230602_Chen_P._hf.pdf" target="_blank"> "thesis of Peiran Chen"</a>. -->
 
 ### Quantitative CEUS for classification of liver lesion
 Liver cancer is among the most common cancers globally. In 2020, it was estimated to be the sixth most diagnosed cancer and the third leading cause of cancer-related deaths worldwide. Imaging plays a crucial role in the diagnosis, staging, and monitoring of liver cancer. However, due to the limitations of current diagnostic tools, focal liver lesions (FLLs) are often diagnosed incidentally, when the cancer is already in an advanced stage. Therefore, early differentiation between benign and malignant FLLs is vital to ensure the timely initiation of appropriate treatment.
-<figure style="width:400px; float:right">
-  <img src='/images/Fig_S2.png' alt="Visualization radiomics prediction" > <figcaption> Scatter plot of the top three radiomics features for differentiation of FLLs, with red labels for benign lesions and blue labels for malignant cases. It can be noticed that three features provide already a good separation between the classes.</figcaption>
-</figure>
+<!-- <figure style="width:400px; float:right">
+  <img src='/images/Fig_S2.png' alt="Visualization radiomics prediction" style="width:400px; float:right"> <figcaption> Scatter plot of the top three radiomics features for differentiation of FLLs, with red labels for benign lesions and blue labels for malignant cases. It can be noticed that three features provide already a good separation between the classes.</figcaption>
+</figure> -->
+
+<img src='/images/Fig_S2.png' alt="Visualization radiomics prediction" style="width:400px; float:right" > 
+<div align="left" style="line-height: .7em; padding-bottom:3em; padding-top:0em float:right" >
+<span style="font-size:0.7em;"><i>Scatter plot of the top three radiomics features for differentiation of FLLs, with red labels for benign lesions and blue labels for malignant cases. It can be noticed that three features provide already a good separation between the classes.</i>.</span>
+</div>
 
 Motivated by this, we proposed an <a href="https://ieeexplore.ieee.org/document/9740202" target="_blank">interpretable radiomics method</a> to distinguish between cancerous and non-cancerous focal liver lesions (FLLs) using contrast-enhanced ultrasound (CEUS). While CEUS holds promise for diagnosing FLLs, current methods rely solely on qualitative analysis, often hindered by motion artifacts and the complex nature of liver contrast enhancement. To overcome these challenges, we propose combining temporal and spatiotemporal analysis of arterial phase enhancement by CUDI, with texture analysis at various time points. Machine learning classifiers are then trained using these features for semi-automated FLL characterization, requiring only lesion location input. Clinical validation on 87 FLLs from 72 at-risk patients showed promising results, with a balanced accuracy of 0.84 in distinguishing between benign and malignant lesions. Feature analysis highlights the importance of combining spatiotemporal and texture features for optimal performance, particularly focusing on microvascular perfusion, architecture, and spatial enhancement characteristics.
 
