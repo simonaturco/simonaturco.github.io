@@ -16,6 +16,7 @@ You can also find my articles on <u><a href="https://scholar.google.it/citations
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
 Data
 =====
 * Simulated data from A Model-based Approach to Generating Annotated Pressure Support Waveforms. <a href="https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1" target="_blank">https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1 </a>
