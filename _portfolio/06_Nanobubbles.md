@@ -16,8 +16,8 @@ The investigation into nanobubble (NB) pharmacokinetics in contrast-enhanced ult
 </figure> -->
 
 ![Second wave phenomenon](/images/second_wave.png)
-<div align="left" style="line-height: .7em; padding-bottom:0em; padding-top:0em float:right" >
-<span style="font-size:0.7em;"><i>SExamples of time-intensity curves (TICs) exhibiting the second wave phenomenon. Adapted from Chen et al. Scientific Reports 2022.</span>
+<div align="left" style="line-height: .7em; padding-bottom:2em; padding-top:0em float:right" >
+<span style="font-size:0.7em;"><i>SExamples of time-intensity curves (TICs) exhibiting the second wave phenomenon. Adapted from Chen et al. Scientific Reports 2022 </i>.</span>
 </div>
 
 Motivated by the promising findings, we developed novel  <a href="https://ieeexplore.ieee.org/abstract/document/9799708" target="_blank">compartmental pharmacokinetic models </a> designed to elucidate the second-wave phenomenon. Utilizing this models, a more detailed analysis becomes possible, allowing for an in-depth examination of the influence of various physiological factors on the attributes of the second-wave phenomenon. We found that a double modified local density random walk (mLDRW) model, despite its simplicity and reliance on robust assumptions, enables precise fitting of the experimental data, facilitating the estimation of multiple parametric maps for the quantitative and visual representation of in-vivo pharmacokinetics of NBs. Our findings confirm that the second-wave phenomenon is influenced by various physiological factors, highlighting the model's potential for application in pertinent clinical scenarios.
@@ -67,6 +67,6 @@ Motivated by this, we further set out to investigate whether the estimated param
 </ul>
 
 *Funding*:
-* TU High Tech for a sustainable future, Precision Medicine program 
+* 4TU High Tech for a sustainable future, Precision Medicine program 
 
 ![logos](/images/logo_cwru_tmu.png)
