@@ -17,7 +17,7 @@ by a mono-exponential decay, and describing the contrast leakage in the extravas
   <img src='/images/pk_mri.gif' alt="Animation PK modeling of MR agents" > <figcaption>Animation schematically describing the transport of gadolinium-based MR contrast agents (left). The contrast agent flows through the intravascular space (IV) and at the capillary level extravasate into the extravascular extracellular space (EES). This can be described mathematically by a 2-compartment model (right).</figcaption>
 </figure> -->
 ![Animation PK modeling of MR agents](/images/pk_mri.gif)
-<div align="left" style="line-height:.7em; padding-bottom:3em; padding-top:-3em">
+<div align="left" style="line-height:.7em; padding-bottom:1em; padding-top:-3em">
 <span style="font-size:0.7em;"><i>Animation schematically describing the transport of gadolinium-based MR contrast agents (left). The contrast agent flows through the intravascular space (IV) and at the capillary level extravasate into the extravascular extracellular space (EES). This can be described mathematically by a 2-compartment model (right).</i></span>
 </div >
 
@@ -28,7 +28,7 @@ In a <a href="https://journals.lww.com/investigativeradiology/abstract/2014/0800
 </figure> -->
 
 ![MRDI workflow](/images/MRDI_workflow.png)
-<div align="left" style="line-height: .7em; padding-bottom:2em; padding-top:-1em">
+<div align="left" style="line-height: .7em; padding-bottom:0em; padding-top:-1em">
   <span style="font-size:0.7em;"><i>MRDI workflow: First, dynamic acquisitions of multiple MR slices (2D + time) is performed. Then the time-intensity curves are extracted at each voxel and fitted by the dispersion model by iterative least square curve fitting, enabling the extraction of parametric maps characterizing the vascular architecture and vascular permeability. The obtained are then compared to the ground truth represented by the histological analysis of corresponding prostate slices.</i>.</span>
 </div>
 
@@ -37,7 +37,7 @@ In a <a href="https://journals.lww.com/investigativeradiology/abstract/2014/0800
 A binding model was developed for molecular imaging of angiogenesis by novel targeted contrast agents. In dynamic contrast-enhanced ultrasound, these are composed by intravascular microbubbles, whose shell has been functionalized with targeting ligands able to bind specific molecules over-expressed on the vessel walls of angiogenic tumor vasculature. The kinetics of such agents is described as a bi-compartmental model, with one compartment describing the freely flowing microbubbles, modeled by the convective-dispersion equation, and one compartment accounting for the bound microbubbles, described as an accumulating compartment. The binding rate is thus estimated and adopted for molecular assessment of angiogenesis.
 
 ![USMI maps](/images/usmi.png)
-<div align="left" style="line-height: .7em; padding-bottom:3em; padding-top:-3em" >
+<div align="left" style="line-height: .7em; padding-bottom:1em; padding-top:0em" >
 <span style="font-size:0.7em;"><i>Example of USMI acquisition and processing in a rat model of prostate cancer. The B-mode (left) shows the location of the tumor. The late-enhancement map (right) clearly show higher values at the tumor location</i>.</span>
 </div>
 
