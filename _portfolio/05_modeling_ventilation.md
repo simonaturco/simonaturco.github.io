@@ -12,7 +12,7 @@ Motivated by this, we propose a method for creating a large, realistic, and labe
 
 ![Electrical equivalents for lungs and ventilator](/images/lung_ventilator_model.png)
 <div align="left" style="line-height: .7em; padding-bottom:2em; padding-top:0em float:right" >
-<span style="font-size:0.7em;"><i>Electrical equivalents of the ventilator (left) and lung (models) models. Adapted from van Diepen et al. J Clin Monit Comput 36, 1739–1752 (2022).</i>.</span>
+<span style="font-size:0.7em;"><i>Electrical equivalents of the ventilator (left) and lung (models) models. Adapted from van Diepen et al. J Clin Monit Comput 36, 1739–1752 (2022).</i></span>
 </div>
 
 <!-- 
@@ -35,7 +35,7 @@ Here we propose, a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 
 ![U-net architecture](/images/unet_tom.png)
 <div align="left" style="line-height: .7em; padding-bottom:2em; padding-top:0em float:right" >
-<span style="font-size:0.7em;"><i>Adapted U-net architecture for automatic detection of PVAs.</i>.</span>
+<span style="font-size:0.7em;"><i>Adapted U-net architecture for automatic detection of PVAs.</i></span>
 </div>
 
 To improve the model, we extended the training by using simulated data with the model explained above. We found out that the <a href="https://www.sciencedirect.com/science/article/pii/S0169260722007143" target="_blank"> combination of simulated and clinical data </a> for training the algorithm achieved the best performance.
@@ -48,8 +48,8 @@ Currently, we are working on further improving the method by refining the simula
 </figure> -->
 
 ![GAN approach](/images/gan_pva.png)
-<div align="left" style="line-height: .7em; padding-bottom:2em; padding-top:0em float:right" >
-<span style="font-size:0.7em;"><i>GAN approach for creating a large labelled datasets with more realistic data.</i>.</span>
+<div align="left" style="line-height: .7em; padding-bottom:0em; padding-top:0em float:right" >
+<span style="font-size:0.7em;"><i>GAN framework for generating a large  datasets with of realistic ventilation data with labels.</i>.</span>
 </div>
 
 ### Contributors and partners
