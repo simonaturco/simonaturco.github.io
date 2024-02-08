@@ -61,7 +61,7 @@ We found a significant link especially between perfusion-based imaging features,
 
 *Funding*:
 * Hanarth Fonds fellowship
-* Knaw Van Leersum grant 
+* KNAW Van Leersum grant 
 
 ![logos](/images/logos_radiogen.png)
 <!-- ![description image](/images/name_image.ext "Optional title"){: .align-right width="300px"} -->
