@@ -19,7 +19,7 @@ by a mono-exponential decay, and describing the contrast leakage in the extravas
 </figure> -->
 
 ![Animation PK modeling of MR agents](/images/pk_mri.gif)
-<div align="left" style="line-height: .6em;">
+<div align="left" style="line-height: .7em;">
 <span style="font-size:0.7em;"><i>Animation schematically describing the transport of gadolinium-based MR contrast agents (left). The contrast agent flows through the intravascular space (IV) and at the capillary level extravasate into the extravascular extracellular space (EES). This can be described mathematically by a 2-compartment model (right).</i></span>
 </div >
 
@@ -30,7 +30,7 @@ In a <a href="https://journals.lww.com/investigativeradiology/abstract/2014/0800
 </figure> -->
 
 ![MRDI workflow](/images/MRDI_workflow.png)
-<div align="left" style="line-height: .6em;">
+<div align="left" style="line-height: .7em;">
   <span style="font-size:0.7em;"><i>MRDI workflow: First, dynamic acquisitions of multiple MR slices (2D + time) is performed. Then the time-intensity curves are extracted at each voxel and fitted by the dispersion model by iterative least square curve fitting, enabling the extraction of parametric maps characterizing the vascular architecture and vascular permeability. The obtained are then compared to the ground truth represented by the histological analysis of corresponding prostate slices.</i>.</span>
 </div>
 
@@ -39,10 +39,9 @@ In a <a href="https://journals.lww.com/investigativeradiology/abstract/2014/0800
 A binding model was developed for molecular imaging of angiogenesis by novel targeted contrast agents. In dynamic contrast-enhanced ultrasound, these are composed by intravascular microbubbles, whose shell has been functionalized with targeting ligands able to bind specific molecules over-expressed on the vessel walls of angiogenic tumor vasculature. The kinetics of such agents is described as a bi-compartmental model, with one compartment describing the freely flowing microbubbles, modeled by the convective-dispersion equation, and one compartment accounting for the bound microbubbles, described as an accumulating compartment. The binding rate is thus estimated and adopted for molecular assessment of angiogenesis.
 
 ![USMI maps](/images/usmi.png)
-<div align="left" style="line-height: .6em;">
+<div align="left" style="line-height: .7em; padding-bottom:2em" >
 <span style="font-size:0.7em;"><i>Example of USMI acquisition and processing in a rat model of prostate cancer. The B-mode (left) shows the location of the tumor. The late-enhancement map (right) clearly show higher values at the tumor location</i>.</span>
 </div>
-
 
 The feasibility of the proposed approach for quantitative <a href="https://iopscience.iop.org/article/10.1088/1361-6560/aa5e9a/meta" target="_blank">molecular imaging</a> of angiogenesis was shown in prostate tumor-bearing rats injected with a clinical-grade molecularly-targeted ultrasound contrast agent. The binding rate showed ability to discriminate between malignant and benign tissue, with a shorter and simplified protocol compared to semi-quantitative assessment by available molecular imaging methods. Subsequently, the validity of the proposed model was investigated by comparing the binding rate values in rats injected with a targeted and a non-targeted contrast agent. The estimated values were significantly smaller for non-targeted agents, with no difference between cancer and healthy tissue, confirming the validity of the proposed approach. A <a href="https://link.springer.com/article/10.1007/s11307-018-1274-z" target="_blank">longitudinal study</a> was performed in colon-cancer bearing mice
 undergoing anti-angiogenic treatment, to test the feasibility of the proposed method for monitoring the response to therapy. The binding rate significantly decreases after treatment, and is able to discriminate between clinical responders and non-responders.
