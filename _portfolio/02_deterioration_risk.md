@@ -19,7 +19,9 @@ We are currently working on improving the prediction model by investigating diff
 * Tom Bakkes (PhD student)
 * Eveline Mestrom (former PhD student)
 * Uzay Kaymak (part-time professor)
+* Arthur Bouwman (part-time professor)
 * Massimo Mischi (full professor, head of BM/d)
+
 
 *Partners*:
 * Catharina Ziekenhuis Eindhoven
@@ -27,6 +29,7 @@ We are currently working on improving the prediction model by investigating diff
 
 *Funding*:
 * Eindhoven Medtech Innovation Center (e/MTIC)
+* TKI-HTSM MEDICAID - Top Sector Holland High Tech
 
 ![logos](/images/logo_periop.png)
 

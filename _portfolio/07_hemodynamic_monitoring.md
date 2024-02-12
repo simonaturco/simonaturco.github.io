@@ -32,7 +32,9 @@ Continuing this line of research, the PISANO project seeks to leverage technolog
 
 *Funding*:
 * Eindhoven MedTech Innovation center (e/MTIC)
-* NWO, TKI-HTSM PISANO 
+* Impuls 2 Health - Philips
+* TKI-HTSM PISANO - Top Sector Holland High Tech
+
 
 ![logos](/images/logo_hemo.png)
 
