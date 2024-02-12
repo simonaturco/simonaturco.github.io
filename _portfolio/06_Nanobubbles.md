@@ -6,7 +6,7 @@ collection: portfolio
 
 Traditional contrast agents have played a pivotal role in improving the visibility of anatomical structures and abnormalities in medical imaging. However, the quest for agents with enhanced imaging capabilities, reduced side effects, and increased target specificity has driven the exploration of nanobubbles. This miniature gas-filled structures with typical size ten times smaller than microbubbles penetrate more easily in the capillary network, and may extravasate in case of enhanced permeability such as in cancer and inflammation. When their shell is decorated with suitable ligands, they can then reach targets that go beyond the vessel wall. Because of their more complex kinetics and distribution in and out of the vasculature, dedicated models and quantification strategies are needed - this is the focus of this line of research.
 
-![3-layer pharmacokinetic model](/images/ceus_vs_nb.png)
+![Nanobubbles and microbubbles](/images/ceus_vs_nb.png)
 <div align="left" style="line-height: .7em; padding-bottom:0em; padding-top:0em float:right" >
 <span style="font-size:0.7em;"><i> Nanobubble contrast agents have been developed for contrast-enhanced ultrasound and ultrasound molecular imaging.</i></span>
 </div>
@@ -22,11 +22,11 @@ The investigation into nanobubble (NB) pharmacokinetics in contrast-enhanced ult
 </figure> -->
 
 ![3-layer pharmacokinetic model](/images/second_wave.png)
-<div align="left" style="line-height: .7em; padding-bottom:0em; padding-top:0em float:right" >
+<div align="left" style="line-height: .7em; padding-bottom:1em; padding-top:0em float:right" >
 <span style="font-size:0.7em;"><i>Examples of time-intensity curves (TICs) exhibiting the second wave phenomenon. Adapted from Chen et al. Scientific Reports 2022.</i></span>
 </div>
 
-Motivated by the promising findings, we developed novel  <a href="https://ieeexplore.ieee.org/abstract/document/9799708" target="_blank">compartmental pharmacokinetic models </a> designed to elucidate the second-wave phenomenon. Utilizing this models, a more detailed analysis becomes possible, allowing for an in-depth examination of the influence of various physiological factors on the attributes of the second-wave phenomenon. We found that a double modified local density random walk (mLDRW) model, despite its simplicity and reliance on robust assumptions, enables precise fitting of the experimental data, facilitating the estimation of multiple parametric maps for the quantitative and visual representation of in-vivo pharmacokinetics of NBs. Our findings confirm that the second-wave phenomenon is influenced by various physiological factors, highlighting the model's potential for application in pertinent clinical scenarios.
+Motivated by the promising findings, we developed novel  <a href="https://ieeexplore.ieee.org/abstract/document/9799708" target="_blank">compartmental pharmacokinetic models</a> designed to elucidate the second-wave phenomenon. Utilizing this models, a more detailed analysis becomes possible, allowing for an in-depth examination of the influence of various physiological factors on the attributes of the second-wave phenomenon. We found that a double modified local density random walk (mLDRW) model, despite its simplicity and reliance on robust assumptions, enables precise fitting of the experimental data, facilitating the estimation of multiple parametric maps for the quantitative and visual representation of in-vivo pharmacokinetics of NBs. Our findings confirm that the second-wave phenomenon is influenced by various physiological factors, highlighting the model's potential for application in pertinent clinical scenarios.
 
 <!-- <figure style="width:650px; ">
   <img src='/images/pk_secondwave.png' alt="3-layer pharmacokinetic model" >
