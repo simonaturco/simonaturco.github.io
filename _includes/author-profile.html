@@ -5,14 +5,14 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-<!-- 
+
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
-  </div> -->
+  </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
@@ -121,11 +121,5 @@
     </ul>
   </div>
 
-  <!-- <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
-  </div> -->
+  <img src="/images/logos_bmd_sps_tue_v.png" alt="sidebar logo" style="height:200px;">
 </div>

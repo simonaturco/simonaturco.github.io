@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Simona Turco"
   avatar           : "simona_square.jpg"
-  bio              : "Assistant professor at the Biomedical Diagnostics lab, \n
+  logo:            : "logos_bmd_sps_tue_v.png"
+  bio              : "Assistant professor at the Biomedical Diagnostics lab,
                      Signal Processing Systems group,
                      Electrical Engineering, Eindhoven University of Technology"
   location         : "Eindhoven, the Netherlands"
