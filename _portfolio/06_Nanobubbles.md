@@ -15,9 +15,9 @@ The investigation into nanobubble (NB) pharmacokinetics in contrast-enhanced ult
   <figcaption>Examples of time-intenstiy curves (TICs) exhibiting the second wave phenomenon. <i>Adapted from Chen et al. Scientific Reports 2022.</i></figcaption> 
 </figure> -->
 
-![Second wave phenomenon](/images/second_wave.png)
-<div align="left" style="line-height: .7em; padding-bottom:2em; padding-top:0em float:right" >
-<span style="font-size:0.7em;"><i>SExamples of time-intensity curves (TICs) exhibiting the second wave phenomenon. Adapted from Chen et al. Scientific Reports 2022 </i>.</span>
+![3-layer pharmacokinetic model](/images/second_wave.png)
+<div align="left" style="line-height: .7em; padding-bottom:0em; padding-top:0em float:right" >
+<span style="font-size:0.7em;"><i>Examples of time-intensity curves (TICs) exhibiting the second wave phenomenon. Adapted from Chen et al. Scientific Reports 2022.</i></span>
 </div>
 
 Motivated by the promising findings, we developed novel  <a href="https://ieeexplore.ieee.org/abstract/document/9799708" target="_blank">compartmental pharmacokinetic models </a> designed to elucidate the second-wave phenomenon. Utilizing this models, a more detailed analysis becomes possible, allowing for an in-depth examination of the influence of various physiological factors on the attributes of the second-wave phenomenon. We found that a double modified local density random walk (mLDRW) model, despite its simplicity and reliance on robust assumptions, enables precise fitting of the experimental data, facilitating the estimation of multiple parametric maps for the quantitative and visual representation of in-vivo pharmacokinetics of NBs. Our findings confirm that the second-wave phenomenon is influenced by various physiological factors, highlighting the model's potential for application in pertinent clinical scenarios.
@@ -36,7 +36,7 @@ Motivated by the promising findings, we developed novel  <a href="https://ieeexp
 Besides being able to cross the vessel wall, nanobubbles can also be decorated with ligands on their shell to target specific molecules. One relevant target for prostate cancer is PSMA. It has been established that PSMA-targeted NBs can effectively attach to the receptors of prostate cancer cells, exhibiting an extended retention effect in dual-tumor mouse models.  
 <figure style="width:400px; float:right ">
   <img src='/images/mouse_model.png' alt="dual tumor mouse model" >
-  <figcaption>Schematic diagram explaining the dual-tumor mouse model. </figcaption>
+  <figcaption> Schematic diagram explaining the dual-tumor mouse model. </figcaption>
 </figure>
 Nevertheless, the assessment of this prolonged retention effect has been constrained to qualitative or semi-quantitative methods thus far. 
 To describe the kinetics of targeted nanonubbles we proposed two pharmacokinetic models, one based on a vascular input given by a mLDRW model, while the other takes inspiration from the reference tissue model, previously developed for nuclear imaging. Our results show that several parameters from these two models are able to distinguish between the kinetics of targeted and free nanobubbles.
