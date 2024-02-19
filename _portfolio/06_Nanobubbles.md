@@ -70,5 +70,8 @@ Motivated by this, we further set out to investigate whether the estimated param
 
 *Funding*:
 * 4TU High Tech for a sustainable future, Precision Medicine program 
-
-![logos](/images/logo_cwru_tmu.png)
+<!-- 
+![logos](/images/logo_cwru_tmu.png) -->
+<figure style="height:100px; ">
+  <img src='/images/logo_cwru_tmu.png' alt="dlogos" >
+</figure>

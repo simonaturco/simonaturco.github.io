@@ -57,7 +57,7 @@ undergoing anti-angiogenic treatment, to test the feasibility of the proposed me
 * Netherlands Cancer Institute (Antoni van Leeuwenhoek)
 
 *Funding*:
-* ERC starting grant (M. Mischi)
-* STW OTP (M. Mischi)
+* ERC starting grant 
+* NWO STW 
 
 ![logos](/images/logo_pk.png)

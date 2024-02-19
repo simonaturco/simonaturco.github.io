@@ -68,8 +68,8 @@ Currently, we are working on further improving the method by refining the simula
 *Funding*:
 * Eindhoven MedTech Innovation Center (e/MTIC)
 * TKI-HTSM MEDICAID - Top Sector Holland High Tech
-*  China Scholarship Council (CSC), National Key Research and Development Project of China (Liming Hao)
-* Academic Excellence Foundation of BUAA for PhD Students (Liming Hao)
+*  China Scholarship Council (CSC), National Key Research and Development Project of China 
+* Academic Excellence Foundation of BUAA for PhD Students 
 
 
 ![logos](/images/logo_cze_smatteo.png)

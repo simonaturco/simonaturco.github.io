@@ -56,6 +56,7 @@ We employed spatiotemporal analysis of CEUS to quantify heterogeneity by paramet
 *BM/d lab*:
 * Peiran Chen (former PhD student)
 * Chuan Chen (former Postdoc researcher)
+* Hessel Wijkstra (part-time professor)
 * Massimo Mischi (full professor, head of BM/d)
 
 *Collaborators*:
