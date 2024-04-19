@@ -49,7 +49,7 @@ A further improvement on the detection and classification performance is obtaine
 
 ![GAN approach](/images/gan_pva.png)
 <div align="left" style="line-height: .7em; padding-bottom:0em; padding-top:0em float:right" >
-<span style="font-size:0.7em;"><i>GAN framework for generating a large  datasets with of realistic ventilation data with labels.</i>.</span>
+<span style="font-size:0.7em;"><i>GAN framework for generating a large datasets of realistic ventilation data with labels.</i>.</span>
 </div>
 
 ### Contributors and partners

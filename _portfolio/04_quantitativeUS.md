@@ -37,6 +37,13 @@ Motivated by this, we proposed an <a href="https://ieeexplore.ieee.org/document/
 
 Ultrasound imaging of the liver is, however, unavoidably affected by motion. This limits the robustness of feature extraction and hinders the application of additional quantification techniques which are affected by motion. To overcome this challenge, we proposed a motion compensation algorithm, named the <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301562922004409" target="_blank">Iterative Local Search Algorithm (ILSA)</a>. This algorithm effectively addresses both periodic and non-periodic in-plane motion while eliminating frames with out-of-plane motion in contrast-enhanced ultrasound (CEUS) cines. We tested the algorithm on 183 focal liver lesions in 155 patients from three hospitals. Quantitatively, we observed a significant decrease in median root mean square error and in B-mode intensity standard deviation, and a significant increase in R2. Qualitatively, B-Mode mean intensity projection images indicated improved spatial resolution, and parametric perfusion imaging demonstrated enhanced spatial detail and better differentiation between lesions and background liver parenchyma. ILSA proves effective in compensating for various motion types encountered during liver CEUS, potentially enhancing the quantification of contrast signals in FLLs.
 
+![Animation PK modeling of MR agents](/images/registration_compressed.gif)
+<div align="left" style="line-height:.8em; padding-bottom:1em; padding-top:-.3em">
+<span style="font-size:0.7em;"><i>Video displaying the proposed ILSA algorithm applied to one CEUS loop. For each frame, ILSA searches within the adaptive search
+region (white-outlined box) to find the ROI with the maximum normalized correlation coefficient (indicated by corr in the top part of the video). When this is a larger than an adaptive threshold, the frame is successfully registered (green-outlined box); otherwise it is considered a frame with out-of-plane motion and discarded (red-outlined box) .</i></span>
+</div >
+
+All the work on CEUS for liver cancer imaging has been supported by Dr. Ahmed El Kaffas at Stanford Medicine, in collaboration with Thomas Jefferson University Hospital (Dr. Andrej Lyshchik and Dr. John R. Eisenbrey).
 
 ### Quantitative CEUS for breast lesions differentiation
 Breast cancer remains a paramount global health concern, affecting millions of lives and necessitating comprehensive efforts in understanding, diagnosing, and treating the disease. According to recent statistics, breast cancer is the most common cancer among women worldwide, with approximately 2.3 million new cases diagnosed annually and over 685,000 reported deaths. Beyond its prevalence, the impact of breast cancer extends beyond mere numbers, affecting individuals physically, emotionally, and socioeconomically. Imaging by mammography and B-mode ultrasound, clinical breast examinations, and self-breast examinations have traditionally been pivotal in the early diagnosis of breast cancer. However, these diagnostic strategies come with their limitations, including false positives and negatives, discomfort, and exposure to ionizing radiation in the case of mammography. In screening protocols, US primarily complements mammography and proves more advantageous for individuals with dense breast tissue. When identifying a potentially concerning lump or mass, US plays a vital role in elucidating the characteristics of the abnormality. However, the assessment of morphological attributes through B-mode images often results in a considerable number of false-positives, prompting unnecessary biopsy procedures. In this project, we investigated whether <a href="https://link.springer.com/article/10.1007/s00330-023-10500-x" target="_blank">CEUS could improve the differentiation of breast lesions</a>.
@@ -66,7 +73,7 @@ We employed spatiotemporal analysis of CEUS to quantify heterogeneity by paramet
 * Bracco S.p.A
 * Philips Research
 * Amsterdam University Medical Center
-* Stanford Medicine 
+* Stanford Medicine
 * Thomas Jefferson University Hospital
 
 *Funding*:
