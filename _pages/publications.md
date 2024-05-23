@@ -33,6 +33,7 @@ Books and book chapters
 
 Journal papers
 =====
+* Chen, P., Turco, S., Wang, Y., Jager, A., Daures, G., Wijkstra, H., Zwart, W., Huang, P. and Mischi, M., 2024. Can 3D Multiparametric Ultrasound Imaging Predict Prostate Biopsy Outcome?. Ultrasound in Medicine & Biology (2024) <a href="10.1016/j.ultrasmedbio.2024.04.007" target="_blank">https://doi.org/10.1016/j.ultrasmedbio.2024.04.007 </a> 
 * X. Li, S. Turco, R.M. Aarts, H. Wijkstra, M. Mischi, Delayed matrix pencil method for local shear wave viscoelastographic estimation, Computer Methods and Programs in Biomedicine Update, 5:100156 (2024) <a href="10.1016/j.cmpbup.2024.100156" target="_blank">https://doi.org/10.1016/j.cmpbup.2024.100156. </a> 
 * L. Hao, T.H.G.F. Bakkes, A. van Diepen, N. Chennakeshava, R.A. Bouwman, A.J.R. De Bie Dekker, P.H. Woerlee, F. Mojoli, M. Mischi, Y. Shi, S. Turco, 2024. An adversarial learning approach to generate pressure support ventilation waveforms for asynchrony detection, 250:108175 (2024). <a href="https://doi.org/10.1016/j.cmpb.2024.108175" target="_blank">https://doi.org/10.1016/j.cmpb.2024.108175 </a>
 * Chen, X., Li, X., Turco, S., Van Sloun, R.J. and Mischi, M., 2024. Ultrasound viscoelastography by acoustic radiation force: A state-of-the-art review. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. <a href="10.1109/TUFFC.2024.3381529" target="_blank">https://doi.org/10.1109/TUFFC.2024.3381529 </a> 
