@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am assistant professor of statistical processing of biosignals at the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab" target="_blank"> Biomedical Diagnostics lab</a> (BM/d), which is part of the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems" target="_blank"> Signal Processing Systems</a> group, Electrical Engineering department, <a href="https://www.tue.nl/en/" target="_blank">Eindhoven University of Techonology</a> (TU/e).
+I am assistant professor of statistical processing of biosignals at the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab" target="_blank"> Biomedical Diagnostics lab</a> (BM/d), which is part of the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems" target="_blank"> Signal Processing Systems</a> group, Electrical Engineering department, <a href="https://www.tue.nl/en/" target="_blank">Eindhoven University of Techonology</a> (TU/e). I am a member of the Eindhoven Young Academy of Engineering and the chair of the IEEE Engineering in Medicine and Biology Society (EMBS) Benelux chapter.
 
 Research
 ======
@@ -18,7 +18,7 @@ Since 2018, I am the designer and responsible teacher for the course Statistical
 
 Background
 ======
-I obtained my BSc and  MSc in Biomedical Engineering from the School of Engineering of the University of Pisa (Italy), both summa cum laude. My master graduation project was carried out at Philips Research (Eindhoven, the Netherlands). In 2015, I obtained a professional doctorate in engineering (PDEng) in Healthcare system design from the Stan Ackermans Institute at the Eindhoven University of Technology, which was awarded best project in the designer program in Electrical Engineering. In 2018, I completed my PhD at the Eindhoven University of Technology, with thesis entitled “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”. Both my PDEng and PhD were carried out at the BM/d lab. Here, after a short post-doctoral fellowship, I became assistant professor in statistical processing of biosignals in 2018, with tenure in 2021.
+I obtained my BSc and  MSc in Biomedical Engineering from the School of Engineering of the University of Pisa (Italy), both summa cum laude. My master graduation project was carried out at Philips Research (Eindhoven, the Netherlands). In 2015, I obtained a professional doctorate in engineering (PDEng) in Healthcare system design from the Stan Ackermans Institute at the Eindhoven University of Technology, which was awarded best project in the designer program in Electrical Engineering. In 2018, I completed my PhD at the Eindhoven University of Technology, with thesis entitled “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”. Both my PDEng and PhD were carried out at the BM/d lab. Here, after a short post-doctoral fellowship, I became assistant professor in statistical processing of biosignals in 2018, with tenure in 2021. I have served as a board member of the Women in Science Eindhoven network (2018-2022), and I am now serving as chair of the IEEE-EMBS Benelux chapter and as a member of Eindhoven Young Academy of Engineering.
 
 <!-- Getting started
 ======
