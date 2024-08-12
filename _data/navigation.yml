@@ -10,8 +10,8 @@ main:
     url: /publications/
     #url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" 
 
-  - title: "Updates"
-    url: /year-archive/
+  # - title: "Updates"
+  #   url: /year-archive/
 
   - title: "Teaching"
     url: /teaching/
