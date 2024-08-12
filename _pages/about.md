@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am assistant professor of statistical processing of biosignals at the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab" target="_blank"> Biomedical Diagnostics lab</a> (BM/d), which is part of the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems" target="_blank"> Signal Processing Systems</a> group, Electrical Engineering department, <a href="https://www.tue.nl/en/" target="_blank">Eindhoven University of Techonology</a> (TU/e). I am a member of the Eindhoven Young Academy of Engineering and the chair of the IEEE Engineering in Medicine and Biology Society (EMBS) Benelux chapter.
+I am assistant professor of statistical processing of biosignals at the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab" target="_blank"> Biomedical Diagnostics lab</a> (BM/d), which is part of the <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems" target="_blank"> Signal Processing Systems</a> group, Electrical Engineering department, <a href="https://www.tue.nl/en/" target="_blank">Eindhoven University of Techonology</a> (TU/e). I am a member of the  <a href="https://www.tue.nl/en/our-university/community/tue-young-academy-of-engineering" target="_blank"> Biomedical Diagnostics labEindhoven Young Academy of Engineering</a> and the chair of the  <a href="http://www.embs-chapter.be/" target="_blank"> IEEE Engineering in Medicine and Biology Society (EMBS) Benelux chapter</a>.
 
 Research
 ======
