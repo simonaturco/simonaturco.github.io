@@ -10,7 +10,7 @@ main:
     url: /publications/
     #url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" 
 
-  - title: "Updates"
+  - title: "Featured news"
     url: /year-archive/
 
   - title: "Teaching"
@@ -18,6 +18,9 @@ main:
 
   - title: "Resume"
     url: /narrative-cv/
+
+  - title: "Featured news"
+    url: /year-archive/
   #
   # - title: "Guide"
   #   url: /markdown/
