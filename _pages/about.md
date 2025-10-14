@@ -14,7 +14,7 @@ My research is devoted to quantitative model-driven analysis of medical images a
 
 Teaching
 ======
-Since 2018, I am the designer and responsible teacher for the course "Statistical Signal Processing", which is part of the master curriculum in <a href="https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering" target="_blank"> Electrical Engineering</a> and the master curriculum in <a href="https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/artificial-intelligence-engineering-systems" target="_blank"> Artificial Intelligence & Engineering Systems</a> at TU/e. I am alos a guest lecturer for the course "Technology for Care and Cure".
+Since 2018, I am the designer and responsible teacher for the course "Statistical Signal Processing", which is part of the master curriculum in <a href="https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering" target="_blank"> Electrical Engineering</a> and the master curriculum in <a href="https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/artificial-intelligence-engineering-systems" target="_blank"> Artificial Intelligence & Engineering Systems</a> at TU/e. I am also a guest lecturer for the course "Technology for Care and Cure".
 
 Background
 ======
