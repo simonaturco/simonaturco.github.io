@@ -1,7 +1,7 @@
 ---
-title: 'AI helps search for prostate cancer'
+title: 'Collaboration as the key to making impact'
 date: 2025-10-14
-permalink: /posts/university-fonds-article/
+permalink: /posts/2025-10-14_4tu_interview/
 tags:
   - 4tu
   - collaboration

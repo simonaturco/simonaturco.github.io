@@ -1,7 +1,7 @@
 ---
-title: 'AI helps search for prostate cancer'
-date: 2025-10-14
-permalink: /posts/university-fonds-article/
+title: 'MOMENTUM project awarded funding by NWO Open Technology Program'
+date: 2025-10-15
+permalink: /posts/2025-10-15_otp_momentum/
 tags:
   - nwo otp
   - momentum
