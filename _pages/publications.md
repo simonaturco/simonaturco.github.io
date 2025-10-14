@@ -19,6 +19,11 @@ You can also find my articles on <u><a href="https://scholar.google.it/citations
 
 Data
 =====
+<ol reversed>
+  <li>Simulated data from "A Model-based Approach to Generating Annotated Pressure Support Waveforms". <a href="https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1" target="_blank">https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1 </a></li>
+  <li>Models, datasets, and raw results of "Measurement of sweat gland activity by discrete sweat sensing, statistics, and deep learning" <a href="https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c" target="_blank">https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c </a></li>
+</ol>
+
 * Simulated data from "A Model-based Approach to Generating Annotated Pressure Support Waveforms". <a href="https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1" target="_blank">https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1 </a>
 * Models, datasets, and raw results of "Measurement of sweat gland activity by discrete sweat sensing, statistics, and deep learning" <a href="https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c" target="_blank">https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c </a>
 
