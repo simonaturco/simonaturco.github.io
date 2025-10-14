@@ -16,8 +16,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "CV"
-    url: /files/CV_Simona_Turco_long.pdf
+  - title: "Resume"
+    url: /narrative-cv/
   #
   # - title: "Guide"
   #   url: /markdown/
