@@ -24,17 +24,14 @@ Data
   <li>Models, datasets, and raw results of "Measurement of sweat gland activity by discrete sweat sensing, statistics, and deep learning" <a href="https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c" target="_blank">https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c </a></li>
 </ol>
 
-* Simulated data from "A Model-based Approach to Generating Annotated Pressure Support Waveforms". <a href="https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1" target="_blank">https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1 </a>
-* Models, datasets, and raw results of "Measurement of sweat gland activity by discrete sweat sensing, statistics, and deep learning" <a href="https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c" target="_blank">https://doi.org/10.4121/f62008b2-4c3a-42c6-bf3a-c55e37a9598c </a>
-
 Books and book chapters
 =====
-
-*	F. I. Kandi, C. Dinis Fernandes, D.L. van den Kroonenberg, A.W. Postema,  J. Oddens, H. Wijkstra, S. Turco, M. Mischi "Contrast Ultrasound Dispersion Imaging (CUDI)" in Atlas of the ultrasound in Urology, Andrology and Nefrology, Martino and Galosi, SPRINGER, in press. (Book chapter)
-*	S. Turco, P.Chen, A. El Kaffas, A. Lyshchik, M. Mischi, “Ultrasound contrast agents: Microvascular characterization” in Innovative Ultrasound Imaging Techniques: Biomedical Applications, L. Bridal, Ed. ISTE Wiley: Encyclopaedia of Sciences (chapter), 2024. (Book chapter)
-*	R. Barr, S. Turco, and H. Wijkstra, “Prostate: malignant lesions” in Specialty Imaging: Fundamentals of CEUS, A. Lyshchik, Ed., ed: Elsevier, 2019 (Book chapter). 
-* Mischi, M., Turco, S., Soliman, O. I., ten Cate, F. J., Wijkstra, H., & Schoots, I. (2018). Quantification of contrast kinetics in clinical imaging. Springer International Publishing. (Book)
-
+<ol reversed>
+<li>	F. I. Kandi, C. Dinis Fernandes, D.L. van den Kroonenberg, A.W. Postema,  J. Oddens, H. Wijkstra, S. Turco, M. Mischi "Contrast Ultrasound Dispersion Imaging (CUDI)" in Atlas of the ultrasound in Urology, Andrology and Nefrology, Martino and Galosi, SPRINGER, in press. (Book chapter) </li>
+<li>	S. Turco, P.Chen, A. El Kaffas, A. Lyshchik, M. Mischi, “Ultrasound contrast agents: Microvascular characterization” in Innovative Ultrasound Imaging Techniques: Biomedical Applications, L. Bridal, Ed. ISTE Wiley: Encyclopaedia of Sciences (chapter), 2024. (Book chapter) </li>
+<li>	R. Barr, S. Turco, and H. Wijkstra, “Prostate: malignant lesions” in Specialty Imaging: Fundamentals of CEUS, A. Lyshchik, Ed., ed: Elsevier, 2019 (Book chapter).  </li>
+<li> Mischi, M., Turco, S., Soliman, O. I., ten Cate, F. J., Wijkstra, H., & Schoots, I. (2018). Quantification of contrast kinetics in clinical imaging. Springer International Publishing. (Book) </li>
+</ol>
 
 Journal papers
 =====
