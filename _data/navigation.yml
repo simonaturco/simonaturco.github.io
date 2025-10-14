@@ -10,9 +10,6 @@ main:
     url: /publications/
     #url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" 
 
-  - title: "Featured news"
-    url: /year-archive/
-
   - title: "Teaching"
     url: /teaching/
 
