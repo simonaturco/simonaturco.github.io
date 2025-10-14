@@ -1,7 +1,7 @@
 ---
 title: 'Collaboration as the key to making impact'
 date: 2023-07-13
-permalink: /posts/2023-07-13_4tu_interview/
+permalink: /posts/2023/07/13/4tu_interview/
 tags:
   - 4tu
   - collaboration
