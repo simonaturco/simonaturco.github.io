@@ -1,7 +1,7 @@
 ---
 title: 'AI helps search for prostate cancer'
-date: 2025-10-13
-permalink: /posts/2025/10/14/univeristyfonds/
+date: 2022-10-14
+permalink: /posts/2022/10/14/univeristyfonds/
 tags:
   - prostate cancer
   - universiteit fonds eindhoven
