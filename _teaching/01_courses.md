@@ -2,6 +2,9 @@
 title: "Courses"
 excerpt: "I am responsible teacher for the course Statistical Signal Processing (5CTA0) and guest lecturer for the course Technology for Care and Cure (5LSN0)"
 collection: teaching
+type: "Master courses"
+permalink: /teaching/01_courses.md
+venue: "Eindhoven University of Technology, Electrical Engineering"
 ---
 
 ### Statistical Signal processing
