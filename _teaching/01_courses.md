@@ -2,7 +2,7 @@
 title: "Courses"
 collection: teaching
 type: "Master courses"
-excerpt: "I am responsible teacher for the course Statistical Signal Processing (5CTA0) and guest lecturer for the course Technology for Care and Cure (5LSN0).<br/><img src='/images/simona_teaching.jpg'  width='400px'>"
+excerpt: "I am responsible teacher for the course Statistical Signal Processing (5CTA0) and guest lecturer for the course Technology for Care and Cure (5LSN0).<br/><img src='/images/simona_teaching.jpg'  width='400px' align='left'>"
 permalink: /teaching/01_courses
 venue: "Eindhoven University of Technology, Electrical Engineering"
 date: 2025-01-01

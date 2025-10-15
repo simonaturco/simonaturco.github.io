@@ -5,7 +5,7 @@ type: "Bachelor and master projects"
 permalink: /teaching/02_student_projects
 venue: "Eindhoven University of Technology, Electrical Engineering"
 date: 2025-01-01
-excerpt: "Are you a student interested in a project on signal or image processing for biomedical applications? We have student's projects (bachelor end projects, master internships and theses, erasmus exchanges) available in severak application areas. <br/><img src='/images/students_projects.jfif'  width='400px'>"
+excerpt: "Are you a student interested in a project on signal or image processing for biomedical applications? We have student's projects (bachelor end projects, master internships and theses, erasmus exchanges) available in severak application areas. <br/><img src='/images/students_projects.jfif'  width='400px' align='right'>"
 ---
 
 Are you a student interested in a project on signal or image processing for biomedical applications? 
