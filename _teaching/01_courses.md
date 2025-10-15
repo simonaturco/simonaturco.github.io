@@ -2,7 +2,7 @@
 title: "Courses"
 collection: teaching
 type: "Master courses"
-permalink: /teaching/01_courses.md
+permalink: /teaching/01_courses
 venue: "Eindhoven University of Technology, Electrical Engineering"
 date: 2025-01-01
 ---
