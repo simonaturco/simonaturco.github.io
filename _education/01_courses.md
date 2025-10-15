@@ -1,7 +1,7 @@
 ---
 title: "Courses"
-excerpt: "<br/><img src='/images/mri_cover.jpg' width='400px' align='right'>  I am responsible teacher for the course Statistical Signal Processing (5CTA0) and guest lecturer for the course Technology for Care and Cure (5LSN0)"
-collection: teaching
+excerpt: "I am responsible teacher for the course Statistical Signal Processing (5CTA0) and guest lecturer for the course Technology for Care and Cure (5LSN0)"
+collection: portfolio
 ---
 
 ### Statistical Signal processing
