@@ -28,20 +28,20 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant professor at the Biomedical Diagnostics lab,
                      Signal Processing Systems group,
-                     Electrical Engineering, Eindhoven University of Technology"
+                     Electrical Engineering"
   location         : "Eindhoven, the Netherlands"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : # example: "City, State, Country"
+  employer         : "Eindhoven University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s.turco@tue.nl" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1520-3930"
+  orcid            : "https://orcid.org/0000-0002-1520-3930" 
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
