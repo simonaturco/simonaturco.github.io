@@ -1,6 +1,6 @@
 ---
 title: "Student projects"
-excerpt: "<br/><img src='/images/mri_cover.jpg' width='400px' align='right'>  Are you a student interested in a project on signal or image processing for biomedical applications? Check out the possibilities within our lab!
+excerpt: "Are you a student interested in a project on signal or image processing for biomedical applications? Check out the possibilities within our lab!
 collection: teaching
 ---
 
