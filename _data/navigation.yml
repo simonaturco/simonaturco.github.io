@@ -10,11 +10,11 @@ main:
     url: /publications/
     #url: "https://scholar.google.com/citations?user=Rnp5hNMAAAAJ&hl=en" 
 
-  # - title: "Education"
-  #   url: /teaching/
-
   - title: "Education"
-    url: /education/
+    url: /teaching/
+
+  # - title: "Education"
+  #   url: /education/
 
   - title: "Resume"
     url: /narrative-cv/
