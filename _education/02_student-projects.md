@@ -1,7 +1,7 @@
 ---
 title: "Student projects"
 excerpt: "Are you a student interested in a project on signal or image processing for biomedical applications? Check out the possibilities within our lab!
-collection: teaching
+collection: education
 ---
 
 We have student's projects (bachelor end projects, master internships and theses, erasmus exchanges) available in the following application domains (see below). For more info, drop me a message at s.turco@tue.nl, or check our lab page section on <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab/education/student-projects" target="_blank">student's projects </a>.
