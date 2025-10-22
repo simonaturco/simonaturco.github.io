@@ -1,5 +1,5 @@
 ---
-title: 'AI '
+title: 'One MinuTU/e: AI for prostate cancer diagnostics'
 date: 2024-06-05
 permalink: /posts/2024/06/05/video_oneminute/
 tags:
