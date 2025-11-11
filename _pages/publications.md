@@ -42,7 +42,7 @@ Books and book chapters
 
 Journal papers
 =====
-<ol reversed>
+<ol>
 <li> Wang, T., Zhang, Y., Chen, J., Chen, P., Kandi, F., Yao, J., Wu, Q., Turco, S., Mischi, M. and Huang, P., 2025. Ultrasound Localization Microscopy in Identifying High-Risk Carotid Plaque Using Low-Frame-Rate Ultrasound Imaging. Ultrasound in Medicine & Biology. <a href="https://doi.org/10.1016/j.ultrasmedbio.2025.08.030" target="_blank">10.1016/j.ultrasmedbio.2025.08.030</a> </li> 
 <li> Bakkes, T.H., Dekker, A.J.D.B., van der Stam, J.A., Kaymak, U., Mischi, M., Bouwman, R.A. and Turco, S., 2025. Validation of the advanced alert monitor in a Dutch hospital using local optimization and refinement of the outcome definition. International Journal of Medical Informatics, 201, p.105930. <a href="https://doi.org/10.1016/j.ijmedinf.2025.105930" target="_blank">10.1016/j.ijmedinf.2025.105930 </a> </li> 
 <li> Li, X., Delberghe, F., Turco, S., Mills, D., Wallace, K., Valvano, G., Zwart, W., Forsberg, F., van den Kroonenberg, D.L., Wijkstra, H. and Mischi, M., 2025. Three-Dimensional Shear-Wave Viscoelastographic Estimation by System Identification for Prostate Cancer Localization. Ultrasound in Medicine & Biology.  <a href="https://doi.org/10.1016/j.ultrasmedbio.2025.07.025" target="_blank">10.1016/j.ultrasmedbio.2025.07.025 </a> </li> 
@@ -90,6 +90,12 @@ Journal papers
 
 Conferences (selected)
 =====
+* A. Sivadas, S. Turco, H. Beerlage, H. Wijkstra, M. Mischi, "Improved System Identification in Contrast Ultrasound Dispersion Imaging for Cancer Diagnostics". in 2025 IEEE International Ultrasonics Symposium (IUS).
+* A. Barbagini, S. Turco, R. Shevchenko, J. Muehlsteff, M. Mischi, "Pulse Wave Velocity Estimation in the Brachial Artery by Ultra-Fast Ultrasound: In-Silico Study". in 2025 IEEE International Ultrasonics Symposium (IUS).
+* X. Li, S. Turco, M. Zwart, H. Wijkstra, M. Mischi, "Identification of Local Nonlinear Shear-Wave Dynamics in Prostate Cancer Using Volterra Kernels". in 2025 IEEE International Ultrasonics Symposium (IUS).
+* X. Li, F. Delberghe, D. van Den Kroonenberg, W. Zwart, S. Turco, J. Oddens, M. Mischi, "Detection of Prostate Cancer Using Multiparametric Ultrasound and Deep Learning". in 2025 IEEE International Ultrasonics Symposium (IUS).
+* F. Delberghe, Z. Lin, S. Turco, P. Huang, M. Mischi, "A Novel Approach to Breast Lesion Classification by Peritumoral Quantitative Perfusion Analysis". in 2025 IEEE International Ultrasonics Symposium (IUS).
+* Barbagini, A., Turco, S., Shevchenko, R., Muehlsteff, J., & Mischi, M. (2025, May). Pulse Wave Velocity Estimation in Ultra-Fast Ultrasound Brachial Artery Simulation. In 2025 IEEE Medical Measurements & Applications (MeMeA).
 * Kandi F. I., de Bock E., Dinis Fernandes C., Turco S., Juffermans L., Huirne J., Mischi M., "Assessing Dispersion Heterogeneity in Adenomyosis Using Quantitative Contrast-Enhanced Ultrasound". in 2024 IEEE Ultrasonics, Ferroelectric, and Frequency Control Joint Symposium (UFFC-JS).
 * Li X., Delberghe F., Turco S., Mills D. M., Wallace K., Valvano G., Zwart W., Wijkstra H., Mischi M., "Three-Dimensional Local Shear-Wave Viscoelastographic Estimation by System Identification for Prostate Cancer Localization," in 2024 IEEE Ultrasonics, Ferroelectric, and Frequency Control Joint Symposium (UFFC-JS).
 * Delberghe F., Turco S., Valvano G., Zwart W., Wijkstra H., Mischi M., "Prostate Cancer Detection in Multimodal Ultrasound Imaging Using 3D Gray-Level Cooccurrence Matrix Texture Features," in 2024 IEEE Ultrasonics, Ferroelectric, and Frequency Control Joint Symposium (UFFC-JS).
