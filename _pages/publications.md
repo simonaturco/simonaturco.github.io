@@ -42,7 +42,7 @@ Books and book chapters
 
 Journal papers
 =====
-<ol>
+<ol reversed>
 <li> Wang, T., Zhang, Y., Chen, J., Chen, P., Kandi, F., Yao, J., Wu, Q., Turco, S., Mischi, M. and Huang, P., 2025. Ultrasound Localization Microscopy in Identifying High-Risk Carotid Plaque Using Low-Frame-Rate Ultrasound Imaging. Ultrasound in Medicine & Biology. <a href="https://doi.org/10.1016/j.ultrasmedbio.2025.08.030" target="_blank">10.1016/j.ultrasmedbio.2025.08.030</a> </li> 
 <li> Bakkes, T.H., Dekker, A.J.D.B., van der Stam, J.A., Kaymak, U., Mischi, M., Bouwman, R.A. and Turco, S., 2025. Validation of the advanced alert monitor in a Dutch hospital using local optimization and refinement of the outcome definition. International Journal of Medical Informatics, 201, p.105930. <a href="https://doi.org/10.1016/j.ijmedinf.2025.105930" target="_blank">10.1016/j.ijmedinf.2025.105930 </a> </li> 
 <li> Li, X., Delberghe, F., Turco, S., Mills, D., Wallace, K., Valvano, G., Zwart, W., Forsberg, F., van den Kroonenberg, D.L., Wijkstra, H. and Mischi, M., 2025. Three-Dimensional Shear-Wave Viscoelastographic Estimation by System Identification for Prostate Cancer Localization. Ultrasound in Medicine & Biology.  <a href="https://doi.org/10.1016/j.ultrasmedbio.2025.07.025" target="_blank">10.1016/j.ultrasmedbio.2025.07.025 </a> </li> 
@@ -126,10 +126,10 @@ Conferences (selected)
 
 Dissertations
 =====
-
-* S. Turco, “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”, PhD thesis, ISBN 978-90-386-4424-0 (2018)
-* S. Turco, “DCE-MRI dispersion analysis for quantitative angiogenesis imaging in prostate cancer”, PDEng final report, ISBN 978-90-444-1335-9 (2015)
-
+<ol reversed>
+<li> S. Turco, “Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis”, PhD thesis, ISBN 978-90-386-4424-0 (2018) </li>
+<li>> S. Turco, “DCE-MRI dispersion analysis for quantitative angiogenesis imaging in prostate cancer”, PDEng final report, ISBN 978-90-444-1335-9 (2015)</li>
+</ol>
 
 
 
