@@ -9,9 +9,9 @@ excerpt: "Are you a student interested in a project on signal or image processin
 ---
 
 Are you a student interested in a project on signal or image processing for biomedical applications? 
-We have student's projects (bachelor end projects, master internships and theses, erasmus exchanges) available in severak application areas. 
+We have student's projects (bachelor end projects, master internships and theses, erasmus exchanges) available in several application areas. 
 
-For more info, drop me a message at s.turco@tue.nl, or check our lab page section on <a href="https://www.tue.nl/en/research/research-groups/signal-processing-systems/biomedical-diagnostics-lab/education/student-projects" target="_blank">student's projects </a>.
+For more info, drop me a message at s.turco@tue.nl, or check our lab page section on <a href="https://assets.w3.tue.nl/w/fileadmin/content/Research/3_Research_Groups/Signal%20Processing%20Systems/Graduation%20Projects%20BMd%20Aug25.pdf?_gl=1*1vkots2*_gcl_au*MTgyNDY0MjExMy4xNzU4NjM3MzMzLjEwMzE3NjkxOTIuMTc1ODYzNzkwNC4xNzU4NjM3OTQx*_ga*MTAxMzE4NzU5My4xNzQ5ODIzNDQ4*_ga_JN37M497TT*czE3NjMzNjY2ODMkbzQ5JGcxJHQxNzYzMzY2Njg5JGo1NCRsMCRoMA.." target="_blank">student's projects </a>.
 
 ### Quantitative ultrasound imaging for tissue characterization 
 
