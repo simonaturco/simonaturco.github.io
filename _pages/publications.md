@@ -34,6 +34,7 @@ Patents
 Books and book chapters
 =====
 <ol reversed>
+
 <li>	F. I. Kandi, C. Dinis Fernandes, D.L. van den Kroonenberg, A.W. Postema,  J. Oddens, H. Wijkstra, S. Turco, M. Mischi "Contrast Ultrasound Dispersion Imaging (CUDI)" in Atlas of the ultrasound in Urology, Andrology and Nefrology, Martino and Galosi, SPRINGER, in press. (Book chapter) </li>
 <li>	S. Turco, P.Chen, A. El Kaffas, A. Lyshchik, M. Mischi, “Ultrasound contrast agents: Microvascular characterization” in Innovative Ultrasound Imaging Techniques: Biomedical Applications, L. Bridal, Ed. ISTE Wiley: Encyclopaedia of Sciences (chapter), 2024. (Book chapter) </li>
 <li>	R. Barr, S. Turco, and H. Wijkstra, “Prostate: malignant lesions” in Specialty Imaging: Fundamentals of CEUS, A. Lyshchik, Ed., ed: Elsevier, 2019 (Book chapter).  </li>
@@ -43,6 +44,7 @@ Books and book chapters
 Journal papers
 =====
 <ol reversed>
+<li> J.R. Haakma, S. Turco, E. Esselaar, M. Mischi, E. Peri, "A deep learning strategy to estimate the sweat rate per gland from digital sweat sensing", Discover Sensors 2:9, 2026.<a href="https://link.springer.com/article/10.1007/s44397-026-00040-6#Abs1" target="_blank">https://doi.org/10.1007/s44397-026-00040-6</a> </li> 
 <li> Wang, T., Zhang, Y., Chen, J., Chen, P., Kandi, F., Yao, J., Wu, Q., Turco, S., Mischi, M. and Huang, P., 2025. Ultrasound Localization Microscopy in Identifying High-Risk Carotid Plaque Using Low-Frame-Rate Ultrasound Imaging. Ultrasound in Medicine & Biology. <a href="https://doi.org/10.1016/j.ultrasmedbio.2025.08.030" target="_blank">10.1016/j.ultrasmedbio.2025.08.030</a> </li> 
 <li> Bakkes, T.H., Dekker, A.J.D.B., van der Stam, J.A., Kaymak, U., Mischi, M., Bouwman, R.A. and Turco, S., 2025. Validation of the advanced alert monitor in a Dutch hospital using local optimization and refinement of the outcome definition. International Journal of Medical Informatics, 201, p.105930. <a href="https://doi.org/10.1016/j.ijmedinf.2025.105930" target="_blank">10.1016/j.ijmedinf.2025.105930 </a> </li> 
 <li> Li, X., Delberghe, F., Turco, S., Mills, D., Wallace, K., Valvano, G., Zwart, W., Forsberg, F., van den Kroonenberg, D.L., Wijkstra, H. and Mischi, M., 2025. Three-Dimensional Shear-Wave Viscoelastographic Estimation by System Identification for Prostate Cancer Localization. Ultrasound in Medicine & Biology.  <a href="https://doi.org/10.1016/j.ultrasmedbio.2025.07.025" target="_blank">10.1016/j.ultrasmedbio.2025.07.025 </a> </li> 
