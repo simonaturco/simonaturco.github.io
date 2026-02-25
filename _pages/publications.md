@@ -27,9 +27,9 @@ Data
 Patents
 =====
 <ol reversed>
+<li>A. Sivadas, S. Turco, and M. Mischi, "Estimating spatial fields in a biological tissue," Patent TUe.P2025-5100-NL, 2025. </li>
 <li>X. Li, M. Mischi, and S. Turco, "Systems and Methods for Estimating Nonlinear Shear-Wave of Soft-Tissue", Patent TUOE.P2025P1/00648954. 2025. </li>
 <li>M. Mischi, S. Turco, and A. Janssen, "Method and System for Identifying Tumor Tissue using MRI time-intensity curves to determine characteristics of contrast agents," Patent TUE-162/PROV, 2013. </li>
-<li>A. Sivadas, S. Turco, and M. Mischi, "Estimating spatial fields in a biological tissue," Patent TUe.P2025-5100-NL, 2025. </li>
 </ol>
 
 Books and book chapters
