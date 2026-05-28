@@ -57,6 +57,7 @@ A further improvement on the detection and classification performance is obtaine
 * Anouk van Diepen (PhD student)
 * Tom Bakkes (PhD student)
 * Liming Hao (former visiting PhD student)
+* Amin Sabbah (former master student)
 * Nishith Chennakeshava (PhD student)
 * Pierre Woerlee (part-time professor)
 * Massimo Mischi (full professor, head of BM/d)
