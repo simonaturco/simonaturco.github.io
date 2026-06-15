@@ -45,6 +45,9 @@ Books and book chapters
 Journal papers
 =====
 <ol reversed>
+<li> van de Kamp, L., Weller, D., Thijssen, R., Hunnekens, B., Bakkes, T., Turco, S., den Uil, C., Oomen, T., van de Wouw, N. Reducing Annotation Effort in Patient-Ventilator Asynchrony Detection With Distance-Based Clustering. IEEE Open Journal of Control Systems, 5, pp.289-302, 2026. <a href="https://doi.org/10.1109/OJCSYS.2026.3685094" target="_blank">10.1109/OJCSYS.2026.3685094</a></li>
+<li> Ramaekers, M., Dinis Fernandes, C., Li, X., Schipper, R.J., Turco, S., de Hingh, I.H.J.T., Nederend, J., Mischi, M., Luyer, M.D.P. Visualizing Periampullary Tumors with Intraductal Ultrasound utilizing an Intracardiac Echocardiography Catheter: A Feasibility Study. Ultrasound in Medicine &amp; Biology, 2026. <a href="https://doi.org/10.1016/j.ultrasmedbio.2026.02.022" target="_blank">doi.org/10.1016/j.ultrasmedbio.2026.02.022</a></li>
+<li> van Diepen, A., Bakkes, T.H.G.F., De Bie, A.J.R., Bouwman, R.A., Woerlee, P.H., Mischi, M., Turco, S. Estimation of respiratory system parameters using an extended equation of motion during mandatory mechanical ventilation. Biomedical Signal Processing and Control, 2026. <a href="https://doi.org/10.1016/j.bspc.2026.109770" target="_blank">doi.org/10.1016/j.bspc.2026.109770</a></li>
 <li> Delberghe, F., Li, X., van den Kroonenberg, D.L., Turco, S., Zwart, W., Valvano, G., Jager, A., Postema, A.W., Wijkstra, H., Oddens, J.R., Mischi, M. Development of a quantitative multiparametric ultrasound and deep learning classifier for the detection of prostate cancer, European Radiology, 2026  <a href="https://doi.org/10.1007/s00330-026-12323-y" target="_blank">doi.org/10.1007/s00330-026-12323-y</a></li>
 <li> J.R. Haakma, S. Turco, E. Esselaar, M. Mischi, E. Peri, "A deep learning strategy to estimate the sweat rate per gland from digital sweat sensing", Discover Sensors 2:9, 2026.<a href="https://link.springer.com/article/10.1007/s44397-026-00040-6#Abs1" target="_blank">doi.org/10.1007/s44397-026-00040-6</a> </li> 
 <li>Wijntjes, P.*, Kandi, F.I.*, Dassen, S.*, Beijnsberger, L., Chen, P., Sui, J., van der Ven, M., van Laar, J., van der Hout-van der Jagt, B., Turco, S., Monen, L., Mischi, M. Towards quantitative CEUS assessments of ex-vivo feto-placental (micro)vasculature: A feasibility study, WFUMB Ultrasound Open, 2025 (*shared first autorship) <a href="https://doi.org/10.1016/j.wfumbo.2025.100099" target="_blank">doi.org/10.1007/s44397-026-00040-6</a></li>
@@ -91,9 +94,10 @@ Journal papers
 <li> Carpi, F., Frediani, G., Turco, S., & De Rossi, D. (2011). Bioinspired tunable lens with muscle-like electroactive elastomers. Advanced Functional Materials, 21(21), 4152–4158. <a href="https://doi.org/10.1002/adfm.20110125" target="_blank">https://doi.org/10.1002/adfm.20110125 </a> </li>
 </ol>
 
-Conferences (selected)
+Conference contributions (selected)
 =====
 <ul>
+  <li>Barbagini, A., Turco, S., Muehlsteff, J., Mischi, M. (2026, April). Comparison of frame-rate enhancement strategies for brachial pulse wave velocity estimation by ultrafast ultrasound. In 2026 IEEE Medical Measurements & Applications (MeMeA).</li>
   <li>A. Sivadas, S. Turco, H. Beerlage, H. Wijkstra, M. Mischi, "Improved System Identification in Contrast Ultrasound Dispersion Imaging for Cancer Diagnostics". in 2025 IEEE International Ultrasonics Symposium (IUS).</li>
   <li>A. Barbagini, S. Turco, R. Shevchenko, J. Muehlsteff, M. Mischi, "Pulse Wave Velocity Estimation in the Brachial Artery by Ultra-Fast Ultrasound: In-Silico Study". in 2025 IEEE International Ultrasonics Symposium (IUS).</li>
   <li>X. Li, S. Turco, M. Zwart, H. Wijkstra, M. Mischi, "Identification of Local Nonlinear Shear-Wave Dynamics in Prostate Cancer Using Volterra Kernels". in 2025 IEEE International Ultrasonics Symposium (IUS).</li>
