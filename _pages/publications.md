@@ -17,6 +17,13 @@ You can also find my articles on <u><a href="https://scholar.google.it/citations
   {% include archive-single.html %}
 {% endfor %} -->
 
+Code
+=====
+<ul>
+  <li><a href="https://github.com/tue-bmd/multiphysics-ultrasound-models/tree/main" target="_blank" rel="noopener noreferrer">multiphysics-ultrasound-models</a>: Computational studies toward multiphysics ultrasound.</li>
+  <li><a href="https://github.com/tue-bmd/pva-multitask" target="_blank" rel="noopener noreferrer">pva-multitask</a>: Code for "Multi-Task Learning for the Detection of Patient-Ventilator Asynchrony".</li>
+</ul>
+
 Data
 =====
 <ol reversed>
@@ -102,6 +109,8 @@ Journal papers
 Conference contributions (selected)
 =====
 <ul>
+  <li>N. P. C. M. Gerards, C. Yang, Z. Liu, M. C. M. Rutten, S. Turco, M. Mischi, "Modeling Recirculation in Thermodilution Curves for Circulating Blood Volume Determination". In Proceedings of the 34th European Signal Processing Conference (EUSIPCO), 2026, pp. 1422-1426. <a href="https://eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0001422.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
+  <li>A. Sabbah, T. H. G. F. Bakkes, A. De Bie, M. Mischi, S. Turco, "Multi-Task Learning for the Detection of Patient-Ventilator Asynchrony". In Proceedings of the 34th European Signal Processing Conference (EUSIPCO), 2026, pp. 1726-1730. <a href="https://eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0001726.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
   <li>Barbagini, A., Turco, S., Muehlsteff, J., Mischi, M. (2026, April). Comparison of frame-rate enhancement strategies for brachial pulse wave velocity estimation by ultrafast ultrasound. In 2026 IEEE Medical Measurements & Applications (MeMeA).</li>
   <li>A. Sivadas, S. Turco, H. Beerlage, H. Wijkstra, M. Mischi, "Improved System Identification in Contrast Ultrasound Dispersion Imaging for Cancer Diagnostics". in 2025 IEEE International Ultrasonics Symposium (IUS).</li>
   <li>A. Barbagini, S. Turco, R. Shevchenko, J. Muehlsteff, M. Mischi, "Pulse Wave Velocity Estimation in the Brachial Artery by Ultra-Fast Ultrasound: In-Silico Study". in 2025 IEEE International Ultrasonics Symposium (IUS).</li>
