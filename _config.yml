@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Simona Turco's page"
 title_separator          : "-"
 name                     : &name "Simona Turco"
-description              : &description "Associate professor at Biomedical Diagnostics research lab, Signal Processing Systems group, Eindhoven University of Techonology"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Associate professor at Biomedical Diagnostics research lab, Signal Processing Systems group, Eindhoven University of Technology"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://simonaturco.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "simona_square.jpg"
   name             : "Simona Turco"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant professor at the Biomedical Diagnostics lab,
+  bio              : "Associate professor at the Biomedical Diagnostics lab,
                      Signal Processing Systems group,
                      Electrical Engineering"
   location         : "Eindhoven, the Netherlands"
@@ -192,6 +192,32 @@ exclude:
   - README
   - tmp
   - vendor
+  # Keep template examples and their downloads out of the published site.
+  - _pages/archive-layout-with-content.md
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/publications.html
+  - _pages/talks.html
+  - _pages/talkmap.html
+  - _pages/terms.md
+  - _publications
+  - _talks
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - talkmap.py
+  - files/bibtex1.bib
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
 keep_files:
   - .git
   - .svn
@@ -225,13 +251,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
   research:
     output: true

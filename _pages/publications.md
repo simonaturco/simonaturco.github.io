@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="https://scholar.google.it/citations?user=Rnp5hNMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+My publications can also be found on <a href="https://scholar.google.it/citations?user=Rnp5hNMAAAAJ&amp;hl=en">my Google Scholar profile</a>, while my code is available through the <a href="https://github.com/tue-bmd" target="_blank" rel="noopener noreferrer">BM/d lab's GitHub repositories</a>.
 
 
 <!-- I think below is used to link this page to all files in the folder "publications". If you want to do a full list of publications in one page, then it might be sufficient to write Here -->
