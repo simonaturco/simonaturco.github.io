@@ -12,7 +12,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.research_line %} class="research-line-page"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

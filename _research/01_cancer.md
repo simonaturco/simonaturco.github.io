@@ -16,7 +16,6 @@ A central theme is the characterization of tumor vasculature: how blood vessels 
 ### MOMENTUM — Nanobubble-enhanced ultrasound for cancer diagnostics
 
 **Funding:** NWO Open Technology Programme
-
 **My role:** Main applicant and project leader
 
 MOMENTUM investigates nanobubble-enhanced ultrasound as a tool for improved cancer diagnostics. Nanobubbles offer opportunities to probe tissue beyond the vascular space and, through molecular targeting, obtain information about cancer-specific markers. The project builds on our work in pharmacokinetic modelling and quantitative ultrasound, with clinical and research partners supporting its development toward clinical application.
@@ -33,7 +32,7 @@ We develop methods to quantify contrast-enhanced ultrasound and combine its vasc
 
 Our work spans contrast transport analysis, motion compensation, microvascular imaging, and the integration of complementary ultrasound biomarkers.
 
-[Explore quantitative ultrasound research](/portfolio/04_quantitativeUS/)
+[Quantitative CEUS research](/portfolio/04_quantitativeUS/)· [multiparametric US research](/portfolio/08_multiparametricUS/)
 
 ### Nanobubble kinetics and molecular targeting
 
@@ -43,7 +42,7 @@ We investigate the distinctive kinetics of nanobubble contrast agents, including
 
 This research supports the quantitative assessment of nanobubble transport, tissue distribution, and molecular binding, and provides a foundation for MOMENTUM.
 
-[Explore nanobubble imaging research](/portfolio/06_Nanobubbles/)
+[Nanobubble imaging research](/portfolio/06_Nanobubbles/)
 
 ### Multiphysics ultrasound modelling
 
@@ -57,16 +56,6 @@ The repository contains simulation studies, methodological descriptions, and rep
 
 ## Selected earlier work
 
-### Pharmacokinetic modelling of functional and molecular imaging
-
-**Doctoral research, completed in 2018**
-
-My doctoral research developed models describing the transport, leakage, and binding of contrast agents for quantitative cancer imaging. This included Magnetic Resonance Dispersion Imaging (MRDI), which characterizes contrast transport in tissue, and models for quantifying the binding of targeted ultrasound microbubbles.
-
-These methods established a foundation for subsequent work in quantitative MRI, ultrasound molecular imaging, and nanobubble kinetics.
-
-[Explore the research](/portfolio/01_pk_modeling/) · [Read my PhD thesis](https://pure.tue.nl/ws/portalfiles/portal/88738712/20180117_Turco.pdf)
-
 ### Multiparametric MRI and radiogenomics
 
 **Focus:** Connecting quantitative imaging features with prostate cancer biology.
@@ -75,7 +64,18 @@ This work extracted spatial and temporal features from multiparametric MRI and i
 
 By linking imaging features with tissue transcriptomics, we also investigated the biological processes underlying the observed imaging patterns, exploring the potential for non-invasive markers of tumor aggressiveness.
 
-[Explore MRI and radiogenomics research](/portfolio/03_MRI_radiomics_genomics/)
+[MRI and radiogenomics research](/portfolio/03_MRI_radiomics_genomics/)
+
+### Pharmacokinetic modelling of functional and molecular imaging
+
+_Doctoral research, completed in 2018_
+
+My doctoral research developed models describing the transport, leakage, and binding of contrast agents for quantitative cancer imaging. This included Magnetic Resonance Dispersion Imaging (MRDI), which characterizes contrast transport in tissue, and models for quantifying the binding of targeted ultrasound microbubbles.
+
+These methods established a foundation for subsequent work in quantitative MRI, ultrasound molecular imaging, and nanobubble kinetics.
+
+[PhD research summary](/portfolio/01_pk_modeling/) · [Read my PhD thesis](https://pure.tue.nl/ws/portalfiles/portal/88738712/20180117_Turco.pdf)
+
 
 ## Publications and resources
 
