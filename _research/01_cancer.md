@@ -32,7 +32,7 @@ We develop methods to quantify contrast-enhanced ultrasound and combine its vasc
 
 Our work spans contrast transport analysis, motion compensation, microvascular imaging, and the integration of complementary ultrasound biomarkers.
 
-[Quantitative CEUS research](/portfolio/04_quantitativeUS/)· [multiparametric US research](/portfolio/08_multiparametricUS/)
+[Quantitative CEUS research](/portfolio/04_quantitativeUS/)· [multiparametric US research](/_portfolio/08_multiparametricUS.md)
 
 ### Nanobubble kinetics and molecular targeting
 
