@@ -2,6 +2,8 @@
 layout: single
 title: "Multiparametric ultrasound for prostate cancer imaging"
 permalink: /portfolio/multiparametric-ultrasound/
+redirect_from:
+  - /portfolio/08_multiparametricUS/
 collection: portfolio
 author_profile: true
 research_line: true
@@ -16,16 +18,16 @@ excerpt: "Combining quantitative information about tissue structure, blood flow,
 
 <p class="research-line__lead">Combining quantitative information about tissue structure, blood flow, and mechanical properties to support prostate cancer detection and localization.</p>
 
-<nav aria-label="On this page" id="contents"><p><strong>On this page</strong></p><ul>
+<nav aria-label="On this page" id="contents"><p><strong>On this page</strong></p><ol class="research-line__contents-list">
 <li><a href="#overview">Overview</a></li>
 <li><a href="#combining-vascular-and-mechanical-information">Vascular and mechanical biomarkers</a></li>
-<li><a href="#from-quantitative-maps-to-cancer-probability">Deep learning classifier</a></li>
-<li><a href="#more-reliable-measurements-of-tissue-mechanics">Robust mechanical measurements</a></li>
+<li><a href="#from-quantitative-maps-to-cancer-probability">From quantitative maps to cancer probability</a></li>
+<li><a href="#more-reliable-measurements-of-tissue-mechanics">Dealing with noise in SWE</a></li>
 <li><a href="#mapping-prostate-viscosity-in-three-dimensions">3D viscosity mapping</a></li>
 <li><a href="#next-steps">Next steps</a></li>
 <li><a href="#selected-publications">Selected publications</a></li>
 <li><a href="#contributors-and-partners">Contributors and partners</a></li>
-</ul></nav>
+</ol></nav>
 
 ## Overview
 
