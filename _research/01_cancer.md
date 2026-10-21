@@ -1,29 +1,82 @@
 ---
+layout: single
 title: "Cancer imaging"
-excerpt: "<br/><img src='/images/mri_cover.jpg' width='400px' align='right'>  Cancer is a global health challenge. Timely and accurate detection and diagnosis, together with effective therapy monitoring are essential in the fight against cancer. Based on the established link between cancer and the formation of (neo)vessels to support tumor growth (angiogenesis), several imaging modality have been developed to detect early angiogenic changes. Non-invasive, radiation-free ultrasound and MRI imaging are particularly interesting for angiogenesis imaging. However, mostly qualitative assessment is currently performed in the clinical routine, possibly missing important information hidden in these rich spatio-temporal imaging sets. In this line of research, we develop methods for quantification of MRI and US imaging, and extraction of effective cancer biomarkers. I strive to combine model-driven and data-driven approaches to obtain interpretable, physics-based biomarkers for improving cancer diagnostics."
+permalink: /research/01_cancer/
+author_profile: true
 collection: research
+excerpt: "Quantitative ultrasound and MRI for cancer characterization, combining physical modelling, machine learning, and molecular imaging.<br/><img src='/images/mri_cover.jpg' width='400' alt='MRI image illustrating cancer imaging research'>"
 ---
 
-### Multiparametric MRI for prostate cancer imaging
-Prostate cancer is the second most common cancer in men worldwide. Prostate cancer often progresses slowly and may not cause noticeable symptoms in its early stages. However, when left untreated, it can become aggressive and spread to other parts of the body. Multiparametric Magnetic Resonance Imaging (mpMRI) has emerged as a powerful tool in the diagnosis and management of prostate cancer. This advanced imaging technique combines multiple MRI sequences to provide detailed and comprehensive information about the prostate gland. It combines a T2-weighted sequence for detailed anatomical images of the prostate, with Diffusion-Weighted Imaging (DWI), evaluating the movement of water molecules in tissues, and Dynamic contrast-Enhanced Imaging (DCE-MRI), which is based on injection of a contrast agent to probe tumor perfusion and vascular permeability. The latter is particularly interesting to assess angiogenesis, an hallmark of cancer growth, which results in the formation of an (abnormal) vascular network feeding the tumor.
+My research focuses on extracting quantitative information from medical images to improve cancer detection, characterization, and treatment monitoring. I combine physical and physiological models with machine learning to develop interpretable imaging biomarkers.
 
-To provide a quantitative method to analyze DCE-MRI, we developed <a href="https://simonaturco.github.io/portfolio/01_pk_modeling" target="_blank"> Magnetic Resonance Dispersion Imaging (MRDI)</a>, a method providing simultaneous assessment of the vascular architecture and permeability, with several advantages compared to well-known analysis by Tofts' model. MRDI provides interpretable, quantitative features for cancer diagnostics.
+A central theme is the characterization of tumor vasculature: how blood vessels are organized, how contrast agents move through them, and how these properties relate to tumor biology. Using ultrasound and MRI, we investigate complementary aspects of tissue structure, vascular function, mechanical properties, and molecular targeting.
 
-To boost the diagnostic accuracy, we propose a <a href="https://simonaturco.github.io/portfolio/03_MRI_radiomics_genomics" target="_blank"> radiomic approach</a> combining features extracted from MRDI with texture analysis of all three mpMRI series. Additionally, we seek a link between the imaging features extracted from MRI and the genomics/transcriptomics of prostate cancer tissue by a <a href="https://simonaturco.github.io/portfolio/03_MRI_radiomics_genomics" target="_blank"> radiogenomic analysis</a>. This provides a basis to possibly infer genomic markers from non-invasive imaging in the future.
+## Current projects
 
+### MOMENTUM — Nanobubble-enhanced ultrasound for cancer diagnostics
 
-### Quantitative contrast-enhanced ultrasound
-Contrast-enhanced ultrasound (CEUS) is a powerful diagnostic tool provide exquisite characterization of the vasculature by the injection of ultrasound contrast agents. These are composed by microbubbles with a gas core encapsulated by a shell. Because of their non linear response, their backscatter ultrasound intensity can be distinguished from that of surrounding tissues, using clever image formation and processing strategies. Over the years, within the BM/d group, several methods have been developed for quantitative analysis of CEUS loops, ranging from dispersion modeling of the contrast agents transport, to spatiotemporal analysis by different similarity measures and system identification strategies. All these quantification techniques are referred to as contrast ultrasound dispersion imaging (CUDI).
+**Funding:** NWO Open Technology Programme
 
-This line of research focuses on further improving <a href="https://simonaturco.github.io/portfolio/04_quantitativeUS" target="_blank">CEUS quantification</a>, and optimally combining CUDI with other quantitative imaging strategies (e.g texture analysis, shear wave elastography) by interpretable machine learning to improve diagnosis of several solid tumors.
+**My role:** Main applicant and project leader
 
-### Ultrasound molecular imaging
-While microbubbles used for standard CEUS enable exquisite visualization of the vasculature, it lacks the specificity of molecular contrast agents. By decorating the microbubbles shell with targeting ligands, <a href="https://simonaturco.github.io/portfolio/01_pk_modeling" target="_blank"> ultrasound molecular imaging</a> has become possible in the past decade. These novel agents can bind to molecular targets on the vessel wall, thus providing specific enhancement where the molecular targets is over-expressed. In this line of research, we adopt a pharmacokinetic modeling approach to describe the transport and accumulation of these novel contrast agents, enabling the extraction of quantitative parameters related to binding, which can be used for diagnosis and therapy monitoring.
+MOMENTUM investigates nanobubble-enhanced ultrasound as a tool for improved cancer diagnostics. Nanobubbles offer opportunities to probe tissue beyond the vascular space and, through molecular targeting, obtain information about cancer-specific markers. The project builds on our work in pharmacokinetic modelling and quantitative ultrasound, with clinical and research partners supporting its development toward clinical application.
 
-The pharmacokinetic approach previously adopted for MRDI and to describe the transport of targeted microbubbles, is further extended to describe the more complex kinetics and distributions of <a href="https://simonaturco.github.io/portfolio/06_Nanobubbles" target="_blank"> nanobubble ultrasound contrast agents</a>. Being about 10 times smaller than conventional microbubbles, these novel agents exhibit deeper penetration in the capillary network and may cross the vascular endothelium, making them suitable to reach targets beyond the vasculature. One example is the prostate-specific membrane antigen (PSMA), which is over-expressed on prostate cancer cells. In this line of research, we extract parameters related to extravasation and binding to characterize tumor tissue.
+[Project announcement](/posts/2025/10/15/otp_momentum/) · [Nanobubble imaging research](/portfolio/06_Nanobubbles/)
 
+## Research lines
 
+### Quantitative and multiparametric ultrasound
 
-<!-- ![description image](/images/name_image.ext "Optional title"){: .align-right width="300px"} -->
+**Focus:** Combining vascular, structural, and mechanical information for tissue characterization.
 
-<!-- Cancer is a global health challenge. Timely and accurate detection and diagnosis, together with effective therapy monitoring are essential in the fight against cancer. Based on the established link between cancer and the formation of (neo)vessels to support tumor growth (angiogesis), several imaging modality have been developed to detect early angiogenic changes. Non-invasive, radiation-free ultrasound and MRI imaging are particularly interesting for angiogenesis imaging. However, mostly qualitative assessment is currently performed in the clinical routing, possibly missing important information hidden in these rich spatio-temporal imaging sets. In my research, I developed methods for quantification of MRI and US imaging, and extraction of effective cancer biomarkers. I strive to combine model-driven and data-driven approaches, to obtain interpretable, physics-based biomarkers for improving cancer diagnostics.  -->
+We develop methods to quantify contrast-enhanced ultrasound and combine its vascular information with complementary measurements from B-mode imaging and shear-wave elastography. Through physical modelling and machine learning, we investigate how these measurements can support cancer localization and characterization.
+
+Our work spans contrast transport analysis, motion compensation, microvascular imaging, and the integration of complementary ultrasound biomarkers.
+
+[Explore quantitative ultrasound research](/portfolio/04_quantitativeUS/)
+
+### Nanobubble kinetics and molecular targeting
+
+**Focus:** Modelling nanobubble transport, tissue distribution, and molecular binding.
+
+We investigate the distinctive kinetics of nanobubble contrast agents, including the appearance of a second enhancement wave after injection. We develop pharmacokinetic models to characterize this behaviour and investigate parameters associated with the retention of PSMA-targeted nanobubbles in experimental prostate cancer models.
+
+This research supports the quantitative assessment of nanobubble transport, tissue distribution, and molecular binding, and provides a foundation for MOMENTUM.
+
+[Explore nanobubble imaging research](/portfolio/06_Nanobubbles/)
+
+### Multiphysics ultrasound modelling
+
+**Focus:** Understanding what complementary ultrasound measurements can reveal about tissue properties.
+
+This computational work investigates the relationships between vascular transport, tissue mechanics, and ultrasound measurements. Through reduced simulation models, we examine how shared tissue properties and acquisition effects influence parameter estimation, and when combining measurements provides additional information.
+
+The repository contains simulation studies, methodological descriptions, and reproducible analyses.
+
+[Explore the models and code](https://github.com/tue-bmd/multiphysics-ultrasound-models)
+
+## Selected earlier work
+
+### Pharmacokinetic modelling of functional and molecular imaging
+
+**Doctoral research, completed in 2018**
+
+My doctoral research developed models describing the transport, leakage, and binding of contrast agents for quantitative cancer imaging. This included Magnetic Resonance Dispersion Imaging (MRDI), which characterizes contrast transport in tissue, and models for quantifying the binding of targeted ultrasound microbubbles.
+
+These methods established a foundation for subsequent work in quantitative MRI, ultrasound molecular imaging, and nanobubble kinetics.
+
+[Explore the research](/portfolio/01_pk_modeling/) · [Read my PhD thesis](https://pure.tue.nl/ws/portalfiles/portal/88738712/20180117_Turco.pdf)
+
+### Multiparametric MRI and radiogenomics
+
+**Focus:** Connecting quantitative imaging features with prostate cancer biology.
+
+This work extracted spatial and temporal features from multiparametric MRI and investigated their value for prostate cancer detection and characterization. It included modelling contrast-agent transport, developing radiomic classifiers, and automating prostate segmentation.
+
+By linking imaging features with tissue transcriptomics, we also investigated the biological processes underlying the observed imaging patterns, exploring the potential for non-invasive markers of tumor aggressiveness.
+
+[Explore MRI and radiogenomics research](/portfolio/03_MRI_radiomics_genomics/)
+
+## Publications and resources
+
+Related articles, conference papers, code, and datasets are collected on my [publications and resources page](/publications/).
