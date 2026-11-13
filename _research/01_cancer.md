@@ -89,6 +89,12 @@ These methods established a foundation for subsequent work in quantitative MRI, 
 [PhD research summary](/portfolio/01_pk_modeling/) · [Read my PhD thesis](https://pure.tue.nl/ws/portalfiles/portal/88738712/20180117_Turco.pdf)
 
 
+## PhD theses
+
+- **Simona Turco (2018):** [Pharmacokinetic modeling in cancer: from functional to molecular imaging of angiogenesis](https://pure.tue.nl/ws/files/88738712/20180117_Turco.pdf).
+- **Peiran Chen (2023):** [Hemodynamic quantifications by contrast-enhanced ultrasound: from in-vitro modelling to clinical validation](https://pure.tue.nl/ws/portalfiles/portal/297639802/20230602_Chen_P._hf.pdf).
+- **Xueting Li (2025):** [Ultrasound shear-wave visco-hyperelastography for prostate cancer localization](https://research.tue.nl/p/en/research-outputs/ultrasound-shear-wave-visco-hyperelastography-for-prostate-cancer).
+
 ## Publications and resources
 
 Related articles, conference papers, code, and datasets are collected on my [publications and resources page](/publications/).

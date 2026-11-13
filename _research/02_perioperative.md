@@ -59,6 +59,7 @@ Building on earlier work on cuff-based measurements, the PISANO project explores
 
 - **Tom Bakkes (2025):** [Machine learning for clinical decision support in perioperative and intensive care](https://pure.tue.nl/ws/portalfiles/portal/353886332/20250403_Bakkes_hf.pdf).
 - **Anouk Waeijen-van Diepen (2025):** [Modeling & analysis of patient-ventilator interactions](https://pure.tue.nl/ws/portalfiles/portal/353695427/20250403_Waeijen_van_Diepen_hf.pdf).
+- **Eveline Mestrom (2023):** [Early warning systems in clinical care: towards new approaches to improve patient deterioration detection](https://pure.tue.nl/ws/portalfiles/portal/295633561/20230418_CO_Mestrom_hf.pdf).
 - **Laura Bogatu (2022):** [PhD thesis on hemodynamic monitoring](https://pure.tue.nl/ws/portalfiles/portal/203595959/20220609_Bogatu_hf.pdf).
 
 ## Publications and resources
