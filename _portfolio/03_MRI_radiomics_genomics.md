@@ -84,10 +84,10 @@ Using a unique dataset of prostate cancer patients who underwent mpMRI and whose
 
 ## Selected publications and resources
 
-1. Dinis Fernandes C, Mischi M, Wijkstra H, et al. **Radiomic combination of spatial and temporal features extracted from DCE-MRI for prostate cancer detection.** IEEE EMBC, 2021. [Read the paper](https://doi.org/10.1109/EMBC46164.2021.9630015).
+1. Dinis Fernandes C, Mischi M, Wijkstra H, Barentsz JO, Heijmink SWTPJ, Turco S. **Radiomic combination of spatial and temporal features extracted from DCE-MRI for prostate cancer detection.** IEEE EMBC, 2021. [Read the paper](https://doi.org/10.1109/EMBC46164.2021.9630015).
 2. Turco S, Blach H, Dinis Fernandes C, et al. **Deep learning for prostate zonal segmentation robust to multicenter data.** ISMRM, 2022, abstract 2832. [Read the abstract](https://archive.ismrm.org/2022/2832.html).
-3. Dinis Fernandes C, Schaap A, Kant J, et al. **Radiogenomics analysis linking multiparametric MRI and transcriptomics in prostate cancer.** Cancers, 2023. [Read the paper](https://doi.org/10.3390/cancers15123074).
-4. Jager A, Oddens JR, Postema AW, et al. **Is there an added value of quantitative DCE-MRI by magnetic resonance dispersion imaging for prostate cancer diagnosis?** Cancers, 2024. [Read the paper](https://doi.org/10.3390/cancers16132431).
+3. Dinis Fernandes C, Schaap A, Kant J, …, Turco S. **Radiogenomics analysis linking multiparametric MRI and transcriptomics in prostate cancer.** Cancers, 2023. [Read the paper](https://doi.org/10.3390/cancers15123074).
+4. Jager A, Oddens JR, Postema AW, …, Turco S. **Is there an added value of quantitative DCE-MRI by magnetic resonance dispersion imaging for prostate cancer diagnosis?** Cancers, 2024. [Read the paper](https://doi.org/10.3390/cancers16132431).
 
 The modelling underlying MRDI is described on the [pharmacokinetic modelling research page](/portfolio/01_pk_modeling/). Related articles and conference papers are collected on my [publications and resources page](/publications/).
 

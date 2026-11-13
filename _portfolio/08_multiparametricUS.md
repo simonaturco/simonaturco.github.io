@@ -135,7 +135,7 @@ We also aim to model B-mode, CEUS, and SWE acquisitions jointly, moving beyond t
 ## Selected publications
 
 1. Chen P, Turco S, Wang Y, et al. **Can 3D Multiparametric Ultrasound Imaging Predict Prostate Biopsy Outcome?** Ultrasound in Medicine & Biology, 2024. [Read the paper](https://doi.org/10.1016/j.ultrasmedbio.2024.04.007).
-2. Delberghe F, Li X, van den Kroonenberg DL, et al. **Development of a quantitative multiparametric ultrasound and deep learning classifier for the detection of prostate cancer.** European Radiology, 2026. [Read the paper](https://doi.org/10.1007/s00330-026-12323-y).
+2. Delberghe F, Li X, van den Kroonenberg DL, Turco S, et al. **Development of a quantitative multiparametric ultrasound and deep learning classifier for the detection of prostate cancer.** European Radiology, 2026. [Read the paper](https://doi.org/10.1007/s00330-026-12323-y).
 3. Li X, Turco S, Aarts RM, Wijkstra H, Mischi M. **Delayed matrix pencil method for local shear wave viscoelastographic estimation.** Computer Methods and Programs in Biomedicine Update, 2024. [Read the paper](https://doi.org/10.1016/j.cmpbup.2024.100156).
 4. Li X, Delberghe F, Turco S, et al. **Three-Dimensional Shear-Wave Viscoelastographic Estimation by System Identification for Prostate Cancer Localization.** Ultrasound in Medicine & Biology, 2025. [Read the paper](https://doi.org/10.1016/j.ultrasmedbio.2025.07.025).
 
