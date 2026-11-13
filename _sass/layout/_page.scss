@@ -59,6 +59,18 @@
     font-size: 1em;
   }
 
+  /* Compact the team, collaborator, and funding lists at the end of project pages. */
+  #contributors-and-partners ~ ul {
+    li {
+      margin-bottom: 0.15em;
+      line-height: 1.4;
+    }
+
+    li > p {
+      margin-bottom: 0;
+    }
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;

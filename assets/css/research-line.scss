@@ -160,3 +160,24 @@ html[data-theme="dark"] .research-line {
 
 /* Keep the overview diagram compact, with its original available through the figure link. */
 .research-line > figure:first-of-type { width: 100%; max-width: 520px; margin-left: auto; margin-right: auto; }
+
+/* Keep each overview image below its domain title and contained in that domain. */
+.research-line__domain {
+  display: flow-root;
+
+  > img {
+    float: left;
+    width: 45%;
+    max-width: 400px;
+    height: auto;
+    margin: 0 24px 20px 0;
+  }
+}
+
+@media (max-width: 650px) {
+  .research-line__domain > img {
+    float: none;
+    width: 100%;
+    margin: 0 0 20px;
+  }
+}

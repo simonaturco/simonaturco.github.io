@@ -18,8 +18,8 @@ My research combines physical and physiological models with machine learning. Tw
 {% for entry in site.data.research %}
 {% assign domain = entry[1] %}
 <section class="research-line__domain" aria-labelledby="domain-{{ entry[0] }}">
-  <img src="{{ domain.image | relative_url }}" alt="{{ domain.image_alt }}" loading="lazy" decoding="async" />
   <h2 id="domain-{{ entry[0] }}"><a href="{{ domain.url | relative_url }}">{{ domain.title }}</a></h2>
+  <img src="{{ domain.image | relative_url }}" alt="{{ domain.image_alt }}" width="400" loading="lazy" decoding="async" />
   <p>{{ domain.summary }}</p>
   <a class="research-line__domain-link" href="{{ domain.url | relative_url }}">Explore {{ domain.title | downcase }} <span aria-hidden="true">&rarr;</span></a>
 </section>
