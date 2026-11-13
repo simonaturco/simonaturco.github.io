@@ -14,8 +14,10 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-{% if page.research_line %}
+{% if page.research_line or page.research_navigation %}
 <link rel="stylesheet" href="{{ base_path }}/assets/css/research-line.css"/>
+{% endif %}
+{% if page.research_line %}
 <script defer src="{{ base_path }}/assets/js/research-line.js"></script>
 {% endif %}
 

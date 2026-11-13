@@ -161,6 +161,17 @@ html[data-theme="dark"] .research-line {
 /* Keep the overview diagram compact, with its original available through the figure link. */
 .research-line > figure:first-of-type { width: 100%; max-width: 520px; margin-left: auto; margin-right: auto; }
 
+/* A compact project navigation box, without changing the rest of a domain page. */
+.research-line--navigation nav {
+  padding: 14px 18px;
+  margin: 0 0 24px;
+
+  p { margin-bottom: 8px; }
+  ol.research-line__contents-list { gap: 4px 28px; }
+  ol.research-line__contents-list > li { font-size: 14px; line-height: 1.4; }
+  a { font-size: 14px; }
+}
+
 /* Keep each overview image below its domain title and contained in that domain. */
 .research-line__domain {
   display: flow-root;

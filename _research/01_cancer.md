@@ -4,12 +4,24 @@ title: "Cancer imaging"
 permalink: /research/01_cancer/
 author_profile: true
 collection: research
+research_navigation: true
 excerpt: "Quantitative ultrasound and MRI for cancer characterization, combining physical modelling, machine learning, and molecular imaging.<br/><img src='/images/mri_cover.jpg' width='400' alt='MRI image illustrating cancer imaging research'>"
 ---
 
 My research focuses on extracting quantitative information from medical images to improve cancer detection, characterization, and treatment monitoring. I combine physical and physiological models with machine learning to develop interpretable imaging biomarkers.
 
 A central theme is the characterization of tumor vasculature: how blood vessels are organized, how contrast agents move through them, and how these properties relate to tumor biology. Using ultrasound and MRI, we investigate complementary aspects of tissue structure, vascular function, mechanical properties, and molecular targeting.
+
+<div class="research-line research-line--navigation">
+<nav aria-labelledby="cancer-projects-label">
+<p id="cancer-projects-label"><strong>Explore this domain</strong></p>
+<ol class="research-line__contents-list">
+{% for project in site.data.research.cancer.projects %}
+<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+{% endfor %}
+</ol>
+</nav>
+</div>
 
 ## Current projects
 
