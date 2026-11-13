@@ -26,7 +26,7 @@ My research combines physical and physiological models with machine learning. Tw
 {% endfor %}
 </div>
 
-## Go directly to a project
+## Go directly to a research topic
 
 <div class="research-line__project-groups">
 {% for entry in site.data.research %}
