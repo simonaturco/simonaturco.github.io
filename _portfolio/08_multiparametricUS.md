@@ -159,7 +159,8 @@ We also aim to model B-mode, CEUS, and SWE acquisitions jointly, moving beyond t
 - Angiogenesis Analytics (PCa Vision)
 - GE HealthCare 
 - Thomas Jefferson University 
-- Leiden University Medical Center 
+- Leiden University Medical Center
+
 ### Funding
 
 - NWO-TTW — LOCATE project, grant 15282. PI: Jaap den Toonder.
