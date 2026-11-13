@@ -1,0 +1,6 @@
+{% assign domain = site.data.research[include.domain] %}
+<ul class="research-line__project-list">
+  {% for project in domain.projects %}
+  <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+  {% endfor %}
+</ul>

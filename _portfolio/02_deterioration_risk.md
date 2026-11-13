@@ -14,9 +14,13 @@ In a first study, we investigated whether <a href="https://journals.plos.org/plo
 
 We are currently working on improving the prediction model by investigating different machine learning classifiers, and analyzing the contribution that features from different perioperative phases have on the prediction results.
 
+### PhD thesis
+
+This research is described in [Tom Bakkes’s PhD thesis, *Machine learning for clinical decision support in perioperative and intensive care* (2025)](https://pure.tue.nl/ws/portalfiles/portal/353886332/20250403_Bakkes_hf.pdf), which brings together work on deterioration prediction and patient–ventilator asynchrony detection.
+
 ### Contributors and partners
 *BM/d lab*:
-* Tom Bakkes (PhD student)
+* Tom Bakkes (former PhD student, now postdoctoral researcher)
 * Eveline Mestrom (former PhD student)
 * Uzay Kaymak (part-time professor)
 * Arthur Bouwman (part-time professor)

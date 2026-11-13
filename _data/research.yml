@@ -1,0 +1,30 @@
+cancer:
+  title: Cancer imaging
+  url: /research/01_cancer/
+  image: /images/mri_cover.jpg
+  image_alt: MRI illustrating quantitative cancer imaging
+  summary: Quantitative ultrasound and MRI to characterize tissue structure, vascular function, and mechanical properties, combining physical models with machine learning.
+  projects:
+    - title: Pharmacokinetic modelling
+      url: /portfolio/01_pk_modeling/
+    - title: Multiparametric MRI and radiogenomics
+      url: /portfolio/03_MRI_radiomics_genomics/
+    - title: Quantitative contrast-enhanced ultrasound
+      url: /portfolio/04_quantitativeUS/
+    - title: Multiparametric ultrasound
+      url: /portfolio/multiparametric-ultrasound/
+    - title: Nanobubble imaging
+      url: /portfolio/06_Nanobubbles/
+perioperative:
+  title: Perioperative monitoring
+  url: /research/02_perioperative/
+  image: /images/periop_cover2.png
+  image_alt: Patient monitoring in perioperative care
+  summary: Models and signal analysis to predict patient deterioration, understand patient–ventilator interactions, and improve hemodynamic measurements.
+  projects:
+    - title: Prediction of patient deterioration
+      url: /portfolio/02_deterioration_risk/
+    - title: Patient mechanical ventilation
+      url: /portfolio/05_modeling_ventilation/
+    - title: Hemodynamic monitoring
+      url: /portfolio/07_hemodynamic_monitoring/

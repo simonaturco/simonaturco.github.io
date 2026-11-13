@@ -24,6 +24,7 @@ excerpt: "Combining quantitative information about tissue structure, blood flow,
 <li><a href="#from-quantitative-maps-to-cancer-probability">From quantitative maps to cancer probability</a></li>
 <li><a href="#more-reliable-measurements-of-tissue-mechanics">Dealing with noise in SWE</a></li>
 <li><a href="#mapping-prostate-viscosity-in-three-dimensions">3D viscosity mapping</a></li>
+<li><a href="#nonlinear-shear-wave-dynamics">Nonlinear shear-wave dynamics</a></li>
 <li><a href="#next-steps">Next steps</a></li>
 <li><a href="#selected-publications">Selected publications</a></li>
 <li><a href="#contributors-and-partners">Contributors and partners</a></li>
@@ -39,7 +40,7 @@ These measurements describe different aspects of the same tissue. Cancer can alt
 | --- | --- |
 | B-mode imaging | Tissue appearance, anatomy, and prostate boundaries |
 | Contrast-enhanced ultrasound | Contrast transport, perfusion, and microvascular organization |
-| Shear-wave elastography | Tissue stiffness and, with dedicated analysis, viscous behaviour |
+| Shear-wave elastography | Tissue stiffness and, with dedicated analysis, viscosity and nonlinear mechanical behaviour |
 
 In this research line, we develop methods to extract quantitative biomarkers from ultrasound and combine them through machine learning. Our work connects clinical studies of prostate cancer localization with the development of more reliable measurements of tissue mechanics.
 
@@ -111,6 +112,20 @@ Combining viscosity and velocity did not significantly improve detection in this
 
 <figure  style="max-width: 600px; margin-left: auto; margin-right: auto;"><a aria-label="Open figure at full size: Three-dimensional and cross-sectional prostate maps comparing benign and malignant histology with viscosity and shear-wave velocity estimates." href="/images/mpus/mpus-viscosity-li-2025-fig4.jpg" rel="noopener" target="_blank"><img alt="Three-dimensional and cross-sectional prostate maps comparing benign and malignant histology with viscosity and shear-wave velocity estimates." decoding="async" height="2048" loading="lazy" src="/images/mpus/mpus-viscosity-li-2025-fig4.jpg" width="3472"/></a><figcaption>Histopathology, viscosity, and shear-wave velocity maps for a representative patient, shown in three-dimensional and cross-sectional views. <a href="https://doi.org/10.1016/j.ultrasmedbio.2025.07.025">Li et al. (2025), Figure 4</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · <a href="/images/mpus/mpus-viscosity-li-2025-fig4.jpg" rel="noopener" target="_blank">View full-size figure</a></figcaption></figure>
 
+## Nonlinear shear-wave dynamics
+
+<p class="question"><em>Can nonlinear shear-wave dynamics provide information about prostate cancer beyond tissue stiffness?</em></p>
+
+Conventional SWE usually focuses on wave speed as a measure of tissue stiffness. Our Volterra-kernel approach also characterizes how the shear-wave signal changes between neighbouring locations, capturing linear and nonlinear aspects of local wave propagation. We evaluated the method in simulations, gelatin phantoms, and a prostate cancer cohort of 90 patients with registered histopathology.
+
+<div class="finding" markdown="1">
+**Main finding:** Classifiers based on the linear and quadratic kernel features achieved AUCs of **0.60** and **0.66**, respectively, compared with **0.54** using the linear shear modulus.
+</div>
+
+The linear kernel was associated with the linear shear modulus, while the quadratic kernel reflected both viscosity and nonlinearity. These features therefore carry information about the combined mechanical response; they do not separately quantify viscosity and nonlinear elasticity. The results support further investigation of nonlinear shear-wave dynamics as a source of complementary biomarkers for mpUS.
+
+<p class="paper-link" markdown="1">[Li et al., IEEE Transactions on Medical Imaging, 2026](https://doi.org/10.1109/TMI.2026.3749706)</p>
+
 ## Next steps
 
 Our aim is to combine informative vascular, structural, and mechanical biomarkers in reproducible methods for prostate cancer localization. Priorities include improving SWE acquisition and parameter estimation, evaluating which features add complementary information, and translating probability maps into clinically useful candidate lesions for targeted biopsy.
@@ -123,6 +138,8 @@ We also aim to model B-mode, CEUS, and SWE acquisitions jointly, moving beyond t
 2. Delberghe F, Li X, van den Kroonenberg DL, et al. **Development of a quantitative multiparametric ultrasound and deep learning classifier for the detection of prostate cancer.** European Radiology, 2026. [Read the paper](https://doi.org/10.1007/s00330-026-12323-y).
 3. Li X, Turco S, Aarts RM, Wijkstra H, Mischi M. **Delayed matrix pencil method for local shear wave viscoelastographic estimation.** Computer Methods and Programs in Biomedicine Update, 2024. [Read the paper](https://doi.org/10.1016/j.cmpbup.2024.100156).
 4. Li X, Delberghe F, Turco S, et al. **Three-Dimensional Shear-Wave Viscoelastographic Estimation by System Identification for Prostate Cancer Localization.** Ultrasound in Medicine & Biology, 2025. [Read the paper](https://doi.org/10.1016/j.ultrasmedbio.2025.07.025).
+
+5. Li X, Turco S, Zwart M, Beerlage HP, Wijkstra H, Mischi M. **Identification of local nonlinear shear-wave dynamics using Volterra kernels: application to prostate cancer detection.** IEEE Transactions on Medical Imaging, Early Access, 2026. [Read the paper](https://doi.org/10.1109/TMI.2026.3749706).
 
 ## Contributors and partners
 

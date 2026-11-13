@@ -24,6 +24,10 @@ Motivated by this, we proposed a method for creating a large, realistic, and lab
 This sophisticated model of the lungs and ventilator is also investigated for a better estimation of patient's respiratory efforts. In fact, although various pressure-based techniques are available for estimating inspiratory effort at the bedside, uncertainty surrounds the accuracy of their estimations. This uncertainty arises because these techniques are largely based in a simplified linear model of the respiratory system, neglecting crucial factors such as the gas compressibility of air and the viscoelasticity and nonlinearities inherent in the respiratory system.
 We thus performed an  <a href="https://www.cell.com/heliyon/pdf/S2405-8440(23)00817-4.pdf" target="_blank"> in-silico study to compare pressure-based estimation techniques </a> and assess  their accuracy using a more sophisticated model of the respiratory system and ventilator. The study evaluated the impact of several parameters on the accuracy of these techniques, including the patient's respiratory mechanics, positive end-expiratory pressure (PEEP), inspiratory pressure of the ventilator, gas compressibility of air, viscoelasticity of the respiratory system, and the strength of inspiratory effort. We identified the whole-breath occlusion technique as the most accurate in terms of performance. It exhibited the lowest average and maximum errors across all patient archetypes. On the other hand, techniques based on esophageal pressure demonstrated errors associated with the viscoelastic element in the model, resulting in higher errors compared to occlusion-based methods. The accuracy of esophageal pressure-based techniques was found to be highly dependent on the patient's pathology and ventilator settings, potentially evolving over time as the patient recovers or deteriorates.
 
+### Estimating respiratory system parameters
+
+In more recent work, we investigated an extended equation of motion for estimating respiratory system parameters during mandatory mechanical ventilation. This complements the work on respiratory effort and lung–ventilator modelling described above. [Read the published paper by van Diepen et al., Biomedical Signal Processing and Control, 2026](https://doi.org/10.1016/j.bspc.2026.109770).
+
 ### Automatic detection of patient-ventilator asynchronies
 The intricate interplay between patients and mechanical ventilators in clinical settings can sometimes lead to disruptions in the synchronization of their respiratory efforts, giving rise to a phenomenon known as patient-ventilator asynchronies (PVAs). This refers to the mismatches in timing, flow, or volume coordination between a patient's spontaneous breathing efforts and the assistance provided by the mechanical ventilator. Patient-ventilator asynchronies have attracted increasing attention within the realm of critical care, as their occurrence can have significant implications for patient outcomes. These asynchronies can compromise the effectiveness of ventilation, contribute to patient discomfort, and, in severe cases, may lead to respiratory muscle fatigue or injury. They have also been associated with increased length of ICU stay and mortality. In present clinical practice, PVAs are typically identified and explored through the visual assessment conducted by intensive care physicians. Nevertheless, this method has notable limitations. Firstly, visual inspection is time-consuming and susceptible to subjective interpretation. Secondly, maintaining continuous monitoring through visual means is impractical, potentially leading to the oversight of a significant number of PVAs. Third, accurate detection and classification of PVAs by visual analysis requires trained clinical staff.
 Here we propose, a <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9175796" target="_blank"> machine learning approach for automatic detection and classification of PVAs </a>. The proposed method is based on a U-net architecture, apprioprately adjusted for 1-D signals (measured pressure, flow and volume). Based on these input signals, the network learnt to recognized the start and end of patient's respiratory efforts. Comparing these timings with the mechanical ventilator triggering and cycling, it is possible to detect and classify different PVAs. The proposed method was able to detect patient efforts with a sensitivity and precision of 98.6% and 97.3% for the inspiratory efforts, and 97.7% and 97.2% for the expiratory efforts, and demonstrated high classification accuracy (90-98%) across all types of PVAs.
@@ -52,10 +56,19 @@ A further improvement on the detection and classification performance is obtaine
 <span style="font-size:0.7em;"><i>GAN framework for generating a large datasets of realistic ventilation data with labels.</i>.</span>
 </div>
 
+### Reducing the need for expert annotations
+
+Training asynchrony-detection models requires expert-labelled ventilation waveforms, which are time-consuming to obtain. In a semi-supervised approach, we use distance-based clustering to select waveforms for annotation and project the resulting labels onto similar data. The study reduced annotation effort by more than 75% while achieving classification performance close to training with fully labelled data on the evaluated San Matteo dataset. Application to a separate Maasstad Hospital dataset also highlighted the importance of annotation consistency. [Read van de Kamp et al., IEEE Open Journal of Control Systems, 2026](https://doi.org/10.1109/OJCSYS.2026.3685094).
+
+### PhD theses
+
+- **Anouk Waeijen-van Diepen (2025):** [Modeling & analysis of patient-ventilator interactions](https://pure.tue.nl/ws/portalfiles/portal/353695427/20250403_Waeijen_van_Diepen_hf.pdf).
+- **Tom Bakkes (2025):** [Machine learning for clinical decision support in perioperative and intensive care](https://pure.tue.nl/ws/portalfiles/portal/353886332/20250403_Bakkes_hf.pdf).
+
 ### Contributors and partners
 *BM/d lab*:
-* Anouk van Diepen (PhD student)
-* Tom Bakkes (PhD student)
+* Anouk Waeijen-van Diepen (former PhD student)
+* Tom Bakkes (former PhD student, now postdoctoral researcher)
 * Liming Hao (former visiting PhD student)
 * Amin Sabbah (former master student)
 * Nishith Chennakeshava (PhD student)

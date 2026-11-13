@@ -1,0 +1,49 @@
+diff --git a/_pages/publications.md b/_pages/publications.md
+index 0029bca..d20a626 100644
+--- a/_pages/publications.md
++++ b/_pages/publications.md
+@@ -52,6 +52,7 @@ Books and book chapters
+ Journal papers
+ =====
+ <ol reversed>
++<li>Li, X., Turco, S., Zwart, M., Beerlage, H.P., Wijkstra, H., Mischi, M. Identification of local nonlinear shear-wave dynamics using Volterra kernels: application to prostate cancer detection. IEEE Transactions on Medical Imaging, Early Access, 2026. <a href="https://doi.org/10.1109/TMI.2026.3749706" target="_blank">10.1109/TMI.2026.3749706</a></li>
+ <li>Jerry, E. E., Afonso, M. A., De Vries, J. C., Akkermans, A., Turco, S., Bouwman, A. R., Nienhuijs, S. W. Transition from Mandatory to Discretionary Nurse-Measured MEWS Assessment in a Continuously Monitored Surgical Ward: Diagnostic Performance of Wearable-Derived Early Warning Scores. Journal of Clinical Monitoring and Computing, 2026. <a href="https://doi.org/10.1007/s10877-026-01488-y" target="_blank">10.1007/s10877-026-01488-y</a></li>
+ <li>van Hoeven, M., Gensen, C., Overdevest, E., Gerritse, M., Turco, S., Bouwman, A. Innovative use of quality indicators during cardiopulmonary bypass: a goal directed perfusion strategy using real-time area under the threshold analysis. Perfusion, 2026. <a href="https://doi.org/10.1177/02676591261471110" target="_blank">10.1177/02676591261471110</a></li>
+ <li>Barbagini, A., Turco, S., Shevchenko, R., Muehlsteff, J., Mischi, M. Local Brachial Pulse Wave Velocity Estimation via Ultrafast Ultrasound: Comparison Between Three Different Approaches. IEEE Transactions on Instrumentation and Measurement, 75, pp.1-15, 2026. <a href="https://doi.org/10.1109/TIM.2026.3712979" target="_blank">10.1109/TIM.2026.3712979</a></li>
+diff --git a/images/.DS_Store b/images/.DS_Store
+index 34fbfd45ed895127a5d1218eb0a0e6648b6a59c1..d3e4fce63bdc1c839a0b98ba45ca04de1a8cddd4 100644
+GIT binary patch
+literal 8196
+zcmeHMYitx%6u#fIr89PbX)REY$!;yLV6oeWN<nbhmY1}GY)iMLSa)}Zc4RtJcV@Rd
+zQd47mn`nF`{vtkqHfl6t42u3T@fA%&B8h~kiTKA~{J{kD%-mVR7W%_z4CvhC-ZSUi
+zbI!~;`<=NxQ^pt)d99hTI>wkt)1yiiEms-dzBjKJLLjLi3bJR+$&5Q=8Pm>Op&JUq
+z41^g7GZ1DV%s`ldYa;`6W_v@N<=p4H;TmQj%)tLL1K#@~O4Fn9fKGDizdC5~TL7Zv
+zB=!egQy<{lL<1TR=p?7UDf#5x0|HY7Ee5zb?MFRzqVa%Ea>~saxH&^`X9OJz{JWD~
+z)K_PSa~iH;2Eq(nnE|hNuV5y#*)Yw^`}bp+G1G9|SnMQ(vhs>Km6cLuRpq|qh&`Tk
+z({A2Lq;q>cuE(~`Oz}FM*<<MALrQIjZMkW~(sRCnq3NVD*k@RpJ)W@hmge}jNxmUT
+zqBNw`9XZk(YiW$OwzN((Mvt_&#2TY*?JW}%lDMFuY5ne@1Lmk@KgEMU@FHMyX9V?h
+zX+)ZnH8b>tp892hnogmEf2b%+76UyM1S(25RLOJIzEuB!JeV@Fwv{vv>qE+Xhoaq1
+z?5><%peXyYwwWKboFSz;n>Mp~Gwte|Ow&^)*?cFPvrTiC?HI0MTm30lKj;=6m29O3
+z96RTB_|AqDCGY6Fb@F8t^iJ|fu4=ry?Hu#mID7P*L$o0t<8ez<^A<&xty<G^$DQ%b
+z+q>_bp08Bb$hGpqzJlQx8B^~aH#B#oKka07OEawD0ZO^$8v6}BCsm_S>ao(J`gBd*
+z;w3jNRn?i=MK7s*#&|GqxQCPmQRMfiR~sbdeQ{8uhwQdB&!gt=sP*bfQQYgvJ90X$
+zTr96v8zm(z_BfOv?xIO<mJ~<oIY7AJrfu@=qM}K?W;&yrT+}YF7nL1SUx7!?g|+fs
+zqLj+oqoWjz!(|DzQ&c_|@AGclm3G{nW4cv*q=dRn6bGD<bWYznPN*zebcv$>!;;)H
+z*{m6^o%6GCPra)4d#*NVnyyjMOX?Qas7bX~RK6n{#jpwn)dBq$yd1=aA`lzmtNCTa
+ziIFq@m7im&wx|$L@61!#3bvNcxE{8j>hEFp3_Hr+W5?OY>??MXon}9?-`IKfJG;Ox
+zq6{)>uoTO%22F^e8SAhf8?X^O(1Tv=K?Vn4!h#JK6L<)dco>i2Sv-g5@d94KYj_=R
+z;w?<!102JL_zYj*OMH!Qa2mhhEPll~T);*AAyf-Xgk{2VVTI5n#Do^1RoEhI6?O^z
+zLPi)CMtB55u?F{*MkX90zO>kauY$tV)r&2%b=&s4<*sYK*uJ0VmDi263l=VlE??c$
+zwsym&OCaQ!EyDD2`1^=2sS_XZJ}PFSmDiyh>7|m;56)JON~Kr2;<Tq-f3qA>DyV2U
+zyJ97=bEsfAdrM;^q6k!{oQ*X{WTlL%Q1WeWYa|u{)4ooYm2#>_zPC{&mIX|rgWP!4
+zCH~Vm|CXI%XV_VGj-AIGR6#)mt8gpY2-jP%jj-K?Zo+m71K5i}=op592MFmd3OI;E
+zIE+W|C?3ZXc#?4bB3{DFIEq&Z>u(U+r|>r3!Mpef$MFeH;8P#<)A#{D;-?un?k>eK
+z&XwZ0kjz=8Z4HyOi2PE6>x(Pnk6Y*U|C?w3{(pT16+Ug4fiMGqDFZ0)Om-&7WVV-@
+z*K0><-cQpTp57#<z6mXUJ5JPZ$BAD0hap`@N!7E72XvBClF<0qKLq@(Keog3KRo~c
+H8|VL@KEZx-
+
+delta 137
+zcmZp1XfcprU|?W$DortDU=RQ@Ie-{MGqg=C6q~50D8d9}GlIp6Q;L&wlJfI&7$+8L
+zOg4~Vnfy>dX|jd*`Hc<jY>U}BI0TtN8i8uLfrKj%w{0x^&ODi4Mwb(40>c3yW|(Zl
+TBh3Re6J!s_YKG16JTsU9>Hrw^
+
