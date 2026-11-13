@@ -30,9 +30,10 @@ My research combines physical and physiological models with machine learning. Tw
 
 <div class="research-line__project-groups">
 {% for entry in site.data.research %}
+{% assign domain_key = entry[0] %}
 <section aria-labelledby="projects-{{ entry[0] }}">
   <h3 id="projects-{{ entry[0] }}">{{ entry[1].title }}</h3>
-  {% include research-project-links.html domain=entry[0] %}
+  {% include research-project-links.html domain=domain_key %}
 </section>
 {% endfor %}
 </div>
