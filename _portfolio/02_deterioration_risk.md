@@ -102,6 +102,7 @@ The wearable-derived scores showed comparable but modest discrimination. The stu
 
 * Tom Bakkes (former PhD student, now postdoctoral researcher)
 * Eveline Mestrom (former PhD student)
+* Monica Afonso (PhD student)
 * Uzay Kaymak (part-time professor)
 * Arthur Bouwman (part-time professor)
 * Massimo Mischi (full professor, head of BM/d)

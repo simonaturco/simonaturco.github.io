@@ -24,6 +24,7 @@ comments: false
 <li><a href="#automatic-detection-of-patient-ventilator-asynchronies">Automatic detection of patient-ventilator asynchronies</a></li>
 <li><a href="#combining-simulated-and-clinical-data">Combining simulated and clinical data</a></li>
 <li><a href="#generating-realistic-annotated-waveforms-with-ventgan">Generating realistic annotated waveforms with VentGAN</a></li>
+<li><a href="#multi-task-learning-with-limited-annotations">Multi-task learning with limited annotations</a></li>
 <li><a href="#reducing-the-need-for-expert-annotations">Reducing the need for expert annotations</a></li>
 <li><a href="#phd-theses">PhD theses</a></li>
 <li><a href="#selected-publications-and-resources">Selected publications and resources</a></li>
@@ -57,7 +58,17 @@ On the other hand, techniques based on esophageal pressure demonstrated errors a
 
 ## Estimating respiratory system parameters
 
-In more recent work, we investigated an extended equation of motion for estimating respiratory system parameters during mandatory mechanical ventilation. This complements the work on respiratory effort and lung–ventilator modelling described above. [Read the published paper by van Diepen et al., Biomedical Signal Processing and Control, 2026](https://doi.org/10.1016/j.bspc.2026.109770).
+In more recent work, we investigated an extended equation of motion for estimating respiratory system parameters during mandatory mechanical ventilation. Conventional approaches often assume constant airway resistance and neglect the viscoelastic behaviour of the respiratory system. The extended model accounts for both flow-dependent resistance and viscoelasticity, allowing these contributions to be estimated from the measured pressure and flow waveforms.
+
+We compared the extended model with the conventional equation of motion and a model incorporating turbulent resistance, using simulations, test-lung experiments, and clinical measurements from ten patients.
+
+<div class="finding" markdown="1">
+**Main finding:** Across the simulated conditions, the extended model reduced the mean absolute percentage error in the estimated parameters to **3.5%**, compared with **11.5%** for the conventional model and **11.9%** for the turbulent-resistance model.
+</div>
+
+The test-lung experiments and small clinical study further explored the feasibility of estimating these parameters during mandatory ventilation. Together, these results show the importance of accounting for nonlinear resistance and viscoelasticity when interpreting respiratory mechanics.
+
+[Read van Diepen et al., Biomedical Signal Processing and Control, 2026](https://doi.org/10.1016/j.bspc.2026.109770).
 
 ## Automatic detection of patient-ventilator asynchronies
 
@@ -79,12 +90,28 @@ To improve the model, we extended the training by using simulated data produced 
 
 ## Generating realistic annotated waveforms with VentGAN
 
-A further improvement in detection and classification performance was obtained by refining the simulation through a <a href="https://www.sciencedirect.com/science/article/pii/S0169260724001718?via%3Dihub" target="_blank"> generative-adversarial network (GAN) approach (VentGAN)</a>. Although clinical data with good-quality labels is scarce, large ventilation datasets are available without labels. The idea is to learn the characteristics of clinical data which cannot be modeled by the simulator through adversarial learning. By using the simulated data as input, however, we are able to maintain the known timings, and thus generate a more realistic simulated dataset with labels. The idea is summarized schematically by the figure below. With the exception of ineffective efforts, we found that when using the generated data to train the above-mentioned machine learning algorithm for automatic detection and classification of PVAs, we improve both the detection and classification accuracy of all the investigated PVAs.
+A further improvement in detection and classification performance was obtained by refining the simulation through a <a href="https://www.sciencedirect.com/science/article/pii/S0169260724001718?via%3Dihub" target="_blank"> generative-adversarial network (GAN) approach (VentGAN)</a>. Although clinical data with good-quality labels is scarce, large ventilation datasets are available without labels. The idea is to learn the characteristics of clinical data which cannot be modeled by the simulator through adversarial learning. By using the simulated data as input, however, we are able to maintain the known timings, and thus generate a more realistic simulated dataset with labels. The idea is summarized schematically by the figure below. We evaluated the approach by training an asynchrony-detection model on the generated waveforms and testing it on independent, expert-labelled clinical data.
+
+<div class="finding" markdown="1">
+**Main finding:** Training with VentGAN-generated waveforms significantly improved classification of **late cycling, early cycling, and normal breaths**. Delayed inspiration showed no significant improvement, while performance for ineffective efforts decreased, indicating that the benefit depends on the type of asynchrony.
+</div>
 
 <figure style="max-width: 650px; margin-left: auto; margin-right: auto;">
 <a href="/images/gan_pva.png" aria-label="Open figure at full size: GAN approach" target="_blank" rel="noopener"><img src="/images/gan_pva.png" alt="GAN approach" width="2925" height="1628" loading="lazy" decoding="async" /></a>
 <figcaption>GAN framework for generating a large dataset of realistic ventilation data with labels. <a href="/images/gan_pva.png" target="_blank" rel="noopener">View full-size figure</a></figcaption>
 </figure>
+
+## Multi-task learning with limited annotations
+
+In his master's work, Amin Sabbah investigated a multi-task learning approach for detecting patient-ventilator asynchrony. A shared network learns to identify the timing of patient respiratory efforts together with an auxiliary task: identifying the start and end of ventilator cycles. This additional task provides temporal information that can be learned from clinical waveforms without expert PVA annotations.
+
+The model was trained using labelled simulations together with clinical data from Catharina Hospital for the auxiliary task, and evaluated on an independent, expert-labelled dataset from San Matteo Hospital.
+
+<div class="finding" markdown="1">
+**Main finding:** Multi-task learning achieved an average **F1 score of 88.3%** across the four asynchrony types evaluated, compared with **82.4%** for the simulation-trained U-net and **83.0%** for VentGAN-based training in the same comparison.
+</div>
+
+[Read Sabbah et al., EUSIPCO, 2026](https://eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0001726.pdf) · [Explore the code](https://github.com/tue-bmd/pva-multitask).
 
 ## Reducing the need for expert annotations
 
@@ -111,6 +138,11 @@ Application to a separate Maasstad Hospital dataset also highlighted the importa
 6. Hao L, Bakkes THGF, van Diepen A, …, Turco S. **An adversarial learning approach to generate pressure support ventilation waveforms for asynchrony detection.** Computer Methods and Programs in Biomedicine, 2024. [Read the paper](https://doi.org/10.1016/j.cmpb.2024.108175).
 7. van de Kamp L, Weller D, Thijssen R, Hunnekens B, Bakkes T, Turco S, den Uil C, Oomen T, van de Wouw N. **Reducing annotation effort in patient-ventilator asynchrony detection with distance-based clustering.** IEEE Open Journal of Control Systems, 2026. [Read the paper](https://doi.org/10.1109/OJCSYS.2026.3685094).
 8. Sabbah A, Bakkes THGF, De Bie A, Mischi M, Turco S. **Multi-task learning for the detection of patient-ventilator asynchrony.** EUSIPCO, 2026. [Read the paper](https://eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0001726.pdf).
+
+### Code and data
+
+- **Multi-task learning for PVA detection:** [Code accompanying Amin Sabbah's work](https://github.com/tue-bmd/pva-multitask).
+- **Simulated pressure-support ventilation waveforms:** [Annotated dataset from Anouk Waeijen-van Diepen's lung–ventilator model](https://doi.org/10.4121/81220350-0f3d-4e0a-86cf-28c904a1cb09.v1).
 
 ## Contributors and partners
 

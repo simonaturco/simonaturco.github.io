@@ -57,7 +57,7 @@ Motivated by the promising findings, we developed <a href="https://ieeexplore.ie
 
 Besides being able to cross the vessel wall, nanobubbles can also be decorated with ligands on their shell to target specific molecules. One relevant target for prostate cancer is the prostate-specific membrane antigen (PSMA), over-expressed on prostate-cancer cells. It has been established that PSMA-targeted NBs can effectively attach to the receptors of prostate cancer cells, exhibiting an extended retention effect in dual-tumor mouse models.
 
-<figure style="max-width: 650px; margin-left: auto; margin-right: auto;">
+<figure style="width: 60%; max-width: 390px; margin-left: auto; margin-right: auto;">
 <a href="/images/mouse_model.png" aria-label="Open figure at full size: dual tumor mouse model" target="_blank" rel="noopener"><img src="/images/mouse_model.png" alt="dual tumor mouse model" width="1420" height="1199" loading="lazy" decoding="async" /></a>
 <figcaption>Schematic diagram explaining the dual-tumor mouse model. <a href="/images/mouse_model.png" target="_blank" rel="noopener">View full-size figure</a></figcaption>
 </figure>
@@ -110,12 +110,10 @@ MOMENTUM builds on this work to investigate nanobubble-enhanced ultrasound for c
 * 4TU High Tech for a sustainable future, Precision Medicine program
 * NWO Open Technology Programme — MOMENTUM
 
-<figure style="max-width: 650px; margin-left: auto; margin-right: auto;">
-<a href="/images/logo_cwru_tmu.png" aria-label="Open figure at full size: Case Western Reserve University, Toronto Metropolitan University, and 4TU logos" target="_blank" rel="noopener"><img src="/images/logo_cwru_tmu.png" alt="Case Western Reserve University, Toronto Metropolitan University, and 4TU logos" width="1923" height="512" loading="lazy" decoding="async" /></a>
-
-</figure>
-
-<div id="collaborators-and-funders" class="research-line__partner-logos" aria-label="Collaborator and funder logos">
+<div id="collaborators-and-funders" class="research-line__partner-logos research-line__partner-logos--single-row" aria-label="Collaborator and funder logos">
+  <figure class="research-line__partner-logo"><div class="research-line__logo-image"><img src="/images/logos/newlogo.jpg" alt="Case Western Reserve University logo" width="1279" height="617" loading="lazy" decoding="async" /></div></figure>
+  <figure class="research-line__partner-logo"><div class="research-line__logo-image"><img src="/images/logos/tmu-logo-full-colour.jpg" alt="Toronto Metropolitan University logo" width="600" height="390" loading="lazy" decoding="async" /></div></figure>
+  <figure class="research-line__partner-logo"><div class="research-line__logo-image"><img src="/images/logos/4tu-nl-wide.webp" alt="4TU logo" width="490" height="162" loading="lazy" decoding="async" /></div></figure>
   <figure class="research-line__partner-logo"><div class="research-line__logo-image"><img src="/images/logos/nwo.jpeg" alt="NWO — MOMENTUM logo" width="349" height="573" loading="lazy" decoding="async" /></div></figure>
 </div>
 

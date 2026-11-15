@@ -21,7 +21,6 @@ comments: false
 <li><a href="#cuff-based-hemodynamic-assessment">Cuff-based hemodynamic assessment</a></li>
 <li><a href="#local-pulse-wave-velocity-by-ultrasound">Local pulse wave velocity by ultrasound</a></li>
 <li><a href="#temporal-sampling-and-frame-rate-enhancement">Temporal sampling and frame-rate enhancement</a></li>
-<li><a href="#pisano">PISANO</a></li>
 <li><a href="#phd-thesis">PhD thesis</a></li>
 <li><a href="#selected-publications-and-resources">Selected publications and resources</a></li>
 <li><a href="#contributors-and-partners">Contributors and partners</a></li>
@@ -44,6 +43,13 @@ Our earlier work investigated the cuff as a transducer, modelled arterial compli
 <figcaption>Schematic drawing of standard hospital equipment for hemodynamic monitoring. <a href="/images/hemo_intro.png" target="_blank" rel="noopener">View full-size figure</a></figcaption>
 </figure>
 
+Agata Barbagini’s work extends this research by combining ultrasound and cuff-based measurements. In an exploratory study in two ICU patients and one healthy volunteer, we measured the brachial artery upstream and downstream of a cuff during stepwise deflation. The measurements allowed us to examine changes in arterial area, blood flow, and pulse arrival time as the external pressure changed. The responses varied between subjects, motivating further investigation of the interaction between cuff pressure and local arterial function.
+
+<figure style="max-width: 480px; margin-left: auto; margin-right: auto;">
+<a href="/images/hemodynamics/agata-cuff-ultrasound-setup.jpg" aria-label="Open figure at full size: Ultrasound, blood pressure cuff, and ECG measurement setup" target="_blank" rel="noopener"><img src="/images/hemodynamics/agata-cuff-ultrasound-setup.jpg" alt="Ultrasound, blood pressure cuff, and ECG measurement setup" width="3508" height="2480" loading="lazy" decoding="async" /></a>
+<figcaption>Setup for ultrasound-based exploration of vascular responses to cuff pressure, with ECG recorded alongside the ultrasound and cuff signals. From Agata Barbagini’s ESICM poster. <a href="/images/hemodynamics/agata-cuff-ultrasound-setup.jpg" target="_blank" rel="noopener">View full-size figure</a></figcaption>
+</figure>
+
 ## Local pulse wave velocity by ultrasound
 
 Pulse wave velocity describes how fast a pressure wave travels along an artery and provides information about arterial stiffness. Agata Barbagini’s work investigates whether ultrafast ultrasound can measure local pulse wave velocity in the brachial artery without a separate continuous pressure measurement.
@@ -56,6 +62,11 @@ We compared approaches based on wall displacement, tissue Doppler imaging, and a
 
 [Read Barbagini et al., IEEE Transactions on Instrumentation and Measurement, 2026](https://doi.org/10.1109/TIM.2026.3712979).
 
+<figure style="max-width: 650px; margin-left: auto; margin-right: auto;">
+<a href="/images/hemodynamics/agata-brachial-artery-simulation.png" aria-label="Open figure at full size: Simulated brachial artery with blood flow and arterial area waveforms" target="_blank" rel="noopener"><img src="/images/hemodynamics/agata-brachial-artery-simulation.png" alt="Simulated brachial artery with blood flow and arterial area waveforms" width="1895" height="990" loading="lazy" decoding="async" /></a>
+<figcaption>Example of the brachial artery simulation used to investigate ultrasound-based pulse wave velocity estimation. The model represents scatterers in blood, the arterial wall, and surrounding tissue, together with prescribed flow and arterial area waveforms. From Agata Barbagini’s MeMeA 2025 presentation. <a href="/images/hemodynamics/agata-brachial-artery-simulation.png" target="_blank" rel="noopener">View full-size figure</a></figcaption>
+</figure>
+
 ## Temporal sampling and frame-rate enhancement
 
 Estimating pulse wave velocity in a small peripheral artery requires both high spatial and temporal resolution. We investigated alternative processing strategies that increase effective temporal sampling without increasing the ultrasound transmission pulse repetition frequency.
@@ -63,12 +74,6 @@ Estimating pulse wave velocity in a small peripheral artery requires both high s
 The study compared conventional compound-first processing, per-angle motion-first estimation, and time-aligned motion-first estimation using numerical simulations of the brachial artery. Time alignment partially mitigated undersampling, but increased sensitivity to noise. This work identifies sampling and noise robustness as priorities for further development.
 
 [Read Barbagini et al., IEEE MeMeA, 2026](https://doi.org/10.1109/MEMEA69746.2026.11537364).
-
-## PISANO
-
-The PISANO project combines pathophysiological modelling, unobtrusive sensing, monitoring, and artificial intelligence to investigate how standard critical care technology can be used more fully. We explore improved measurement strategies and additional parameters for earlier and more comprehensive assessment of hemodynamic status.
-
-One direction is the integration of ultrasound with cuff-based measurements, connecting local arterial properties with the signals used for non-invasive blood pressure assessment. These approaches are being developed as research methods for improved patient monitoring.
 
 ## PhD thesis
 
