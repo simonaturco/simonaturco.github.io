@@ -52,6 +52,11 @@ This emphasizes the potential value of clinical decision support in postanesthes
 
 </figure>
 
+<figure style="max-width: 700px; margin-left: auto; margin-right: auto;">
+<a href="/images/mestrom-2023-fig1.PNG" aria-label="Open figure at full size: Perioperative pathway showing planned and unanticipated ICU admissions" target="_blank" rel="noopener"><img src="/images/mestrom-2023-fig1.PNG" alt="Perioperative pathway showing planned and unanticipated ICU admissions" width="2100" height="519" loading="lazy" decoding="async" /></a>
+<figcaption>Perioperative care pathway and the distinction between anticipated and unanticipated ICU admission. From Mestrom et al., PLOS ONE, 2023, Figure 1. <a href="https://doi.org/10.1371/journal.pone.0286818">Read the paper</a>. <a href="/images/mestrom-2023-fig1.PNG" target="_blank" rel="noopener">View full-size figure</a></figcaption>
+</figure>
+
 ## Combining different forms of deterioration
 
 We subsequently investigated unanticipated ICU admission and in-hospital mortality both separately and as a combined outcome. The study compared the contribution of perioperative features and the performance of logistic regression with more complex machine learning classifiers.
@@ -64,6 +69,11 @@ The low frequency of deterioration events remains an important limitation. The r
 
 [Read Bakkes et al., Perioperative Medicine, 2024](https://doi.org/10.1186/s13741-024-00420-9).
 
+<figure style="max-width: 750px; margin-left: auto; margin-right: auto;">
+<a href="/images/bakkes-2024-fig1.webp" aria-label="Open figure at full size: ROC, precision–recall, and kappa curves comparing classifiers for perioperative deterioration" target="_blank" rel="noopener"><img src="/images/bakkes-2024-fig1.webp" alt="ROC, precision–recall, and kappa curves comparing classifiers for perioperative deterioration" width="1945" height="628" loading="lazy" decoding="async" /></a>
+<figcaption>Comparison of classifiers for the combined outcome of unanticipated ICU admission and mortality. Precision–recall and kappa curves complement the ROC curves when evaluating these rare events. From Bakkes et al., Perioperative Medicine, 2024, Figure 1. <a href="https://doi.org/10.1186/s13741-024-00420-9">Read the paper</a>. <a href="/images/bakkes-2024-fig1.webp" target="_blank" rel="noopener">View full-size figure</a></figcaption>
+</figure>
+
 ## External validation of early warning models
 
 A prediction model developed in one hospital may perform differently in another. We evaluated the Advanced Alert Monitor (AAM) using electronic medical records from Catharina Hospital, comparing it with the National Early Warning Score (NEWS) and a locally optimized AAM.
@@ -71,6 +81,29 @@ A prediction model developed in one hospital may perform differently in another.
 <div class="finding" markdown="1">
 **Main finding:** The locally optimized AAM outperformed the original AAM and NEWS under both outcome definitions evaluated. Changing the definition of deterioration also changed the relative performance of the original AAM and NEWS.
 </div>
+
+The original outcome included deaths outside the ICU only for patients with a full-code care directive. The adapted outcome included deaths regardless of care directive. Local optimization improved precision across much of the sensitivity range under both definitions.
+
+<figure style="max-width: 750px; margin-left: auto; margin-right: auto;">
+<div class="research-line__precision-recall-panels">
+  <div>
+    <p class="research-line__panel-label">Original outcome definition</p>
+    <a class="research-line__precision-recall-crop research-line__precision-recall-crop--original" href="/images/bakkes-2025-fig4.jpg" aria-label="Open source Figure 4 at full size" target="_blank" rel="noopener"><img src="/images/bakkes-2025-fig4.jpg" alt="Precision–recall curves for the original outcome: AUPRC 16.2% for LO-AAM, 10.1% for AAM, and 8.7% for NEWS" width="2177" height="1149" loading="lazy" decoding="async" /></a>
+  </div>
+  <div>
+    <p class="research-line__panel-label">Adapted outcome definition</p>
+    <a class="research-line__precision-recall-crop research-line__precision-recall-crop--adapted" href="/images/bakkes-2025-fig6.jpg" aria-label="Open source Figure 6 at full size" target="_blank" rel="noopener"><img src="/images/bakkes-2025-fig6.jpg" alt="Precision–recall curves for the adapted outcome: AUPRC 36.6% for LO-AAM, 19.6% for AAM, and 29.5% for NEWS" width="2210" height="1170" loading="lazy" decoding="async" /></a>
+  </div>
+</div>
+<figcaption>The locally optimized AAM (LO-AAM) achieved the highest area under the precision–recall curve under both outcome definitions. Precision–recall panels combined from Bakkes et al., International Journal of Medical Informatics, 2025, Figures 4 and 6. <a href="https://doi.org/10.1016/j.ijmedinf.2025.105930">Read the paper</a>. <a href="/images/bakkes-2025-fig4.jpg" target="_blank" rel="noopener">View source Figure 4</a> · <a href="/images/bakkes-2025-fig6.jpg" target="_blank" rel="noopener">View source Figure 6</a></figcaption>
+</figure>
+
+Feature importance also changed with the outcome definition. Care directives were prominent in the original AAM and the locally optimized model trained on the original outcome. With the adapted outcome, physiological features such as oxygen saturation, heart rate, respiratory rate, and systolic blood pressure became more prominent. This suggests that the choice of outcome influences whether the model emphasizes physiological signs or more static contextual information, such as care directives and admission type.
+
+<figure style="max-width: 750px; margin-left: auto; margin-right: auto;">
+<a href="/images/bakkes-2025-fig7.jpg" aria-label="Open figure at full size: Ten highest-ranked features in AAM, locally optimized AAM, and locally optimized AAM with the adapted outcome" target="_blank" rel="noopener"><img src="/images/bakkes-2025-fig7.jpg" alt="Ten highest-ranked features in AAM, locally optimized AAM, and locally optimized AAM with the adapted outcome" width="2577" height="1155" loading="lazy" decoding="async" /></a>
+<figcaption>Top ten features ranked by absolute model coefficient; labels indicate variable transformations or categories. From Bakkes et al., International Journal of Medical Informatics, 2025, Figure 7. <a href="https://doi.org/10.1016/j.ijmedinf.2025.105930">Read the paper</a>. <a href="/images/bakkes-2025-fig7.jpg" target="_blank" rel="noopener">View full-size figure</a></figcaption>
+</figure>
 
 This work highlights the importance of local validation, model adaptation, and careful definition of the outcome a prediction system is intended to detect.
 

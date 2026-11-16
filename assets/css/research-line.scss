@@ -204,3 +204,43 @@ html[data-theme="dark"] .research-line {
 @media (max-width: 650px) {
   .research-line .research-line__partner-logos--single-row { gap: 8px; }
 }
+
+/* Show only the precision–recall panels, preserving the supplied source files. */
+.research-line .research-line__precision-recall-panels {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 18px;
+}
+.research-line .research-line__panel-label {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0 0 10px;
+}
+.research-line .research-line__precision-recall-crop {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+}
+.research-line .research-line__precision-recall-crop img {
+  position: absolute;
+  top: 0;
+  height: auto;
+  max-width: none;
+}
+/* Pixel bounds retain titles, axes and legends and omit the source panel letters. */
+.research-line .research-line__precision-recall-crop--original {
+  aspect-ratio: 1047 / 1090;
+  img { width: 207.927412%; left: -107.927412%; }
+}
+.research-line .research-line__precision-recall-crop--adapted {
+  aspect-ratio: 1070 / 1110;
+  img { width: 206.542056%; left: -106.542056%; }
+}
+@media (max-width: 650px) {
+  .research-line .research-line__precision-recall-panels {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 22px;
+  }
+}
